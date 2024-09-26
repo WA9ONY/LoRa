@@ -45,7 +45,7 @@ LoRa's combination of long range, low power consumption, and cost-effectiveness 
 
 <HR>
 
-## LoRa Tutorials
+## LoRa YouTube Tutorials
 
 Here are some useful YouTube tutorials to help you get started with LoRa and LoRaWAN:
 
@@ -63,6 +63,8 @@ Here are some useful YouTube tutorials to help you get started with LoRa and LoR
 
 These tutorials offer both conceptual overviews and hands-on guidance for using LoRa and LoRaWAN in IoT projects.
 
+## Free LoRa Tutorials
+
 Here are some excellent free tutorials and resources for learning about LoRa and LoRaWAN:
 
 1. **Semtech Academy for LoRaWAN**: This platform offers a self-paced course on the fundamentals of LoRaWAN. It includes detailed explanations of the protocol, security, and device classes, making it perfect for those who want to develop LoRaWAN applications from the ground up. [Semtech LoRaWAN Academy](https://learn.semtech.com)【9†source】.
@@ -74,6 +76,8 @@ Here are some excellent free tutorials and resources for learning about LoRa and
 4. **Udemy – Free IoT LoRaWAN Tutorial**: This course focuses on using LoRaWAN for IoT applications, and it’s great for understanding the basics of low-power wide-area networks and how they work. [LoRaWAN Free IoT Course on Udemy](https://www.udemy.com)【8†source】.
 
 These tutorials will help you build a solid foundation in LoRa and LoRaWAN and get started with practical projects.
+
+## LoRa Books
 
 Here are some highly recommended books for learning about LoRa and LoRaWAN:
 
@@ -95,3 +99,84 @@ Here are some highly recommended books for learning about LoRa and LoRaWAN:
 These books will help you gain both theoretical knowledge and hands-on experience with LoRa and LoRaWAN technology.
 
 <HR>
+
+## LoRa with the Raspberry Pi Pico
+
+Here are some useful articles on using LoRa with the Raspberry Pi Pico:
+
+1. **Interfacing LoRa with Raspberry Pi Pico**: This guide walks you through setting up LoRa communication with a Raspberry Pi Pico, covering everything from the wiring connections to writing simple sender and receiver programs in the Arduino IDE. It explains how to configure the pins for SPI communication and how to send data using the LoRa library.
+   - Source: [Embedded There](https://embeddedthere.com)【29†source】.
+
+2. **LoRa with Raspberry Pi Pico**: This Elektor Magazine article focuses on using the Pico with a LoRa module and the MicroPython programming language. It offers a detailed look at creating a LoRaWAN node using a SeeedStudio RFM95 module and includes hardware suggestions and code examples.
+   - Source: [Elektor Magazine](https://www.elektormagazine.com)【30†source】.
+
+3. **Add LoRaWAN Support to Raspberry Pi Pico**: This tutorial explains how to use the Raspberry Pi Pico with a LoRaWAN module to connect to The Things Network. It includes setup instructions for hardware and software, covering topics like reading the temperature sensor data and transmitting it via LoRa.
+   - Source: [Raspberry Pi Official Site](https://www.raspberrypi.com)【32†source】.
+
+These articles will help you get started with LoRa on the Raspberry Pi Pico, from basic setups to more advanced LoRaWAN applications.
+
+These books will help you gain both theoretical knowledge and hands-on experience with LoRa and LoRaWAN technology.
+
+<HR>
+
+## LoRa with the Arduino boards
+
+Here are some helpful online articles that explain how to use LoRa with Arduino boards:
+
+1. **Arduino Guide to LoRa® and LoRaWAN®**: This comprehensive guide from the Arduino documentation explains the basics of LoRa and LoRaWAN, including how to set up a LoRa communication system using the Arduino MKR WAN 1310. It walks you through core concepts such as frequency plans, message types, and LoRaWAN security.  
+   - [Arduino Documentation](https://docs.arduino.cc/learn/communication/lorawan-101)【38†source】
+
+2. **Interfacing SX1278 LoRa Module with Arduino**: This detailed tutorial from Circuit Digest covers the setup for both transmitter and receiver sides using the SX1278 LoRa module and Arduino boards (UNO and Nano). It explains the hardware connections, preparing the Arduino IDE, and writing code for wireless communication using the LoRa library.
+   - [Circuit Digest](https://circuitdigest.com)【42†source】
+
+3. **ESP32 with LoRa Using Arduino IDE**: Random Nerd Tutorials provides a step-by-step guide to using LoRa with an ESP32 board in the Arduino IDE. Although the article focuses on ESP32, the example code and setup are highly applicable to using LoRa with Arduino as well. It explains how to send and receive LoRa messages using simple code examples.
+   - [Random Nerd Tutorials](https://randomnerdtutorials.com)【39†source】
+
+4. **How to Interface Arduino with LoRa**: This tutorial from EmbeddedThere focuses on interfacing the SX1278 LoRa module with Arduino UNO. It also includes a project using an LDR sensor to send light intensity data wirelessly via LoRa, offering a hands-on example for setting up basic communication.
+   - [EmbeddedThere](https://embeddedthere.com)【40†source】
+
+5. **Enabling LoRa and LoRaWAN on Arduino and Raspberry Pi**: This article from Seeed Studio shows how to set up a LoRa network using the Arduino-compatible Seeed XIAO SAMD21 and the Wio-E5 LoRaWAN module. It provides clear steps for connecting hardware and preparing the Arduino IDE for LoRa communications.
+   - [Seeed Studio](https://www.seeedstudio.com)【41†source】
+
+These articles will help you set up and explore different LoRa communication projects with Arduino.
+
+
+<HR>
+
+## LoRa Searches
+
+Google
+https://www.google.com/search?q=Lora+with+the+raspberry+pi+pico+tutorial&oq=LoRA&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyDQgCEC4YgwEYsQMYgAQyDwgDEEUYORiDARixAxiABDITCAQQLhiDARivARjHARixAxiABDINCAUQABiDARixAxiABDIHCAYQABiABDINCAcQABiDARixAxiABDIHCAgQABiPAjIHCAkQABiPAtIBCTY0OTNqMGoxNagCCLACAQ&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
+
+YouTube Play lists
+
+LoRa, LoraWAN, Sigfox by Andreas Spiess (35 videos)
+https://www.youtube.com/playlist?list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U
+
+LoRa/LoRaWAN tutorials by Mobilefish.com (68 videos)
+https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g
+
+LoRa Playlist by ShotokuTech (29 videos)
+https://www.youtube.com/playlist?list=PLVPBipeObwMPJCETechV7bX7VlMiDlf1-QCSh9u
+
+LoRa Tutorial | Long Range wireless network by CETech (21 videos)
+https://www.youtube.com/playlist?list=PLZKn4hapodtfZiTGy8VBIwqAwJd7NaIZh
+
+Heltec WiFi Lora 32 Playlist by ShotokuTech (46 video)
+https://www.youtube.com/playlist?list=PLVPBipeObwMP02QIrh3RGMs1BtPTMt19j
+
+LoRa Technology by Semtech Corporation (39 videos)
+https://www.youtube.com/playlist?list=PLDB4a8cM5warylHQ8moUZb_zsq2_RQ9HB
+
+STM32WL - LoRa Guide by TrueStepbyStep (8 videos)
+https://www.youtube.com/playlist?list=PLUTly7gBTFvUR5EuDauE-oRrnKpY6oHTM
+
+LoRa & LoRaWAN Projects by How To Electronics (16 videos)
+https://www.youtube.com/playlist?list=PLwF0yC5nSNDOb1-h5Fvd9ZCu0caHOsEkt
+
+LoRa by Electronics Innovation ( 8 videos)
+https://www.youtube.com/playlist?list=PLmLQ9terIPnk36dsEvNO9rjLMXPEiWD9P
+
+LoRa by Antonello Di Giulio (7 videos)
+https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz
+
