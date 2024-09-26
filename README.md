@@ -6,7 +6,7 @@
   <img width="512" height="512" src="/Images/LoRaBanner3s512.png">   
 </p>
 
-# LoRa: Long Range Radio IoT Projects
+# LoRa: Long Range Wireless IoT Projects
 
 LoRa (Long Range) is a wireless communication technology that enables low-power, long-range data transmission. It is widely used in Internet of Things (IoT) applications for connecting devices over large distances with minimal power consumption. Here’s an overview of LoRa:
 
