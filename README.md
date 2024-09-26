@@ -39,7 +39,7 @@ LoRa's combination of long range, low power consumption, and cost-effectiveness 
 
 ## ChatGPT4o LoRa Course
 
-<P">
+<P>
 <A HREF="https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397">ChatGPT4o LoRa Course</A> by WA9ONY
 </P>
 
