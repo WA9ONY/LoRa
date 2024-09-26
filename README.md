@@ -43,4 +43,51 @@ LoRa's combination of long range, low power consumption, and cost-effectiveness 
 <A HREF="https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397">ChatGPT4o LoRa Course</A> by WA9ONY
 </P>
 
-https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397
+## LoRa Tutorials
+
+Here are some useful YouTube tutorials to help you get started with LoRa and LoRaWAN:
+
+1. **LoRa/LoRaWAN De-Mystified**: This tutorial explains the basic principles of LoRa and LoRaWAN, showcasing practical examples like setting up a LoRa gateway and client. It's a great introduction for beginners.
+   - [Watch it here](https://www.youtube.com/watch?v=hMOwbNUpDQA)【17†source】.
+
+2. **Getting Started with LoRa**: This video demonstrates how to work with LoRa modules, set up a LoRa gateway, and connect LoRa devices to interact with the network.
+   - [Watch it here](https://www.youtube.com/watch?v=IStuUv9eAmE)【18†source】.
+
+3. **LoRa Tutorial | Getting Started with LoRa**: This video covers the features of LoRa, its applications, and how to set up a basic LoRa network.
+   - [Watch it here](https://www.youtube.com/watch?v=jp_2gwBrQc8)【19†source】.
+
+4. **Mobilefish.com LoRa/LoRaWAN Tutorials**: This playlist includes a series of tutorials covering various aspects of LoRa and LoRaWAN, from decibel calculations to advanced topics like spreading factors and data rates.
+   - [Watch the playlist here](https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g)【21†source】【20†source】.
+
+These tutorials offer both conceptual overviews and hands-on guidance for using LoRa and LoRaWAN in IoT projects.
+
+Here are some excellent free tutorials and resources for learning about LoRa and LoRaWAN:
+
+1. **Semtech Academy for LoRaWAN**: This platform offers a self-paced course on the fundamentals of LoRaWAN. It includes detailed explanations of the protocol, security, and device classes, making it perfect for those who want to develop LoRaWAN applications from the ground up. [Semtech LoRaWAN Academy](https://learn.semtech.com)【9†source】.
+
+2. **The Things Network**: This resource provides a comprehensive guide to LoRaWAN, covering topics such as device classes, spreading factors, and adaptive data rates. It also offers a certification program for those wanting to demonstrate their skills. [The Things Network Fundamentals](https://www.thethingsnetwork.org)【11†source】.
+
+3. **Arduino LoRaWAN 101**: If you're into hardware, Arduino's LoRaWAN guide is a great place to start, with practical tutorials for using LoRa with Arduino boards. [Arduino LoRaWAN 101](https://docs.arduino.cc/learn/communication/lorawan-101/)【10†source】.
+
+4. **Udemy – Free IoT LoRaWAN Tutorial**: This course focuses on using LoRaWAN for IoT applications, and it’s great for understanding the basics of low-power wide-area networks and how they work. [LoRaWAN Free IoT Course on Udemy](https://www.udemy.com)【8†source】.
+
+These tutorials will help you build a solid foundation in LoRa and LoRaWAN and get started with practical projects.
+
+Here are some highly recommended books for learning about LoRa and LoRaWAN:
+
+1. **"Building Wireless Sensor Networks Using Arduino"** by Matthijs Kooijman  
+   This book focuses on building wireless sensor networks using LoRa and Arduino. It's a practical guide for hobbyists and engineers interested in deploying LoRaWAN networks with Arduino boards.
+
+2. **"Internet of Things with ESP8266 and LoRa: The Holistic Guide"** by Marco Schwartz  
+   This book takes a project-based approach to building IoT systems using LoRa and the ESP8266 microcontroller. It covers practical implementations of LoRa technology in real-world applications.
+
+3. **"LoRa and LoRaWAN for IoT: How LoRa and LoRaWAN Enable Long-Range Low Power Wireless IoT Solutions"** by Pradeeka Seneviratne  
+   This book provides a thorough understanding of how LoRa and LoRaWAN work, with a focus on their role in the Internet of Things (IoT). It explains key concepts and includes practical projects to help you get started with LoRaWAN networks.
+
+4. **"Practical LoRa Projects for the Internet of Things"** by A. Bhatt, G. Gupta, and B. Giridhar  
+   This book is an excellent resource for developers interested in practical LoRa applications. It covers various projects involving LoRa, such as smart farming, home automation, and environmental monitoring.
+
+5. **"The Internet of Things: Do-It-Yourself at Home Projects for Arduino, Raspberry Pi, and BeagleBone Black"** by Donald Norris  
+   While not exclusively about LoRa, this book offers some great DIY projects involving LoRa modules and how to integrate them with popular platforms like Arduino and Raspberry Pi.
+
+These books will help you gain both theoretical knowledge and hands-on experience with LoRa and LoRaWAN technology.
