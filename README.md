@@ -43,6 +43,8 @@ LoRa's combination of long range, low power consumption, and cost-effectiveness 
 <A HREF="https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397">ChatGPT4o LoRa Course</A> by WA9ONY
 </P>
 
+<HR>
+
 ## LoRa Tutorials
 
 Here are some useful YouTube tutorials to help you get started with LoRa and LoRaWAN:
@@ -91,3 +93,5 @@ Here are some highly recommended books for learning about LoRa and LoRaWAN:
    While not exclusively about LoRa, this book offers some great DIY projects involving LoRa modules and how to integrate them with popular platforms like Arduino and Raspberry Pi.
 
 These books will help you gain both theoretical knowledge and hands-on experience with LoRa and LoRaWAN technology.
+
+<HR>
