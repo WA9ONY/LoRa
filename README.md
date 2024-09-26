@@ -4,7 +4,6 @@
 
 # LoRa: Long Range Radio IoT Projects
 <p align="center">
-# LoRa: Long Range Radio IoT Projects
   <img width="512" height="512" src="/Images/LoRaBanner3s512.png">   
 </p>
 <HR>
