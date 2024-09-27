@@ -77,6 +77,40 @@ Here are some excellent free tutorials and resources for learning about LoRa and
 
 These tutorials will help you build a solid foundation in LoRa and LoRaWAN and get started with practical projects.
 
+<HR>
+
+## LoRa YouTube Play Lists
+
++ LoRa Alliance [playlists](https://www.youtube.com/@loraalliance3333/playlists)
++ Semtech Corporation [playlists](https://www.youtube.com/@SemtechMediacenter/playlists)
++ LoRa/LoRaWAN tutorials by Mobilefish.com ([68 videos](https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g))
++ Heltec WiFi Lora 32 Playlist by ShotokuTech ([46 video](https://www.youtube.com/playlist?list=PLVPBipeObwMP02QIrh3RGMs1BtPTMt19j))
++ LoRa Technology by Semtech Corporation ([39 videos](https://www.youtube.com/playlist?list=PLDB4a8cM5warylHQ8moUZb_zsq2_RQ9HB))
++ LoRa, LoraWAN, Sigfox by Andreas Spiess ([35 videos](https://www.youtube.com/playlist?list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U))
++ LoRa Playlist by ShotokuTech ([29 videos](https://www.youtube.com/playlist?list=PLVPBipeObwMPJCETechV7bX7VlMiDlf1-QCSh9u))
++ LoRa Tutorial | Long Range wireless network by CETech ([21 videos](https://www.youtube.com/playlist?list=PLZKn4hapodtfZiTGy8VBIwqAwJd7NaIZh))
++ LoRa by Dr.Eng.Daniel Amariei ([19 videos](https://www.youtube.com/playlist?list=PLwerlPp_cH3XYUunXDZ9coF6mt35VDbXJ))
++ LoRa & LoRaWAN Projects by How To Electronics ([16 videos](https://www.youtube.com/playlist?list=PLwF0yC5nSNDOb1-h5Fvd9ZCu0caHOsEkt))
++ STM32WL - LoRa Guide by TrueStepbyStep ([8 videos](https://www.youtube.com/playlist?list=PLUTly7gBTFvUR5EuDauE-oRrnKpY6oHTM))
++ LoRa by Electronics Innovation ([8 videos](https://www.youtube.com/playlist?list=PLmLQ9terIPnk36dsEvNO9rjLMXPEiWD9P))
++ LoRa by Antonello Di Giulio ([7 videos](https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz))
+
+<HR>
+
+## LoRa YouTube Videos
+
++ LoRa - Long-Range Radio for IoT | Arduino, ESP32, RPI Pico by DroneBot Workshop (>1 hour [video](https://youtu.be/YQ7aLHCTeeE?si=TpUNBkoe6R7r6Bk5))
+
++ [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=RqNVbNyY0ELCJc_C) by Visual Electric
+
+<HR>
+
+## LoRa Google Searches
+
+Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+pico+tutorial&oq=LoRA&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyDQgCEC4YgwEYsQMYgAQyDwgDEEUYORiDARixAxiABDITCAQQLhiDARivARjHARixAxiABDINCAUQABiDARixAxiABDIHCAYQABiABDINCAcQABiDARixAxiABDIHCAgQABiPAjIHCAkQABiPAtIBCTY0OTNqMGoxNagCCLACAQ&client=ubuntu-chr&sourceid=chrome&ie=UTF-8)
+
+<HR>
+
 ## LoRa Books
 
 Here are some highly recommended books for learning about LoRa and LoRaWAN:
@@ -139,47 +173,3 @@ Here are some helpful online articles that explain how to use LoRa with Arduino 
    - [Seeed Studio](https://www.seeedstudio.com)【41†source】
 
 These articles will help you set up and explore different LoRa communication projects with Arduino.
-
-<HR>
-
-## LoRa Google Searches
-
-Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+pico+tutorial&oq=LoRA&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyDQgCEC4YgwEYsQMYgAQyDwgDEEUYORiDARixAxiABDITCAQQLhiDARivARjHARixAxiABDINCAUQABiDARixAxiABDIHCAYQABiABDINCAcQABiDARixAxiABDIHCAgQABiPAjIHCAkQABiPAtIBCTY0OTNqMGoxNagCCLACAQ&client=ubuntu-chr&sourceid=chrome&ie=UTF-8)
-
-<HR>
-
-## LoRa YouTube Play Lists
-
-+ LoRa, LoraWAN, Sigfox by Andreas Spiess ([35 videos](https://www.youtube.com/playlist?list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U))
-
-+ LoRa/LoRaWAN tutorials by Mobilefish.com ([68 videos](https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g))
-
-+ LoRa Playlist by ShotokuTech ([29 videos](https://www.youtube.com/playlist?list=PLVPBipeObwMPJCETechV7bX7VlMiDlf1-QCSh9u))
-
-+ LoRa Tutorial | Long Range wireless network by CETech ([21 videos](https://www.youtube.com/playlist?list=PLZKn4hapodtfZiTGy8VBIwqAwJd7NaIZh))
-
-+ Heltec WiFi Lora 32 Playlist by ShotokuTech ([46 video](https://www.youtube.com/playlist?list=PLVPBipeObwMP02QIrh3RGMs1BtPTMt19j))
-
-+ LoRa Technology by Semtech Corporation ([39 videos](https://www.youtube.com/playlist?list=PLDB4a8cM5warylHQ8moUZb_zsq2_RQ9HB))
-
-+ STM32WL - LoRa Guide by TrueStepbyStep ([8 videos](https://www.youtube.com/playlist?list=PLUTly7gBTFvUR5EuDauE-oRrnKpY6oHTM))
-
-+ LoRa & LoRaWAN Projects by How To Electronics ([16 videos](https://www.youtube.com/playlist?list=PLwF0yC5nSNDOb1-h5Fvd9ZCu0caHOsEkt))
-
-+ LoRa by Electronics Innovation ([8 videos](https://www.youtube.com/playlist?list=PLmLQ9terIPnk36dsEvNO9rjLMXPEiWD9P))
-
-+ LoRa by Antonello Di Giulio ([7 videos](https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz))
-
-+ LoRa by Dr.Eng.Daniel Amariei ([19 videos](https://www.youtube.com/playlist?list=PLwerlPp_cH3XYUunXDZ9coF6mt35VDbXJ))
-
-+ Semtech Corporation [playlists](https://www.youtube.com/@SemtechMediacenter/playlists)
-
-+ LoRa Alliance [playlists](https://www.youtube.com/@loraalliance3333/playlists)
-
-<HR>
-
-## LoRa YouTube Videos
-
-+ LoRa - Long-Range Radio for IoT | Arduino, ESP32, RPI Pico by DroneBot Workshop (>1 hour [video](https://youtu.be/YQ7aLHCTeeE?si=TpUNBkoe6R7r6Bk5))
-
-+ [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=RqNVbNyY0ELCJc_C) by Visual Electric
