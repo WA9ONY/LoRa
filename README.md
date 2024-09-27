@@ -91,6 +91,10 @@ These tutorials will help you build a solid foundation in LoRa and LoRaWAN and g
 
 <HR>
 
+<p align="center">
+  <img width="689" height="149" src="/Images/YouTube_2024.png">   
+</p>
+
 ## LoRa YouTube Play Lists
 
 + LoRa Alliance [playlists](https://www.youtube.com/@loraalliance3333/playlists)
