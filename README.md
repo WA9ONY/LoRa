@@ -3,7 +3,12 @@
 </P>  
 
 <p align="center">
- <img width="169" height="170" src="/Images/LoRaAll.png">  <img width="512" height="512" src="/Images/LoRaBanner3s512.png"> <img width="169" height="170" src="/Images/TTNLogo.png">   
+ <img 
+  position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+  width="169" height="170" src="/Images/LoRaAll.png">  <img width="512" height="512" src="/Images/LoRaBanner3s512.png"> <img width="169" height="170" src="/Images/TTNLogo.png">   
 </p>
 
 # LoRa: Long Range Wireless IoT Projects
