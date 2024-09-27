@@ -165,18 +165,14 @@ https://www.youtube.com/playlist?list=PLZKn4hapodtfZiTGy8VBIwqAwJd7NaIZh
 Heltec WiFi Lora 32 Playlist by ShotokuTech (46 video)
 https://www.youtube.com/playlist?list=PLVPBipeObwMP02QIrh3RGMs1BtPTMt19j
 
-LoRa Technology by Semtech Corporation (39 videos)
-https://www.youtube.com/playlist?list=PLDB4a8cM5warylHQ8moUZb_zsq2_RQ9HB
++ LoRa Technology by Semtech Corporation ([39 videos](https://www.youtube.com/playlist?list=PLDB4a8cM5warylHQ8moUZb_zsq2_RQ9HB))
 
-STM32WL - LoRa Guide by TrueStepbyStep (8 videos)
-https://www.youtube.com/playlist?list=PLUTly7gBTFvUR5EuDauE-oRrnKpY6oHTM
++ STM32WL - LoRa Guide by TrueStepbyStep ([8 videos](https://www.youtube.com/playlist?list=PLUTly7gBTFvUR5EuDauE-oRrnKpY6oHTM))
 
-LoRa & LoRaWAN Projects by How To Electronics (16 videos)
-https://www.youtube.com/playlist?list=PLwF0yC5nSNDOb1-h5Fvd9ZCu0caHOsEkt
++ LoRa & LoRaWAN Projects by How To Electronics ([16 videos](https://www.youtube.com/playlist?list=PLwF0yC5nSNDOb1-h5Fvd9ZCu0caHOsEkt))
 
-LoRa by Electronics Innovation ( 8 videos)
-https://www.youtube.com/playlist?list=PLmLQ9terIPnk36dsEvNO9rjLMXPEiWD9P
++ LoRa by Electronics Innovation ([8 videos](https://www.youtube.com/playlist?list=PLmLQ9terIPnk36dsEvNO9rjLMXPEiWD9P))
 
-LoRa by Antonello Di Giulio ([7 videos](https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz))
++ LoRa by Antonello Di Giulio ([7 videos](https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz))
 
 
