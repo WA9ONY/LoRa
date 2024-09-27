@@ -177,6 +177,6 @@ https://www.youtube.com/playlist?list=PLwF0yC5nSNDOb1-h5Fvd9ZCu0caHOsEkt
 LoRa by Electronics Innovation ( 8 videos)
 https://www.youtube.com/playlist?list=PLmLQ9terIPnk36dsEvNO9rjLMXPEiWD9P
 
-LoRa by Antonello Di Giulio (7 videos)
-https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz
+LoRa by Antonello Di Giulio ([7 videos](https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz))
+
 
