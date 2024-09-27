@@ -535,7 +535,6 @@ How to locate LoRa TTN (The Things Network) gateways near Camas, WA, USA, you fo
 
 This method should help you identify any TTN gateways available near you and whether you can leverage them for your LoRa-based projects.
 
-
 <HR>
 
 <p align="center">
@@ -619,3 +618,13 @@ Here’s a list of some **Adafruit LoRa boards** along with their advantages and
 - **For Long Range or Penetration Needs:** The **RFM96W 433 MHz** breakout is an excellent option when range is a primary concern, especially in difficult environments.
 
 Each of these boards offers distinct advantages, depending on the project’s requirements for range, processing power, and power consumption.
+
+<HR>
+
+<p align="center">
+  <img width="401" height="137" src="/Images/Adafruit_logo.png">   
+</p>
+
+## GitHub LoRa
+
++ GitHub search [LoRa](https://github.com/search?q=%2FLoRa&type=repositories)
