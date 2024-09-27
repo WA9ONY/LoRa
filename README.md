@@ -82,6 +82,7 @@ These tutorials will help you build a solid foundation in LoRa and LoRaWAN and g
 ## LoRa YouTube Play Lists
 
 + LoRa Alliance [playlists](https://www.youtube.com/@loraalliance3333/playlists)
++ The Things Network [playlist](https://www.youtube.com/@TheThingsNetworkCommunity/playlists)
 + Semtech Corporation [playlists](https://www.youtube.com/@SemtechMediacenter/playlists)
 + LoRa/LoRaWAN tutorials by Mobilefish.com ([68 videos](https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g))
 + Heltec WiFi Lora 32 Playlist by ShotokuTech ([46 video](https://www.youtube.com/playlist?list=PLVPBipeObwMP02QIrh3RGMs1BtPTMt19j))
@@ -101,6 +102,7 @@ These tutorials will help you build a solid foundation in LoRa and LoRaWAN and g
 
 + LoRa - Long-Range Radio for IoT | Arduino, ESP32, RPI Pico by DroneBot Workshop (>1 hour [video](https://youtu.be/YQ7aLHCTeeE?si=TpUNBkoe6R7r6Bk5))
 + [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=RqNVbNyY0ELCJc_C) by Visual Electric
++ [Everything you need to know about LoRaWAN in 60 minutes - Johan Stokking, The Things Industries](https://youtu.be/ZsVhYiX4_6o?si=PBs-IvO_JC-shroc)
 
 <HR>
 
