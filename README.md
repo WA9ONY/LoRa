@@ -534,3 +534,88 @@ How to locate LoRa TTN (The Things Network) gateways near Camas, WA, USA, you fo
    If you can’t find gateways directly in Camas, you might reach out to local makerspaces, universities, or IoT enthusiast groups in the region. These groups often host TTN gateways or can help you get set up with one.
 
 This method should help you identify any TTN gateways available near you and whether you can leverage them for your LoRa-based projects.
+
+
+<HR>
+
+<p align="center">
+  <img width="676" height="505" src="/Images/TTN_PDX.png">   
+</p>
+
+## Adafruit LoRa boards
+
+Here’s a list of some **Adafruit LoRa boards** along with their advantages and limitations. Adafruit offers a few different models depending on your needs for integrating LoRa communication in your projects.
+
+### 1. **Adafruit LoRa Radio FeatherWing (RFM95W)**
+   - **Frequency:** 900 MHz (US), 868 MHz (EU)
+   - **Advantages:**
+     - **Compact Design:** Can be easily stacked on top of any Feather board.
+     - **Low Power:** Designed for low-power applications, making it great for battery-powered projects.
+     - **Integrated Antenna Port:** Easy connection for antennas to improve signal range.
+     - **Long Range:** Up to 2 km in urban environments and even longer in rural areas with clear line of sight.
+     - **Feather Ecosystem:** Compatible with Feather microcontroller boards like the ESP32 and M0 series, providing flexibility in microcontroller choice.
+   - **Limitations:**
+     - **No Built-in Microcontroller:** Requires a separate Feather board to function, adding to the cost and complexity.
+     - **Limited GPIOs:** Some FeatherWing boards limit the available GPIO pins, depending on the base Feather board used.
+
+### 2. **Adafruit Feather 32u4 with LoRa Radio (RFM95W)**
+   - **Frequency:** 868/915 MHz
+   - **Advantages:**
+     - **Integrated Microcontroller:** Built-in ATmega32u4 microcontroller, which reduces the need for an external microcontroller.
+     - **Built-in USB Programming Interface:** Simplifies programming and firmware uploading.
+     - **Compact:** Combines LoRa and microcontroller on a single board, saving space in projects.
+     - **Low Power Consumption:** Ideal for low-power IoT applications.
+   - **Limitations:**
+     - **Limited Processing Power:** The ATmega32u4 is not very powerful compared to more modern microcontrollers (e.g., ESP32).
+     - **Low Memory:** Limited SRAM and flash memory, which might be a constraint for larger or more complex applications.
+
+### 3. **Adafruit Feather M0 with LoRa Radio (RFM95W)**
+   - **Frequency:** 868/915 MHz
+   - **Advantages:**
+     - **Powerful 32-bit ARM Cortex M0 Processor:** Much faster than 8-bit boards like the Feather 32u4.
+     - **Integrated LoRa Module:** Includes the LoRa RFM95W radio for long-range communication.
+     - **USB Interface:** For easy programming and debugging.
+     - **Feather Ecosystem Compatibility:** Works well with FeatherWing add-ons for additional functionality like displays or sensors.
+     - **Higher Memory Capacity:** More RAM and flash than 8-bit microcontrollers.
+   - **Limitations:**
+     - **Higher Power Consumption than 8-bit Boards:** While still efficient, the ARM Cortex M0 uses more power than the 32u4.
+     - **Higher Cost:** Slightly more expensive than simpler boards.
+
+### 4. **Adafruit Feather ESP32-S2 with RFM95W LoRa Radio**
+   - **Frequency:** 868/915 MHz
+   - **Advantages:**
+     - **Integrated ESP32-S2 Microcontroller:** Supports Wi-Fi along with LoRa for a versatile communication platform.
+     - **Dual-core 32-bit Processor:** Offers high performance and the ability to run complex applications, including those requiring Wi-Fi and LoRa.
+     - **More GPIOs:** More pins for connecting external peripherals and sensors.
+     - **Higher Memory:** Ample flash and RAM for larger IoT projects or running MicroPython/CircuitPython.
+   - **Limitations:**
+     - **Power Consumption:** ESP32-S2 is more power-hungry than simpler microcontrollers like the ATmega32u4.
+     - **More Complex to Use:** Due to the combination of Wi-Fi and LoRa, it may be more challenging to program and set up for beginners.
+
+### 5. **Adafruit Feather nRF52840 with RFM95W LoRa Radio**
+   - **Frequency:** 868/915 MHz
+   - **Advantages:**
+     - **Bluetooth 5.0 and LoRa Support:** Combines both Bluetooth Low Energy (BLE) and LoRa for projects that need local (BLE) and remote (LoRa) communication.
+     - **nRF52840 Processor:** 32-bit ARM Cortex M4 processor with floating point support, offering better performance for data-heavy applications.
+     - **Low Power Modes:** The nRF52840 chip is designed to be energy-efficient, especially in low-power modes.
+     - **USB Support:** Direct USB connectivity for programming and debugging.
+   - **Limitations:**
+     - **Moderate Power Consumption:** Higher power consumption compared to simpler 8-bit or lower-end boards.
+     - **Slightly Complex Setup:** Setting up Bluetooth and LoRa together can be tricky for beginners.
+
+### 6. **Adafruit RFM96W LoRa Radio Breakout (433 MHz)**
+   - **Frequency:** 433 MHz
+   - **Advantages:**
+     - **Longer Range:** 433 MHz can offer better penetration through obstacles compared to 868/915 MHz, making it ideal for environments with dense objects like buildings or forests.
+     - **Simple to Integrate:** Breakout board can be integrated into custom designs with various microcontrollers.
+     - **Lower Cost:** Compared to Feather boards with integrated microcontrollers, this breakout board is cheaper.
+   - **Limitations:**
+     - **Requires External Microcontroller:** Since it’s just a breakout, you’ll need to pair it with a microcontroller or development board.
+     - **Larger Antenna Required:** 433 MHz requires a longer antenna for optimal performance, which may not be ideal for compact designs.
+
+### Summary of Recommendations:
+- **For Beginners or Simple Projects:** The **Feather 32u4 with LoRa** offers a good balance of ease-of-use and functionality.
+- **For More Complex Projects:** The **Feather ESP32-S2** or **Feather M0 with LoRa** provide more processing power and flexibility for advanced applications.
+- **For Long Range or Penetration Needs:** The **RFM96W 433 MHz** breakout is an excellent option when range is a primary concern, especially in difficult environments.
+
+Each of these boards offers distinct advantages, depending on the project’s requirements for range, processing power, and power consumption.
