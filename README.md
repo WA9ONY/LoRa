@@ -140,30 +140,27 @@ Here are some helpful online articles that explain how to use LoRa with Arduino 
 
 These articles will help you set up and explore different LoRa communication projects with Arduino.
 
-
 <HR>
 
-## LoRa Searches
+## LoRa Google Searches
 
 Google
 https://www.google.com/search?q=Lora+with+the+raspberry+pi+pico+tutorial&oq=LoRA&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyDQgCEC4YgwEYsQMYgAQyDwgDEEUYORiDARixAxiABDITCAQQLhiDARivARjHARixAxiABDINCAUQABiDARixAxiABDIHCAYQABiABDINCAcQABiDARixAxiABDIHCAgQABiPAjIHCAkQABiPAtIBCTY0OTNqMGoxNagCCLACAQ&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
+These articles will help you set up and explore different LoRa communication projects with Arduino.
 
-YouTube Play lists
+<HR>
 
-LoRa, LoraWAN, Sigfox by Andreas Spiess (35 videos)
-https://www.youtube.com/playlist?list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U
+## LoRa YouTube Play Lists
 
-LoRa/LoRaWAN tutorials by Mobilefish.com (68 videos)
-https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g
++ LoRa, LoraWAN, Sigfox by Andreas Spiess ([35 videos](https://www.youtube.com/playlist?list=PL3XBzmAj53Rkkogh-lti58h_GkhzU1n7U))
 
-LoRa Playlist by ShotokuTech (29 videos)
-https://www.youtube.com/playlist?list=PLVPBipeObwMPJCETechV7bX7VlMiDlf1-QCSh9u
++ LoRa/LoRaWAN tutorials by Mobilefish.com ([68 videos](https://www.youtube.com/playlist?list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g))
 
-LoRa Tutorial | Long Range wireless network by CETech (21 videos)
-https://www.youtube.com/playlist?list=PLZKn4hapodtfZiTGy8VBIwqAwJd7NaIZh
++ LoRa Playlist by ShotokuTech ([29 videos](https://www.youtube.com/playlist?list=PLVPBipeObwMPJCETechV7bX7VlMiDlf1-QCSh9u))
 
-Heltec WiFi Lora 32 Playlist by ShotokuTech (46 video)
-https://www.youtube.com/playlist?list=PLVPBipeObwMP02QIrh3RGMs1BtPTMt19j
++ LoRa Tutorial | Long Range wireless network by CETech ([21 videos](https://www.youtube.com/playlist?list=PLZKn4hapodtfZiTGy8VBIwqAwJd7NaIZh))
+
++ Heltec WiFi Lora 32 Playlist by ShotokuTech ([46 video](https://www.youtube.com/playlist?list=PLVPBipeObwMP02QIrh3RGMs1BtPTMt19j))
 
 + LoRa Technology by Semtech Corporation ([39 videos](https://www.youtube.com/playlist?list=PLDB4a8cM5warylHQ8moUZb_zsq2_RQ9HB))
 
