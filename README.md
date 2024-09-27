@@ -3,12 +3,19 @@
 </P>  
 
 <p align="center">
- <img 
-  position: absolute;
-    margin: auto;
-    top: 0;
-    bottom: 0;
-  width="169" height="170" src="/Images/LoRaAll.png">  <img width="512" height="512" src="/Images/LoRaBanner3s512.png"> <img width="169" height="170" src="/Images/TTNLogo.png">   
+<table width="100%" height="100%" align="center" valign="center">
+   <tr>
+    <td>
+       <img width="169" height="170" src="/Images/LoRaAll.png"> 
+   </td>
+    <td>
+       <img width="512" height="512" src="/Images/LoRaBanner3s512.png">
+   </td>
+    <td>
+       <img width="169" height="170" src="/Images/TTNLogo.png">
+   </td>
+   </tr>
+   </table>
 </p>
 
 # LoRa: Long Range Wireless IoT Projects
