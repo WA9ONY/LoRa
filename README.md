@@ -144,9 +144,7 @@ These articles will help you set up and explore different LoRa communication pro
 
 ## LoRa Google Searches
 
-Google
-https://www.google.com/search?q=Lora+with+the+raspberry+pi+pico+tutorial&oq=LoRA&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyDQgCEC4YgwEYsQMYgAQyDwgDEEUYORiDARixAxiABDITCAQQLhiDARivARjHARixAxiABDINCAUQABiDARixAxiABDIHCAYQABiABDINCAcQABiDARixAxiABDIHCAgQABiPAjIHCAkQABiPAtIBCTY0OTNqMGoxNagCCLACAQ&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
-These articles will help you set up and explore different LoRa communication projects with Arduino.
+Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+pico+tutorial&oq=LoRA&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIICAEQRRgnGDsyDQgCEC4YgwEYsQMYgAQyDwgDEEUYORiDARixAxiABDITCAQQLhiDARivARjHARixAxiABDINCAUQABiDARixAxiABDIHCAYQABiABDINCAcQABiDARixAxiABDIHCAgQABiPAjIHCAkQABiPAtIBCTY0OTNqMGoxNagCCLACAQ&client=ubuntu-chr&sourceid=chrome&ie=UTF-8)
 
 <HR>
 
@@ -172,4 +170,12 @@ These articles will help you set up and explore different LoRa communication pro
 
 + LoRa by Antonello Di Giulio ([7 videos](https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz))
 
++ LoRa by Dr.Eng.Daniel Amariei ([19 videos](https://www.youtube.com/playlist?list=PLwerlPp_cH3XYUunXDZ9coF6mt35VDbXJ))
 
++ Semtech Corporation [playlists](https://www.youtube.com/@SemtechMediacenter/playlists)
+
++ LoRa Alliance [playlists](https://www.youtube.com/@loraalliance3333/playlists)
+
++ LoRa - Long-Range Radio for IoT | Arduino, ESP32, RPI Pico by DroneBot Workshop (>1 hour [video](https://youtu.be/YQ7aLHCTeeE?si=TpUNBkoe6R7r6Bk5))
+
++ [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=RqNVbNyY0ELCJc_C) by Visual Electric
