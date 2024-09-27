@@ -75,7 +75,7 @@ Here are some useful YouTube tutorials to help you get started with LoRa and LoR
 
 These tutorials offer both conceptual overviews and hands-on guidance for using LoRa and LoRaWAN in IoT projects.
 
-## Free LoRa Tutorials
+## LoRa Tutorials
 
 Here are some excellent free tutorials and resources for learning about LoRa and LoRaWAN:
 
