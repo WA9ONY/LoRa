@@ -625,6 +625,8 @@ Each of these boards offers distinct advantages, depending on the project’s re
   <img width="150" height="150" src="/Images/GitHub_Invertocat_Logo.png">   
 </p>
 
-## GitHub LoRa
+## GitHub LoRa Searches
 
-+ GitHub search [LoRa](https://github.com/search?q=%2FLoRa&type=repositories)
++ [/LoRa](https://github.com/search?q=%2FLoRa&type=repositories)
++ [/Adafruit/LoRa](https://github.com/search?q=%2FAdafruit%2FLoRa&type=repositories)
++ [/TTN](https://github.com/search?q=%2FTTN&type=repositories)
