@@ -539,7 +539,7 @@ This method should help you identify any TTN gateways available near you and whe
 <HR>
 
 <p align="center">
-  <img width="676" height="505" src="/Images/TTN_PDX.png">   
+  <img width="401" height="137" src="/Images/Adafruit_logo.png">   
 </p>
 
 ## Adafruit LoRa boards
