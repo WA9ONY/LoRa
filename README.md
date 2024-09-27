@@ -110,6 +110,13 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 
 <HR>
 
+## LoRa Articles
+
++ [LoRa with the Raspberry Pi Pico](https://www.elektormagazine.com/magazine/elektor-179/59721#:~:text=Fun%20with%20MicroPython&text=Using%20a%20Raspberry%20Pi%20Pico,Login%20%7C%20Register%20now!) by Elektor MAG
++ [My First LoRaWAN](https://www.elektormagazine.com/magazine/elektor-141/57159) by Elektor MAG
++ [Seeed Studio RFM95 Ultra-long LoRa Transceiver Module (EU868)](https://www.elektor.com/products/seeed-studio-rfm95-ultra-long-lora-transceiver-module-eu868)
+<HR>
+
 ## LoRa Books
 
 Here are some highly recommended books for learning about LoRa and LoRaWAN:
@@ -170,3 +177,285 @@ Here are some helpful online articles that explain how to use LoRa with Arduino 
    - [Seeed Studio](https://www.seeedstudio.com)【41†source】
 
 These articles will help you set up and explore different LoRa communication projects with Arduino.
+
+<HR>
+
+++ LoRa ICs
+
+Below is a list of popular LoRa ICs grouped by manufacturer, along with their advantages and limitations:
+
+### **1. Semtech**
+
+Semtech is the primary manufacturer and the patent holder for the LoRa modulation technology. Most LoRa ICs are based on Semtech’s designs, making them the industry standard.
+
+#### **SX127x Series (SX1272, SX1276, SX1278)**
+- **Advantages**:
+  - **Long range**: Can reach distances up to 15-20 km in rural areas and several kilometers in urban settings.
+  - **Low power consumption**: Suitable for battery-operated devices (sleep modes consume very little power).
+  - **Versatility**: Operates in different frequency bands (868 MHz, 915 MHz, 433 MHz) and supports FSK modulation in addition to LoRa.
+  - **Wide adoption**: Supported by many libraries and development kits (Arduino, Raspberry Pi, etc.).
+  - **Low cost**: Available at relatively low prices for wide adoption.
+  
+- **Limitations**:
+  - **Data rate**: Max data rates are lower (~50 kbps in LoRa mode).
+  - **Complexity**: Requires external microcontroller or processor for configuration and communication.
+  - **Single-radio operation**: It does not support concurrent channels or spectrum usage as efficiently as some newer chips.
+
+#### **SX126x Series (SX1261, SX1262)**
+- **Advantages**:
+  - **Improved range and power consumption** compared to SX127x series.
+  - **Better blocking immunity**: Enhanced resistance to signal interference.
+  - **Smaller form factor**: Ideal for compact designs.
+  - **Low energy modes**: Enhanced low-power modes (especially in deep sleep).
+  - **Higher output power**: Up to +22 dBm for longer ranges.
+  
+- **Limitations**:
+  - **Cost**: Slightly higher cost compared to SX127x series.
+  - **Newer in the market**: Less community support compared to SX127x series but growing fast.
+
+#### **SX1301/SX1302 (LoRa Gateway ICs)**
+- **Advantages**:
+  - **Multiple channels**: Can process up to 8 channels simultaneously, which is essential for gateways in large LoRaWAN networks.
+  - **High sensitivity**: Enables higher sensitivity and coverage in gateway operations.
+  - **Concurrent reception**: Can receive data from multiple end devices at once.
+  
+- **Limitations**:
+  - **Power consumption**: Higher power consumption due to multiple-channel support.
+  - **Complexity**: More complicated to use than end-device LoRa ICs and usually integrated into gateway solutions.
+
+### **2. Murata**
+
+Murata integrates Semtech’s LoRa chips into their modules but offers their own advantages in terms of size and manufacturing process.
+
+#### **Murata CMWX1ZZABZ (Based on Semtech SX1276)**
+- **Advantages**:
+  - **Very small form factor**: Ideal for small IoT devices or wearables.
+  - **Certified modules**: Pre-certified for various regulatory regions, simplifying product certification.
+  - **Low power consumption**: Optimized for battery-powered devices.
+  
+- **Limitations**:
+  - **Limited flexibility**: As a module, there is less flexibility in how you can modify the radio.
+  - **Higher cost**: Higher cost compared to standalone Semtech chips due to the added module overhead.
+
+### **3. Microchip**
+
+Microchip produces both standalone LoRa ICs as well as integrated LoRa modules.
+
+#### **RN2483/RN2903 (LoRaWAN Modules)**
+- **Advantages**:
+  - **Integrated LoRaWAN stack**: Simplifies development for LoRaWAN applications (no need for complex stack development).
+  - **Easy to use**: Comes in a pre-certified module that simplifies regulatory certification.
+  - **Low power consumption**: Built for low power IoT applications, especially in end devices.
+  
+- **Limitations**:
+  - **Cost**: More expensive than standalone LoRa ICs due to the integrated stack and module form factor.
+  - **Flexibility**: Limited configurability compared to chips like SX127x/SX126x.
+
+#### **ATA8520E (LoRa/FSK Transceiver)**
+- **Advantages**:
+  - **High sensitivity**: Operates in the ISM bands and provides excellent range with low power.
+  - **Low power**: Ultra-low power operation in sleep and active modes.
+  
+- **Limitations**:
+  - **Proprietary protocol support**: Does not have direct LoRaWAN support, so it requires custom protocols or additional software for LoRaWAN networks.
+  - **Lower community support**: Less widespread usage compared to Semtech-based chips.
+
+### **4. STMicroelectronics**
+
+STMicroelectronics provides modules that integrate LoRa into STM32 microcontrollers.
+
+#### **STM32WL Series**
+- **Advantages**:
+  - **Integrated microcontroller**: Combines an STM32 microcontroller with a LoRa transceiver, reducing BOM (Bill of Materials) and complexity.
+  - **Flexibility**: Programmable with the STM32 ecosystem, allowing for powerful applications.
+  - **Low power**: Designed for low power operation in IoT applications.
+  
+- **Limitations**:
+  - **Complexity**: More complex to develop for, especially if you’re new to STM32 or LoRa.
+  - **Size**: The integrated microcontroller makes it larger than standalone LoRa ICs.
+
+### **5. HopeRF**
+
+HopeRF integrates Semtech LoRa ICs into modules like the RFM series. These are widely used in DIY and hobbyist projects due to their affordability.
+
+#### **RFM95/96/98 (Based on Semtech SX1276/78)**
+- **Advantages**:
+  - **Low cost**: Very affordable, making them popular in hobbyist and experimental applications.
+  - **Easy to integrate**: Available in a small, easy-to-integrate module.
+  - **Widely available**: Available from many distributors and well-documented by the community.
+  
+- **Limitations**:
+  - **Not fully certified**: Many of these modules are not pre-certified, meaning regulatory approval could be more difficult for commercial products.
+  - **Limited range of supported frequencies**: Typically focused on 433 MHz and 868/915 MHz, which could limit usage in certain regions.
+  - **Higher power consumption**: Not as optimized for ultra-low power applications compared to newer chips.
+
+---
+
+### **Summary of Key Points**
+
+- **Semtech** dominates the market with a range of LoRa ICs like the SX127x and SX126x series. The SX126x series offers enhanced performance and efficiency over the SX127x series.
+- **Murata** offers very compact, pre-certified modules, ideal for space-constrained and certified applications.
+- **Microchip** provides modules with integrated LoRaWAN stacks, simplifying development but at a higher cost.
+- **STMicroelectronics** combines STM32 with LoRa, offering a powerful and flexible solution but with a steeper learning curve.
+- **HopeRF** provides affordable, easy-to-use modules that are great for hobbyists but may not meet certification requirements for commercial projects.
+
+Each IC has its niche, whether it’s low cost, compact size, regulatory compliance, or performance optimization.
+
+<HR>
+
+++ LoRa Modules
+
+Below is a detailed list of available LoRa modules grouped by manufacturer, along with their advantages and limitations:
+
+### **1. Semtech Modules**
+
+Semtech provides the core LoRa technology, but they primarily supply ICs, while partners use their chips in modules. However, Semtech provides reference modules as well.
+
+#### **SX1276MB1LAS (Based on SX1276)**
+- **Advantages**:
+  - **High range**: Can communicate up to 15-20 km in rural areas and several kilometers in urban settings.
+  - **High sensitivity**: Ideal for long-range, low-power applications.
+  - **Wide frequency band support**: Supports multiple frequencies (433 MHz, 868 MHz, 915 MHz).
+  
+- **Limitations**:
+  - **External microcontroller required**: Does not come with an integrated microcontroller, meaning developers need to pair it with one.
+  - **Complex development**: Requires experience with radio protocols and LoRa configuration.
+
+### **2. Murata Modules**
+
+Murata’s LoRa modules integrate Semtech LoRa ICs (e.g., SX1276) and are widely used in compact IoT devices.
+
+#### **Murata CMWX1ZZABZ-078 (LoRaWAN module with SX1276)**
+- **Advantages**:
+  - **Extremely small form factor**: Among the smallest LoRa modules available, ideal for wearables or space-constrained designs.
+  - **Pre-certified**: Pre-certified for regulatory compliance in major regions (FCC, CE).
+  - **Low power consumption**: Optimized for battery-powered IoT devices.
+  - **Supports LoRaWAN**: Fully integrated LoRaWAN stack.
+  
+- **Limitations**:
+  - **Limited configurability**: Being a module with a pre-integrated stack, there is less flexibility in how developers can customize the LoRa radio.
+  - **Higher cost**: Murata modules tend to be more expensive due to their compact size and certification.
+
+#### **Murata Type 1SJ (Based on SX1262)**
+- **Advantages**:
+  - **Very compact**: Even smaller than the CMWX1ZZABZ.
+  - **High sensitivity and power output**: Supports +22 dBm transmission power for long-range communication.
+  - **Low power consumption**: Optimized for ultra-low power, making it ideal for battery-powered applications.
+  - **Pre-certified**: Simplifies certification in different regions.
+  
+- **Limitations**:
+  - **Higher cost**: Like other Murata modules, the small form factor and pre-certification increase the price.
+  - **Limited flexibility**: Designed primarily for LoRaWAN applications, and using it outside the LoRaWAN stack can be challenging.
+
+### **3. Microchip Modules**
+
+Microchip offers both standalone LoRa modules and modules with an integrated LoRaWAN stack.
+
+#### **RN2483 (868 MHz, LoRaWAN module)**
+- **Advantages**:
+  - **Integrated LoRaWAN stack**: Pre-configured with the LoRaWAN protocol, reducing development complexity.
+  - **Easy to use**: Supports an AT command interface, simplifying communication with the microcontroller.
+  - **Pre-certified**: Certified for use in various regions, making it easy to integrate into commercial products.
+  - **Low power**: Ideal for low-power IoT applications.
+  
+- **Limitations**:
+  - **Limited flexibility**: The integrated LoRaWAN stack can limit custom configuration or use in non-LoRaWAN systems.
+  - **Higher cost**: Due to pre-certification and integrated LoRaWAN support, it is more expensive compared to standalone ICs or modules.
+
+#### **RN2903 (915 MHz, LoRaWAN module)**
+- **Advantages**:
+  - **Integrated LoRaWAN stack**: Pre-configured for LoRaWAN, simplifying development for 915 MHz applications.
+  - **Easy-to-use AT command interface**: Supports rapid development.
+  - **Pre-certified**: Comes with regulatory approvals, speeding up product development.
+  
+- **Limitations**:
+  - **Similar to RN2483**: Faces similar limitations in terms of flexibility and cost.
+
+### **4. HopeRF Modules**
+
+HopeRF modules are known for their affordability and simplicity, making them popular in hobbyist and low-cost IoT projects.
+
+#### **RFM95/96/98 (Based on Semtech SX1276/SX1278)**
+- **Advantages**:
+  - **Low cost**: Among the most affordable LoRa modules available, popular for DIY projects.
+  - **Wide availability**: Available for both 868 MHz (RFM95) and 433 MHz (RFM96) frequencies.
+  - **Easy to use**: Compatible with a wide range of development platforms like Arduino and Raspberry Pi.
+  
+- **Limitations**:
+  - **Not pre-certified**: Typically, these modules are not pre-certified, so product certification may be more challenging for commercial products.
+  - **Higher power consumption**: Compared to more recent LoRa modules, these consume more power, especially in sleep mode.
+  - **Limited community support**: While widely used by hobbyists, professional-level support or documentation can be harder to find.
+
+### **5. Ebyte Modules**
+
+Ebyte manufactures LoRa modules that integrate Semtech chips and are popular in industrial IoT applications.
+
+#### **E32 Series (E32-433T30D, E32-868T30D)**
+- **Advantages**:
+  - **Long range**: Can transmit over several kilometers, with a line-of-sight range up to 10 km.
+  - **High power output**: Provides up to +30 dBm transmission power for long-range communications.
+  - **Low cost**: Affordable, even for higher power versions.
+  - **Wide operating voltage**: Operates from 2.3 V to 5.5 V, offering flexibility for different battery-powered applications.
+  
+- **Limitations**:
+  - **No integrated LoRaWAN**: Requires external software for LoRaWAN or custom protocol development.
+  - **Not pre-certified**: Commercial use may require additional certification.
+  - **Power consumption**: Higher transmission power results in higher energy consumption.
+
+#### **E22 Series (E22-900M22S)**
+- **Advantages**:
+  - **High sensitivity**: Ideal for long-range IoT applications with limited power resources.
+  - **Compact**: Small form factor, suitable for space-constrained designs.
+  - **Low cost**: Like other Ebyte modules, it is cost-effective.
+  
+- **Limitations**:
+  - **No integrated LoRaWAN stack**: Similar to the E32 series, it does not have LoRaWAN stack support, requiring custom firmware development.
+  - **Limited community support**: Less widely used than HopeRF or Semtech-based modules, resulting in limited resources for developers.
+
+### **6. Adafruit and Dragino Modules**
+
+Adafruit and Dragino provide easy-to-use LoRa modules for DIY and maker projects.
+
+#### **Adafruit RFM95W (Based on SX1276)**
+- **Advantages**:
+  - **Maker-friendly**: Comes with detailed guides and is designed to work with platforms like Arduino.
+  - **Affordable**: Moderately priced and suitable for prototyping and hobbyist projects.
+  - **Good community support**: Backed by Adafruit’s extensive documentation and forums.
+  
+- **Limitations**:
+  - **Not pre-certified**: Requires certification for commercial use.
+  - **Not suitable for industrial applications**: Primarily aimed at hobbyists and makers.
+
+#### **Dragino LoRa Shield (For Arduino)**
+- **Advantages**:
+  - **Easy integration with Arduino**: Built for use with Arduino development platforms.
+  - **Affordable**: Cost-effective for prototyping and low-volume production.
+  - **Good range**: Supports up to 5 km range in ideal conditions.
+  
+- **Limitations**:
+  - **Limited to Arduino**: Primarily designed for Arduino, with limited flexibility outside of the platform.
+  - **Not pre-certified**: As with many hobbyist modules, certification may be required for commercial use.
+
+### **7. Pycom Modules**
+
+Pycom offers LoRa modules that are integrated into development boards with Wi-Fi and other wireless technologies.
+
+#### **Pycom LoPy4**
+- **Advantages**:
+  - **Multi-protocol**: Combines LoRa, Wi-Fi, Bluetooth, and Sigfox in a single module.
+  - **Integrated microcontroller**: Includes an ESP32 microcontroller for development without additional hardware.
+  - **Easy-to-use development platform**: Supports MicroPython and has a strong developer community.
+  
+- **Limitations**:
+  - **Higher cost**: More expensive due to the integration of multiple wireless protocols.
+  - **Power consumption**: Higher than other LoRa-only modules because of the multi-radio setup.
+
+### **Summary of Key Points**
+
+- **Semtech** provides the reference design for most modules, and their modules offer high sensitivity and long-range communication but require external microcontrollers.
+- **Murata** offers compact, pre-certified modules that are ideal for space-constrained and commercial applications but come at a higher cost.
+- **Microchip** provides modules with integrated LoRaWAN stacks, simplifying development but limiting flexibility and increasing cost.
+- **HopeRF** offers affordable modules for hobbyists, though they are not pre-certified and consume more power.
+- **Ebyte** offers high-power, long-range modules at a low cost but without pre-certification or integrated LoRaWAN.
+- **Adafruit and Dragino** focus on maker-friendly solutions, while **Pycom** provides multi-protocol solutions with integrated microcontrollers, catering to developers needing flexibility.
+
