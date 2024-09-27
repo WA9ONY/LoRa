@@ -3,7 +3,7 @@
 </P>  
 
 <p align="center">
-<table width="100%" height="100%" align="center" valign="center" border="none">
+<table width="100%" height="100%" align="center" valign="center" border=0>
    <tr>
     <td>
        <img width="169" height="170" src="/Images/LoRaAll.png"> 
