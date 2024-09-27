@@ -180,7 +180,7 @@ These articles will help you set up and explore different LoRa communication pro
 
 <HR>
 
-++ LoRa ICs
+## LoRa ICs
 
 Below is a list of popular LoRa ICs grouped by manufacturer, along with their advantages and limitations:
 
@@ -303,7 +303,7 @@ Each IC has its niche, whether it’s low cost, compact size, regulatory complia
 
 <HR>
 
-++ LoRa Modules
+## LoRa Modules
 
 Below is a detailed list of available LoRa modules grouped by manufacturer, along with their advantages and limitations:
 
@@ -461,7 +461,7 @@ Pycom offers LoRa modules that are integrated into development boards with Wi-Fi
 
 <HR>
 
-++ LoRaWAN and TTN
+## LoRaWAN and TTN
 
 TTN (The Things Network) is an open, global infrastructure that supports the development of Internet of Things (IoT) applications using LoRaWAN, a protocol on top of LoRa.
 
