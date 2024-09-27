@@ -100,7 +100,6 @@ These tutorials will help you build a solid foundation in LoRa and LoRaWAN and g
 ## LoRa YouTube Videos
 
 + LoRa - Long-Range Radio for IoT | Arduino, ESP32, RPI Pico by DroneBot Workshop (>1 hour [video](https://youtu.be/YQ7aLHCTeeE?si=TpUNBkoe6R7r6Bk5))
-
 + [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=RqNVbNyY0ELCJc_C) by Visual Electric
 
 <HR>
@@ -148,8 +147,6 @@ Here are some useful articles on using LoRa with the Raspberry Pi Pico:
    - Source: [Raspberry Pi Official Site](https://www.raspberrypi.com)【32†source】.
 
 These articles will help you get started with LoRa on the Raspberry Pi Pico, from basic setups to more advanced LoRaWAN applications.
-
-These books will help you gain both theoretical knowledge and hands-on experience with LoRa and LoRaWAN technology.
 
 <HR>
 
