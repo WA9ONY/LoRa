@@ -461,6 +461,10 @@ Pycom offers LoRa modules that are integrated into development boards with Wi-Fi
 
 <HR>
 
+<p align="center">
+  <img width="676" height="505" src="/Images/TTN_PDX.png">   
+</p>
+
 ## LoRaWAN and TTN
 
 TTN (The Things Network) is an open, global infrastructure that supports the development of Internet of Things (IoT) applications using LoRaWAN, a protocol on top of LoRa.
