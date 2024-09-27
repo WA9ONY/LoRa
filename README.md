@@ -8,7 +8,7 @@
 
 # LoRa: Long Range Wireless IoT Projects
 
-LoRa (Long Range) is a wireless communication technology that enables low-power, long-range data transmission. It is widely used in Internet of Things (IoT) applications for connecting devices over large distances with minimal power consumption. Here’s an overview of LoRa:
+[LoRa (Long Range)](https://en.wikipedia.org/wiki/LoRa) is a wireless communication technology that enables low-power, long-range data transmission. It is widely used in Internet of Things (IoT) applications for connecting devices over large distances with minimal power consumption. Here’s an overview of LoRa:
 
 ### Key Features of LoRa:
 1. **Long-Range Communication**: LoRa can transmit data over distances of up to 10-15 kilometers (6-9 miles) in rural areas, and 2-5 kilometers (1-3 miles) in urban environments, depending on conditions and antenna setup.
