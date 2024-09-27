@@ -5,15 +5,15 @@
 <p align="center">
 <table width="100%" height="100%" align="center" valign="center" border=0>
    <tr>
-    <td> border=0
+    <td> border=0>
        <img width="169" height="170" src="/Images/LoRaAll.png"> 
    </td>
     <td border=0>
        <img width="512" height="512" src="/Images/LoRaBanner3s512.png">
    </td>
-    <td>
+    <td border=0>>
        <img width="169" height="170" src="/Images/TTNLogo.png">
-    </td border=0>
+    </td
    </tr>
    </table>
 </p>
