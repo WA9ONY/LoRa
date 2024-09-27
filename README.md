@@ -622,7 +622,7 @@ Each of these boards offers distinct advantages, depending on the project’s re
 <HR>
 
 <p align="center">
-  <img width="401" height="137" src="/Images/Adafruit_logo.png">   
+  <img width="150" height="150" src="/Images/GitHub_Invertocat_Logo.png">   
 </p>
 
 ## GitHub LoRa
