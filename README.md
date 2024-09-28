@@ -22,8 +22,8 @@
 
 Goals
 + Learn how to use LoRa technology.
-+ Crate a point to point LoRa communication project.
-+ Implement a LoRa altidue logging system that is on a kite.
++ Create a point to point LoRa communication project.
++ Implement a LoRa height above ground logging system that is mounted on a kite.
 
 Phases
 1. Collect and study the LoRa information
@@ -35,7 +35,7 @@ The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to informat
 
 ## LoRa: Long Range Wireless IoT
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
-[LoRa (Long Range)](https://en.wikipedia.org/wiki/LoRa) is a wireless communication technology that enables low-power, long-range data transmission. It is widely used in Internet of Things ([IoT](https://en.wikipedia.org/wiki/Internet_of_things)) applications for connecting devices over large distances with minimal power consumption. Here’s an overview of LoRa:
+[LoRa, Long Range),](https://en.wikipedia.org/wiki/LoRa) is a wireless communication technology that enables low-power, long-range data transmission. It is widely used in Internet of Things, [IoT](https://en.wikipedia.org/wiki/Internet_of_things), applications for connecting devices over large distances with minimal power consumption. Here’s an overview of LoRa:
 
 ### Key Features of LoRa:
 1. **Long-Range Communication**: LoRa can transmit data over distances of up to 10-15 kilometers (6-9 miles) in rural areas, and 2-5 kilometers (1-3 miles) in urban environments, depending on conditions and antenna setup.
