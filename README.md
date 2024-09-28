@@ -48,11 +48,13 @@
 LoRa's combination of long range, low power consumption, and cost-effectiveness makes it a popular choice for IoT applications where devices need to communicate over long distances with minimal energy use.
 
 <HR>
-
-## ChatGPT4o LoRa Course
+<p align="center">
+  <img width="354" height="95" src="/Images/OpenAI_Logo.png">   
+</p
+## [OpenAI](https://en.wikipedia.org/wiki/OpenAI) ChatGPT4o LoRa Course
 
 <P>
-<A HREF="https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397">ChatGPT4o LoRa Course</A> by WA9ONY
+<A HREF="https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397">ChatGPT4o LoRa Course</A> by WA9ONY <img width="49" height="48" src="/Images/OpenAI_Icon.png">   
 </P>
 
 <HR>
