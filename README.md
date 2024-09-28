@@ -231,6 +231,7 @@ These books will help you gain both theoretical knowledge and hands-on experienc
 <HR>
 
 ## LoRa with the Raspberry Pi Pico
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 Here are some useful articles on using LoRa with the Raspberry Pi Pico:
 
@@ -248,6 +249,7 @@ These articles will help you get started with LoRa on the Raspberry Pi Pico, fro
 <HR>
 
 ## LoRa with the Arduino boards
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 Here are some helpful online articles that explain how to use LoRa with Arduino boards:
 
@@ -271,6 +273,7 @@ These articles will help you set up and explore different LoRa communication pro
 <HR>
 
 ## LoRa ICs
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 Below is a list of popular LoRa ICs grouped by manufacturer, along with their advantages and limitations:
 
@@ -394,6 +397,7 @@ Each IC has its niche, whether it’s low cost, compact size, regulatory complia
 <HR>
 
 ## LoRa Modules
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 Below is a detailed list of available LoRa modules grouped by manufacturer, along with their advantages and limitations:
 
@@ -556,6 +560,7 @@ Pycom offers LoRa modules that are integrated into development boards with Wi-Fi
 </p>
 
 ## LoRaWAN and TTN
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 TTN (The Things Network) is an open, global infrastructure that supports the development of Internet of Things (IoT) applications using LoRaWAN, a protocol on top of LoRa.
 
@@ -618,6 +623,7 @@ This method should help you identify any TTN gateways available near you and whe
 </p>
 
 ## Adafruit LoRa boards
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 Here’s a list of some **Adafruit LoRa boards** along with their advantages and limitations. Adafruit offers a few different models depending on your needs for integrating LoRa communication in your projects.
 
@@ -703,6 +709,7 @@ Each of these boards offers distinct advantages, depending on the project’s re
 
 ## GitHub LoRa Searches
 
-+ [/LoRa](https://github.com/search?q=%2FLoRa&type=repositories)
-+ [/Adafruit/LoRa](https://github.com/search?q=%2FAdafruit%2FLoRa&type=repositories)
-+ [/TTN](https://github.com/search?q=%2FTTN&type=repositories)
+[GitHub](https://github.com/) repositories
++ [/LoRa](https://github.com/search?q=%2FLoRa&type=repositories) 18.8k results
++ [/Adafruit/LoRa](https://github.com/search?q=%2FAdafruit%2FLoRa&type=repositories) 98 results
++ [/TTN](https://github.com/search?q=%2FTTN&type=repositories) 4.2k  results
