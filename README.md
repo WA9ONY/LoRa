@@ -201,7 +201,27 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 
 <HR>
 
-## LoRa Articles
+## LoRa Stores
+
+[Arduino](https://www.adafruit.com/)
++ LoRa product [search](https://www.adafruit.com/search?q=LoRa)
++ LoRa learn [search](https://learn.adafruit.com/search?q=LoRa)
++ LoRa [Wireless](https://learn.adafruit.com/category/wireless)
++ LoRa [Blog](https://blog.adafruit.com/?s=LoRa)
++ LoRa [videos](https://www.youtube.com/@adafruit/search?query=LoRa)
+
+[Arduino](https://store-usa.arduino.cc/)
++ LoRa [search](https://search.arduino.cc/search/?q=LoRa*)
++ LoRa [videos](https://www.youtube.com/@Arduino/search?query=LoRa)
+
+[DigiKey](https://www.digikey.com/)
++ LoRa [search](https://www.digikey.com/en/products/result?s=N4IgTCBcDaIDIHsBKBDEBdAvkA)
++ LoRa [DigiKey videos search](https://www.digikey.com/en/content-search?t=LoRa&f=918738543)
++ LoRa [YouTube videos search](https://www.youtube.com/@digikey/search?query=LoRa)
+
+[Element14](https://community.element14.com/#pifragment-12485=6)
++ LoRa [search](https://community.element14.com/search?q=LoRa)
++ LoRa [videos](https://www.youtube.com/@element14presents/search?query=LoRa)
 
 [Elektor MAG](https://www.elektormagazine.com/)
 + [LoRa with the Raspberry Pi Pico](https://www.elektormagazine.com/magazine/elektor-179/59721#:~:text=Fun%20with%20MicroPython&text=Using%20a%20Raspberry%20Pi%20Pico,Login%20%7C%20Register%20now!) 
@@ -210,6 +230,17 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 
 [Seeed Studio](https://www.seeedstudio.com/)
 + LoRa [search](https://www.seeedstudio.com/catalogsearch/result/?q=LoRa)
++ [LoRa-Enabled Solution](https://www.seeedstudio.com/lora-solution.html)
++ [LoRa videos](https://www.youtube.com/@SeeedStudioSZ/search?query=LoRa)
+
+[Sparkfun](https://www.sparkfun.com/)
++ LoRa [search](https://www.sparkfun.com/search/results?term=LoRa)
++ LoRa [videos](https://www.youtube.com/@sparkfun/search?query=LoRa)
+
+[Waveshare](https://www.waveshare.com/)
++ LoRa [search](https://www.waveshare.com/catalogsearch/result/?q=LoRa)
++ LoRa [search](https://www.waveshare.com/w/index.php?search=LoRa&go=Go)
++ LoRa [videos](https://www.youtube.com/@waveshareelectronics/search?query=LoRa)
 
 <HR>
 
@@ -764,3 +795,15 @@ Here are the key features and purposes of GitHub:
 6. **GitHub Pages**: It allows users to host static websites directly from a repository.
 
 In summary, GitHub is an essential tool for software engineers, teams, and open-source contributors for managing, sharing, and collaborating on code.
+
+<HR>
+
+<p align="center">
+  <img width="150" height="150" src="/Images/GitHub_Invertocat_Logo.png">   
+</p>
+
+## LoRa Antennas
+
+LoRa frequency for North America is 915 MHz.
++ 1/4 wave length of 915 MHz is 7.8 cm. adjusted for velocity factor of .95. Antenna looks like 36.5 ohms.
+    + [Arduino Project to Product – Part 5 – Testing LoRa Range – Maker.io Tutorial | DigiKey](https://www.digikey.com/en/videos/d/digi-key-electronics/arduino-project-to-product--part-5--testing-lora-range---makerio-tutorial--digikey-electronics)
