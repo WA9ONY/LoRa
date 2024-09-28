@@ -272,6 +272,10 @@ These articles will help you set up and explore different LoRa communication pro
 
 <HR>
 
+<p align="center">
+  <img width="538" height="307" src="/Images/LoRa_IC.png">   
+</p>
+
 ## LoRa ICs
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
@@ -395,6 +399,10 @@ HopeRF integrates Semtech LoRa ICs into modules like the RFM series. These are w
 Each IC has its niche, whether it’s low cost, compact size, regulatory compliance, or performance optimization.
 
 <HR>
+
+<p align="center">
+  <img width="538" height="307" src="/Images/LoRaModule.png">   
+</p>
 
 ## LoRa Modules
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
