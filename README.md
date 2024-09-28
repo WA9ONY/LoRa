@@ -711,8 +711,9 @@ Each of these boards offers distinct advantages, depending on the project’s re
 
 GitHub, [Wikipedia](https://en.wikipedia.org/wiki/GitHub), repositories
 + [/LoRa](https://github.com/search?q=%2FLoRa&type=repositories) 18.8k results
-+ [/Adafruit/LoRa](https://github.com/search?q=%2FAdafruit%2FLoRa&type=repositories) 98 results
 + [/TTN](https://github.com/search?q=%2FTTN&type=repositories) 4.2k  results
++ [/Adafruit/LoRa](https://github.com/search?q=%2FAdafruit%2FLoRa&type=repositories) 98 results
++ [/Arduino/LoRa](https://github.com/search?q=%2FArduino%2FLoRa&type=repositories) 818 results
 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
