@@ -57,47 +57,53 @@ LoRa course created by [OpenAI](https://en.wikipedia.org/wiki/OpenAI) ChatGPT4o 
 
 LoRa Course Outline
 + Introduction to LoRa and IoT
-++ Overview of wireless communication protocols for IoT.
-++ Introduction to LoRa: History, development, and role in IoT.
-++ LoRa vs. traditional communication systems (Wi-Fi, Bluetooth, cellular).
-++ Basic concepts: modulation, frequency, bandwidth, and range.
+    + Overview of wireless communication protocols for IoT.
+    + Introduction to LoRa: History, development, and role in IoT.
+    + LoRa vs. traditional communication systems (Wi-Fi, Bluetooth, cellular).
+    + Basic concepts: modulation, frequency, bandwidth, and range.
 
-+ Week 2: LoRa Physical Layer
++ LoRa Physical Layer
 Detailed analysis of the LoRa modulation technique (Chirp Spread Spectrum).
 Understanding the trade-offs: bandwidth, range, and data rate.
 Frequency bands and regulations for LoRa (ISM bands, regional variations).
 Setting up LoRa modules (SX1276/78/92).
-Week 3: LoRaWAN Protocol Architecture
+
++ LoRaWAN Protocol Architecture
 
 Overview of LoRaWAN architecture: end devices, gateways, and network servers.
 LoRaWAN protocol layers and classes (A, B, C).
 Network topology: star-of-stars architecture.
 Security in LoRaWAN: encryption and data integrity.
-Week 4: Building a LoRa Network
+
++ Building a LoRa Network
 
 Setting up a LoRa gateway and connecting end devices.
 Hands-on: Configuring and testing LoRa nodes (Arduino/ESP32 with LoRa modules).
 Understanding signal quality and link budget.
 Network performance analysis: RSSI, SNR, and data rate optimization.
-Week 5: IoT Applications with LoRa
+
++ IoT Applications with LoRa
 
 Use cases: smart agriculture, environmental monitoring, industrial IoT, and smart cities.
 Low-power design principles for IoT devices.
 Sensor integration with LoRa: temperature, humidity, motion, etc.
 LoRa-based telemetry and remote monitoring systems.
-Week 6: LoRa and Cloud Integration
+
++ LoRa and Cloud Integration
 
 Data flow in an IoT system: from sensors to cloud platforms.
 Integration of LoRaWAN with cloud services (e.g., The Things Network, AWS IoT, etc.).
 Hands-on: Sending sensor data from a LoRa device to a cloud platform.
 Analyzing data from the cloud: dashboards, alerts, and notifications.
-Week 7: Advanced Topics in LoRa
+
++ Advanced Topics in LoRa
 
 Mesh networks and alternatives to LoRaWAN.
 Designing low-power systems for remote IoT deployments.
 Performance optimization in real-world environments.
 Challenges in scalability, security, and interference mitigation.
-Week 8: Final Project
+
++ Final Project
 
 Individual or group project: Building an IoT solution using LoRa.
 Project design, development, and implementation.
