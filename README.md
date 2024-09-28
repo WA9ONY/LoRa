@@ -201,6 +201,18 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 
 <HR>
 
+## Magazine LoRa Searches
+
+[Elektor MAG](https://www.elektormagazine.com/)
++ [LoRa with the Raspberry Pi Pico](https://www.elektormagazine.com/magazine/elektor-179/59721#:~:text=Fun%20with%20MicroPython&text=Using%20a%20Raspberry%20Pi%20Pico,Login%20%7C%20Register%20now!) 
++ [My First LoRaWAN](https://www.elektormagazine.com/magazine/elektor-141/57159) 
++ [Seeed Studio RFM95 Ultra-long LoRa Transceiver Module (EU868)](https://www.elektor.com/products/seeed-studio-rfm95-ultra-long-lora-transceiver-module-eu868)
+
+MagPi
++ [MagPi Lora search](https://www.google.com/search?q=MagPi+Lora&oq=MagPi+Lora&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCTY1MTRqMGoxNagCCbACAQ&client=ubuntu-chr&sourceid=chrome&ie=UTF-8)
+
+<HR>
+
 <p align="center">
   <img width="538" height="307" src="/Images/LoRaStore.png">   
 </p>
@@ -227,11 +239,9 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 + LoRa [search](https://community.element14.com/search?q=LoRa)
 + LoRa [videos](https://www.youtube.com/@element14presents/search?query=LoRa)
 
-[Elektor](https://www.elektor.com/)
-[Elektor MAG](https://www.elektormagazine.com/)
-+ [LoRa with the Raspberry Pi Pico](https://www.elektormagazine.com/magazine/elektor-179/59721#:~:text=Fun%20with%20MicroPython&text=Using%20a%20Raspberry%20Pi%20Pico,Login%20%7C%20Register%20now!) 
-+ [My First LoRaWAN](https://www.elektormagazine.com/magazine/elektor-141/57159) 
-+ [Seeed Studio RFM95 Ultra-long LoRa Transceiver Module (EU868)](https://www.elektor.com/products/seeed-studio-rfm95-ultra-long-lora-transceiver-module-eu868)
+[Elektor store](https://www.elektor.com/)
++ LoRa [search](https://www.elektor.com/search?q=LoRa)
++ [IoT & LoRa](https://www.elektor.com/collections/iot-lora)
 
 [Seeed Studio](https://www.seeedstudio.com/)
 + LoRa [search](https://www.seeedstudio.com/catalogsearch/result/?q=LoRa)
