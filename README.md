@@ -35,6 +35,7 @@ The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to informat
 
 ## LoRa: Long Range Wireless IoT
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
+
 [LoRa, Long Range,](https://en.wikipedia.org/wiki/LoRa) is a wireless communication technology that enables low-power, long-range data transmission. It is widely used in Internet of Things, [IoT](https://en.wikipedia.org/wiki/Internet_of_things), applications for connecting devices over large distances with minimal power consumption. Here’s an overview of LoRa:
 
 ### Key Features of LoRa:
