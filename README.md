@@ -147,6 +147,8 @@ Here are some useful YouTube tutorials to help you get started with LoRa and LoR
 
 These tutorials offer both conceptual overviews and hands-on guidance for using LoRa and LoRaWAN in IoT projects.
 
+<HR>
+
 ## LoRa Tutorials
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 Here are some excellent free tutorials and resources for learning about LoRa and LoRaWAN:
@@ -386,7 +388,7 @@ HopeRF integrates Semtech LoRa ICs into modules like the RFM series. These are w
   - **Limited range of supported frequencies**: Typically focused on 433 MHz and 868/915 MHz, which could limit usage in certain regions.
   - **Higher power consumption**: Not as optimized for ultra-low power applications compared to newer chips.
 
----
+
 
 ### **Summary of Key Points**
 
