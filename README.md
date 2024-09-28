@@ -203,9 +203,14 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 
 ## LoRa Articles
 
-+ [LoRa with the Raspberry Pi Pico](https://www.elektormagazine.com/magazine/elektor-179/59721#:~:text=Fun%20with%20MicroPython&text=Using%20a%20Raspberry%20Pi%20Pico,Login%20%7C%20Register%20now!) by Elektor MAG
-+ [My First LoRaWAN](https://www.elektormagazine.com/magazine/elektor-141/57159) by Elektor MAG
+[Elektor MAG](https://www.elektormagazine.com/)
++ [LoRa with the Raspberry Pi Pico](https://www.elektormagazine.com/magazine/elektor-179/59721#:~:text=Fun%20with%20MicroPython&text=Using%20a%20Raspberry%20Pi%20Pico,Login%20%7C%20Register%20now!) 
++ [My First LoRaWAN](https://www.elektormagazine.com/magazine/elektor-141/57159) 
+
+[Seeed Studio](https://www.seeedstudio.com/)
 + [Seeed Studio RFM95 Ultra-long LoRa Transceiver Module (EU868)](https://www.elektor.com/products/seeed-studio-rfm95-ultra-long-lora-transceiver-module-eu868)
++ LoRa [search](https://www.seeedstudio.com/catalogsearch/result/?q=LoRa)
+
 <HR>
 
 ## LoRa Books
