@@ -817,10 +817,6 @@ In summary, GitHub is an essential tool for software engineers, teams, and open-
 
 <HR>
 
-<p align="center">
-  <img width="150" height="150" src="/Images/GitHub_Invertocat_Logo.png">   
-</p>
-
 ## LoRa Antennas
 
 LoRa frequency for North America is 915 MHz.
