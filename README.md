@@ -18,7 +18,22 @@
    </table>
 </p>
 
-# LoRa: Long Range Wireless IoT
+# LoRa Projects Goals
+
+Goals
++ Learn how to use LoRa technology.
++ Crate a point to point LoRa communication project.
++ Implement a LoRa altidue logging system that is on a kite.
+
+Phases
+1. Collect and study the LoRa information
+2. Implement a simple LoRa system
+
+The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to information in this web page that was created by OpenAI ChatGPT4o in a conversation with David Haworth, WA9ONY.
+ 
+<HR>
+
+## LoRa: Long Range Wireless IoT
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 [LoRa (Long Range)](https://en.wikipedia.org/wiki/LoRa) is a wireless communication technology that enables low-power, long-range data transmission. It is widely used in Internet of Things ([IoT](https://en.wikipedia.org/wiki/Internet_of_things)) applications for connecting devices over large distances with minimal power consumption. Here’s an overview of LoRa:
 
@@ -55,12 +70,11 @@ LoRa's combination of long range, low power consumption, and cost-effectiveness 
 
 LoRa course created by [OpenAI](https://en.wikipedia.org/wiki/OpenAI) ChatGPT4o in a conversation with David Haworth, WA9ONY.
 
-The above link is an OpenAI shared conversation link to the LoRa course conversation.
+The below link is an OpenAI shared conversation link to the LoRa course conversation.
 <P>
-<A HREF="https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397">ChatGPT4o LoRa Course</A> by WA9ONY   
+<A HREF="https://chatgpt.com/share/66f5e6a4-27f8-800d-9963-b0f93933b397">ChatGPT4o LoRa Course</A> outline   
 </P>
 
-LoRa Course Outline
 + Introduction to LoRa and IoT
     + Overview of wireless communication protocols for IoT.
     + Introduction to LoRa: History, development, and role in IoT.
