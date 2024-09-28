@@ -64,10 +64,9 @@ The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to informat
 LoRa's combination of long range, low power consumption, and cost-effectiveness makes it a popular choice for IoT applications where devices need to communicate over long distances with minimal energy use.
 
 <HR>
-<p align="center">
-  <img width="354" height="95" src="/Images/OpenAI_Logo.png">   
-</p
+
 ## [OpenAI](https://en.wikipedia.org/wiki/OpenAI) ChatGPT4o LoRa Course
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 LoRa course created by [OpenAI](https://en.wikipedia.org/wiki/OpenAI) ChatGPT4o in a conversation with David Haworth, WA9ONY.
 
@@ -149,7 +148,7 @@ Here are some useful YouTube tutorials to help you get started with LoRa and LoR
 These tutorials offer both conceptual overviews and hands-on guidance for using LoRa and LoRaWAN in IoT projects.
 
 ## LoRa Tutorials
- <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 Here are some excellent free tutorials and resources for learning about LoRa and LoRaWAN:
 
 1. **Semtech Academy for LoRaWAN**: This platform offers a self-paced course on the fundamentals of LoRaWAN. It includes detailed explanations of the protocol, security, and device classes, making it perfect for those who want to develop LoRaWAN applications from the ground up. [Semtech LoRaWAN Academy](https://learn.semtech.com)【9†source】.
@@ -168,8 +167,9 @@ These tutorials will help you build a solid foundation in LoRa and LoRaWAN and g
   <img width="413" height="89" src="/Images/YouTube_2024b.png">   
 </p>
 
-## LoRa YouTube Play Lists
+## LoRa YouTube Videos
 
+LoRa YouTube Play Lists
 + LoRa Alliance [playlists](https://www.youtube.com/@loraalliance3333/playlists)
 + The Things Network [playlist](https://www.youtube.com/@TheThingsNetworkCommunity/playlists)
 + Semtech Corporation [playlists](https://www.youtube.com/@SemtechMediacenter/playlists)
@@ -185,9 +185,7 @@ These tutorials will help you build a solid foundation in LoRa and LoRaWAN and g
 + LoRa by Electronics Innovation ([8 videos](https://www.youtube.com/playlist?list=PLmLQ9terIPnk36dsEvNO9rjLMXPEiWD9P))
 + LoRa by Antonello Di Giulio ([7 videos](https://www.youtube.com/playlist?list=PLsvtYMJT9VVGvkClcFfpTPkLSe3ZDwuzz))
 
-<HR>
-
-## LoRa YouTube Videos
+LoRa YouTube Videos
 
 + LoRa - Long-Range Radio for IoT | Arduino, ESP32, RPI Pico by DroneBot Workshop (>1 hour [video](https://youtu.be/YQ7aLHCTeeE?si=TpUNBkoe6R7r6Bk5))
 + [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=RqNVbNyY0ELCJc_C) by Visual Electric
@@ -209,6 +207,7 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 <HR>
 
 ## LoRa Books
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 Here are some highly recommended books for learning about LoRa and LoRaWAN:
 
