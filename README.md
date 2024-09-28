@@ -201,7 +201,11 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 
 <HR>
 
-## LoRa Stores
+<p align="center">
+  <img width="538" height="307" src="/Images/LoRaStore.png">   
+</p>
+
+## LoRa Storess
 
 [Arduino](https://www.adafruit.com/)
 + LoRa product [search](https://www.adafruit.com/search?q=LoRa)
@@ -223,6 +227,7 @@ Google LoRa [search](https://www.google.com/search?q=Lora+with+the+raspberry+pi+
 + LoRa [search](https://community.element14.com/search?q=LoRa)
 + LoRa [videos](https://www.youtube.com/@element14presents/search?query=LoRa)
 
+[Elektor](https://www.elektor.com/)
 [Elektor MAG](https://www.elektormagazine.com/)
 + [LoRa with the Raspberry Pi Pico](https://www.elektormagazine.com/magazine/elektor-179/59721#:~:text=Fun%20with%20MicroPython&text=Using%20a%20Raspberry%20Pi%20Pico,Login%20%7C%20Register%20now!) 
 + [My First LoRaWAN](https://www.elektormagazine.com/magazine/elektor-141/57159) 
