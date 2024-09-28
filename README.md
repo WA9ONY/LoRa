@@ -149,6 +149,10 @@ These tutorials offer both conceptual overviews and hands-on guidance for using 
 
 <HR>
 
+<p align="center">
+  <img width="538" height="307" src="/Images/LoRaClass.png">   
+</p>
+
 ## LoRa Tutorials
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 Here are some excellent free tutorials and resources for learning about LoRa and LoRaWAN:
