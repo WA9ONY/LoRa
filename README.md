@@ -10,6 +10,8 @@
 
 Goals
 + Learn how to use LoRa technology.
+  + Collect and organzie LoRa information in a GitHub repository.
+  + Use [OpenAI](https://en.wikipedia.org/wiki/OpenAI) ChatGPT4o to learn about LoRa.
 + Create a point to point LoRa communication project.
 + Implement a LoRa height above ground logging system that is mounted on a kite.
 
