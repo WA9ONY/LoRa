@@ -34,7 +34,7 @@ YouTube
 
 
 Antenna site analysis
-+ [heywhatsthat](https://www.heywhatsthat.com/#google_vignette0
++ [heywhatsthat](https://www.heywhatsthat.com/#google_vignette)
 
 Notes
 + Visit us at https://meshtastic.org/ to learn more about the project.
