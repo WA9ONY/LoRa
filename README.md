@@ -16,7 +16,7 @@ Goals
 + Implement a LoRa height above ground logging system that is mounted on a kite.
 
 Phases
-1. Collect and study the LoRa information
+1. Collect LoRa information, organize it on a GitHub repository and study it.
 2. Implement a simple LoRa system
 
 The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to information in this web page that was created by OpenAI ChatGPT4o in a conversation with David Haworth, WA9ONY.
