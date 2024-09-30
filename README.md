@@ -822,3 +822,22 @@ In summary, GitHub is an essential tool for software engineers, teams, and open-
 LoRa frequency for North America is 915 MHz.
 + 1/4 wave length of 915 MHz is 7.8 cm. adjusted for velocity factor of .95. Antenna looks like 36.5 ohms.
     + [Arduino Project to Product – Part 5 – Testing LoRa Range – Maker.io Tutorial | DigiKey](https://www.digikey.com/en/videos/d/digi-key-electronics/arduino-project-to-product--part-5--testing-lora-range---makerio-tutorial--digikey-electronics)
+
+<HR>
+
+<p align="center">
+       <img width="169" height="170" src="/Images/LoRaAll.png"> 
+</p>
+
+## LoRa Alliance
+
+
+
+<HR>
+
+<p align="center">
+       <img width="169" height="170" src="/Images/TTNLogo.png">
+</p>
+
+
+## LoRa TTN
