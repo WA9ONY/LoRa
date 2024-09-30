@@ -20,6 +20,10 @@ Phases
 2. Implement a simple LoRa system
 
 The [OpenAI](https://en.wikipedia.org/wiki/OpenAI) icon appears next to information in this web page that was created by OpenAI ChatGPT4o in a conversation with David Haworth, WA9ONY.
+
+[Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) 2 meter FM net on Monday evening at 8:30 PM, WA7ABU repeater 145.290 MHz
++ [NT3S](https://www.qrz.com/db/NT3S) Nick is net control.
++ [K1RKS](https://www.qrz.com/db/K1RKS) Kirk
  
 <HR>
 
@@ -837,3 +841,6 @@ LoRa frequency for North America is 915 MHz.
 
 
 ## LoRa TTN
+
+
+
