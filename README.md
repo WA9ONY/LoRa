@@ -4,11 +4,12 @@
 
 <p align="center">
        <img width="169" height="170" src="/Images/LoRaAll.png"> 
-
+</p>
+<p align="center">
        <img width="512" height="512" src="/Images/LoRaBanner3s512.png">
-
+</p>
+<p align="center">
        <img width="169" height="170" src="/Images/TTNLogo.png">
-
 </p>
 
 # LoRa Projects Goals
