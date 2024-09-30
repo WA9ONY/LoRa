@@ -3,19 +3,12 @@
 </P>  
 
 <p align="center">
-<table width="100%" height="100%" align="center" valign="center" border=0>
-   <tr>
-    <td border=0>
        <img width="169" height="170" src="/Images/LoRaAll.png"> 
-   </td>
-    <td border=0>
+
        <img width="512" height="512" src="/Images/LoRaBanner3s512.png">
-   </td>
-    <td border=0>
+
        <img width="169" height="170" src="/Images/TTNLogo.png">
-    </td
-   </tr>
-   </table>
+
 </p>
 
 # LoRa Projects Goals
@@ -222,6 +215,12 @@ MagPi
 </p>
 
 ## LoRa Storess
+
+[AliExpress](https://www.aliexpress.us/)
++ LoRa product [search](https://www.aliexpress.us/w/wholesale-LoRa.html?spm=a2g0o.home.search.0)
+
+[Amazon](https://www.amazon.com/)
++ LoRa product [search](https://www.amazon.com/s?k=LoRa&i=electronics&crid=1PHN1HBBCTKLI&sprefix=lora%2Celectronics%2C207&ref=nb_sb_noss_1)
 
 [Arduino](https://www.adafruit.com/)
 + LoRa product [search](https://www.adafruit.com/search?q=LoRa)
