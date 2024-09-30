@@ -1,4 +1,15 @@
-Meshtastic
+<P align="center"> - <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> -<BR>
+- <A HREF="https://github.com/WA9ONY/LoRa/Adafruit/README.md">Adafruit</A> -
+</P>  
+
+<p align="center">
+       <img width="512" height="512" src="/Images/LoRaBanner3s512.png">
+</p>
+
+
+<HR>
+
+# LoRa Networks Meshtastic
 
 LoRa radios are used in a variety of network types, each designed for different applications depending on the architecture, purpose, and scale. Here are the most common types of networks that utilize **LoRa radios**:
 
@@ -76,9 +87,7 @@ LoRa radios are used in a variety of network types, each designed for different 
 
 Each network type is tailored to specific use cases depending on the scale, complexity, and connectivity requirements. If you're working on a project, selecting the right network architecture will depend on whether you need local, off-grid communication or cloud-based data collection with global reach.
 
-
-
-Certainly! Here’s a list of the different types of networks that use LoRa radios, along with specific examples (names) of projects or services:
+Here’s a list of the different types of networks that use LoRa radios, along with specific examples (names) of projects or services:
 
 ### 1. **LoRaWAN (Long Range Wide Area Network)**
    - **The Things Network (TTN)**: A community-driven LoRaWAN network for IoT applications, widely used globally.
