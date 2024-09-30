@@ -22,6 +22,12 @@ Meshtastic maps
 [LiLygo](https://www.lilygo.cc/)
 + [Search](https://www.lilygo.cc/search?q=meshtaskic&options%5Bprefix%5D=last)
 
+YouTube
++ [Meshtastic search](https://www.youtube.com/results?search_query=Meshtastic)
++ [Meshtastic lilygo](https://www.youtube.com/results?search_query=meshtastic+lilygo)
++ [Lilygo T-Echo](https://www.youtube.com/results?search_query=Lilygo+T-Echo)
++ [lilygo t-echo setup](https://www.youtube.com/results?search_query=lilygo+t-echo+setup)
+
 <HR>
 
 # LoRa Networks Meshtastic
