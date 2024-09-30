@@ -6,6 +6,16 @@
        <img width="512" height="512" src="/Images/LoRaBanner3s512.png">
 </p>
 
+<HR>
+
+# LoRa Networks Meshtastic
+
+[Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) 2 meter FM net on Monday evening at 8:30 PM, WA7ABU repeater 145.290 MHz
++ [NT3S](https://www.qrz.com/db/NT3S) Nick is net control.
++ [K1RKS](https://www.qrz.com/db/K1RKS) Kirk
++ [K7OLI](https://www.qrz.com/db/K7OLI) Rogene
+ 
+[Meshtastic map](https://meshtastic.liamcottle.net/?lat=45.469762152630416&lng=237.1549987792969&zoom=10)
 
 <HR>
 
