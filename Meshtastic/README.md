@@ -31,6 +31,23 @@ YouTube
 + [Lilygo T-Echo](https://www.youtube.com/results?search_query=Lilygo+T-Echo)
 + [lilygo t-echo setup](https://www.youtube.com/results?search_query=lilygo+t-echo+setup)
 
+
+
+Antenna site analysis
++ [heywhatsthat](https://www.heywhatsthat.com/#google_vignette0
+
+Notes
++ Visit us at https://meshtastic.org/ to learn more about the project.
++ Join us on: 
++ Discord -   / discord  
++ Github - https://github.com/meshtastic
++ Twitter -   / themeshtastic  
++ Instagram -   / themeshtastic  
++ FaceBook -   / themeshtastic  
++ Reddit -   / meshtastic  
++ Discourse - https://meshtastic.discourse.group/
+
+
 <HR>
 
 # LoRa Networks Meshtastic
