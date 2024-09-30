@@ -14,8 +14,10 @@
 + [NT3S](https://www.qrz.com/db/NT3S) Nick is net control.
 + [K1RKS](https://www.qrz.com/db/K1RKS) Kirk
 + [K7OLI](https://www.qrz.com/db/K7OLI) Rogene
- 
-[Meshtastic map](https://meshtastic.liamcottle.net/?lat=45.469762152630416&lng=237.1549987792969&zoom=10)
+
+Meshtastic maps
++ [1. map](https://meshmap.net/) 
++ [2. map](https://meshtastic.liamcottle.net/?lat=45.469762152630416&lng=237.1549987792969&zoom=10)
 
 <HR>
 
