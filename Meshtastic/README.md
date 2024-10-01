@@ -4,12 +4,11 @@
 
 <p align="center">
        <img width="319" height="179" src="/Meshtastic/Images/Meshtastic.png">
-       <img width="319" height="179" src="/Meshtastic/Meshtastic.png">
 </p>
 
-<HR>
-
 # LoRa Networks Meshtastic
+
+<HR>
 
 [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) 2 meter FM net on Monday evening at 8:30 PM, WA7ABU repeater 145.290 MHz
 + [NT3S](https://www.qrz.com/db/NT3S) Nick is net control.
