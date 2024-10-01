@@ -1,5 +1,5 @@
 <P align="center"> - <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> -<BR>
-LoRa GitHub Repositories: LoRa - <A HREF="https://github.com/WA9ONY/LoRa/tree/main/Adafruit">Adafruit</A> - <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A>
+- LoRa GitHub Repositories: LoRa - <A HREF="https://github.com/WA9ONY/LoRa/tree/main/Adafruit">Adafruit</A> - <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A> -
 </P>  
 
 <p align="center">
