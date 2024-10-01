@@ -3,8 +3,8 @@
 </P>  
 
 <p align="center">
-       <img width="319" height="179" src="/Images/Meshtastic.png">
-              <img width="319" height="179" src="/Meshtastic/Meshtastic.png">
+       <img width="319" height="179" src="/Meshtastic/Images/Meshtastic.png">
+       <img width="319" height="179" src="/Meshtastic/Meshtastic.png">
 </p>
 
 <HR>
