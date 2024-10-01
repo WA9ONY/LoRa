@@ -3,7 +3,7 @@
 </P>  
 
 <p align="center">
-       <img width="512" height="512" src="/Images/LoRaBanner3s512.png">
+       <img width="319" height="179" src="/Images/Meshtastic.png">
 </p>
 
 <HR>
