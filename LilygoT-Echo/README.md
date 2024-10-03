@@ -3,7 +3,7 @@
 <A HREF="https://github.com/WA9ONY/LoRa">LoRa</A> - 
 <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A> -
 </P>  
-
+       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
 <p align="center">
 
 </p>
@@ -43,6 +43,9 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 
 ### Stores
 - [Amazon](https://www.amazon.com/LILYGO-Wireless-Meshtastic-Development-NRF52840/dp/B0B658DZ9Z/ref=sr_1_fkmr0_1?crid=3V2GF20NV4AUD&dib=eyJ2IjoiMSJ9.NL1Nmz6IhAk3DevcKSuwYy4aVRF-U_tt3-tXilu0xnYiQl32sUrhAGZq3naG7skQ.DAyTDa25bFBOQZebDJjv2qLgnsnP3BUmIMHoVtY3U-g&dib_tag=se&keywords=Lylgo%2BT-Echo&qid=1727993611&sprefix=lylgo%2Bt-echo%2Caps%2C162&sr=8-1-fkmr0&th=1)
+  - I received two Lilygo T-Echos on October 1.
+  - They had old Meshtastic 2.3.9V installed and factory software that did not allow full operation.
+  - Using Raspberry Pi 5 Ubuntu I installed Meshtastic 2.4.2V.
 - [Rokland](https://store.rokland.com/products/lilygo-ttgo-meshtastic-t-echo-white-bme280-lora-sx1262-wireless-module-915mhz-nrf52840-gps-rtc-nfc-for-arduino?ref=tc2&variant=40844083593299)
 
 
