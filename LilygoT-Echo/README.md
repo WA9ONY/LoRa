@@ -3,7 +3,7 @@
 </P>  
 
 <p align="center">
-       <img width="360" height="640" src="/Images/LoRaBanner3s512.jpg">
+       <img width="360" height="640" src="/Images/LilygoTEcho.jpg">
 </p>
 
 
@@ -12,7 +12,7 @@
 <HR>
 
 <p align="center">
-       <img width="360" height="640" src="/Images/LoRaBanner3s512.jpg">
+       <img width="360" height="640" src="/Images/LilygoTEcho.jpg">
 </p>
 
 ## Window Test with Stock Lilygo T-Echo 
