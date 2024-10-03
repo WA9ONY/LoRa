@@ -46,7 +46,13 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
   - They had old Meshtastic 2.3.9V installed and factory software that did not allow full operation.
   - Using Raspberry Pi 5 Ubuntu I installed Meshtastic 2.4.2V.
 - [Rokland](https://store.rokland.com/products/lilygo-ttgo-meshtastic-t-echo-white-bme280-lora-sx1262-wireless-module-915mhz-nrf52840-gps-rtc-nfc-for-arduino?ref=tc2&variant=40844083593299)
+- [AliExpress](https://www.aliexpress.us/item/3256802656141638.html?gatewayAdapt=bra2usa4itemAdapt)
 
+### GitHub
+- [LilyGo T-Echo](https://github.com/Xinyuan-LilyGO/T-Echo?ref=tc2)
+- [Meshtastic](https://github.com/meshtastic)
+
+- [Meshtastic docs](https://github.com/meshtastic/artifacts/tree/docs)
 
 In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for setting up long-range, low-power communication networks without the need for traditional infrastructure. It's particularly useful for off-grid environments, adventure activities, or even IoT projects where long-range communication is needed.
 
@@ -61,58 +67,6 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 Lilygo T-Echo with factory firmware and Meshtastic 2.4.4 updated listing test on LongFast.
 
 Below are amateur radio call signs received.
-
-
-<HR>
-
-## nRF52840 Microcontroller
-
-The **nRF52840** is a highly popular and versatile **System on Chip (SoC)** from **Nordic Semiconductor**, designed specifically for wireless applications. It is widely used in **Bluetooth Low Energy (BLE)**, **Zigbee**, **Thread**, and other low-power wireless communication technologies. Here's a breakdown of its features and capabilities:
-
-### Key Features of the nRF52840:
-
-1. **Core Microcontroller**:
-   - **ARM Cortex-M4**: The nRF52840 is based on the **Cortex-M4 CPU with FPU (Floating Point Unit)**, running at 64 MHz. The M4 core provides efficient processing for a wide range of applications while keeping power consumption low.
-   - **256 KB RAM and 1 MB Flash Memory**: These memory configurations allow it to handle complex firmware, support wireless protocols, and store data efficiently.
-
-2. **Wireless Connectivity**:
-   - **Bluetooth 5.3 (BLE)**: The nRF52840 supports **Bluetooth Low Energy** (BLE), including new features such as **long-range mode** and **2 Mbps data rates**. This makes it ideal for applications that require low power and medium-range wireless communication.
-   - **802.15.4 Protocol**: This supports standards like **Zigbee** and **Thread**, which are commonly used for mesh networking in smart homes and IoT (Internet of Things) applications.
-   - **ANT and Proprietary Protocols**: It also supports **ANT** wireless communication, which is often used in fitness devices, and can be used for proprietary 2.4 GHz wireless protocols.
-   - **NFC (Near Field Communication)**: It includes NFC-A for applications such as device pairing and proximity-based interactions.
-
-3. **Low Power Consumption**:
-   - The nRF52840 is designed for **low-power operation**, making it suitable for battery-powered devices, such as wearables, sensors, and portable devices. It includes various power-saving modes to optimize energy usage.
-   - **Power Supply Range**: It operates with a wide voltage range, from **1.7 V to 3.6 V**, supporting various types of power supplies, including coin-cell batteries and USB power.
-
-4. **USB 2.0 Support**:
-   - One standout feature of the nRF52840 is its **USB 2.0 full-speed controller**, allowing it to function as a **USB device**. This makes it ideal for applications that require a **USB interface**, such as human interface devices (HIDs), communication devices, and data loggers.
-
-5. **Cryptographic Capabilities**:
-   - **Hardware-accelerated cryptography**: The nRF52840 has built-in support for **AES (128/256-bit encryption)**, **SHA-2 hashing**, **Elliptic Curve Cryptography (ECC)**, and other cryptographic algorithms, making it suitable for **secure IoT devices** and applications requiring encrypted communication.
-
-6. **I/O Capabilities**:
-   - **Flexible GPIO (General Purpose Input/Output)**: The SoC includes many programmable I/O pins, allowing for peripheral control and communication with external sensors and modules.
-   - **SPI, I2C, UART, and QSPI**: It supports multiple communication protocols for interfacing with other devices, such as sensors, displays, and storage modules.
-   - **PWM and ADC**: The nRF52840 also features **Pulse Width Modulation (PWM)** and **Analog-to-Digital Converter (ADC)** functionality, useful in applications such as motor control and sensor interfacing.
-
-7. **Mesh Networking**:
-   - **Bluetooth Mesh, Zigbee, and Thread**: The nRF52840 supports mesh networking protocols, which are ideal for smart lighting, smart home devices, and other IoT applications where devices communicate across a mesh network to extend range and reliability.
-
-### Applications:
-
-1. **Wearables**: The nRF52840's BLE capabilities and low power consumption make it ideal for smartwatches, fitness trackers, and health monitors.
-2. **Smart Home Devices**: Its support for Zigbee, Thread, and BLE makes it suitable for smart lighting, security systems, and home automation products.
-3. **IoT Devices**: The wide variety of wireless protocols, low-power features, and cryptographic capabilities make it perfect for connected sensors and other IoT applications.
-4. **USB Devices**: With native USB support, it's also used in applications like USB dongles, peripherals, and data loggers.
-5. **Medical Devices**: Due to its low power and robust wireless communication, it can be used in remote health monitoring and medical sensor devices.
-
-### Development and Ecosystem:
-   - **SDK**: Nordic Semiconductor provides an extensive **Software Development Kit (SDK)**, which includes libraries for Bluetooth, Zigbee, Thread, and other wireless stacks.
-   - **Development Boards**: The nRF52840 is available in various development boards, including the **nRF52840 Dongle** and the **nRF52840 Development Kit**, which help developers prototype and test applications.
-
-### Summary:
-The **nRF52840** is a powerful and highly versatile microcontroller designed for a wide range of wireless applications, particularly in **Bluetooth Low Energy**, **Zigbee**, **Thread**, and other low-power wireless communication environments. Its robust feature set, low power consumption, and support for various security standards make it an excellent choice for **IoT**, **smart home**, and **wearable** technology applications.
 
 
 <HR>
@@ -189,6 +143,120 @@ The **SX1262** is an improved version of the **SX1276**, both of which are LoRa 
 
 ### Summary:
 The **SX1262** is a powerful, long-range LoRa transceiver that excels in low-power applications, making it a cornerstone for IoT and smart devices. It combines **long-range communication**, **low power consumption**, **high sensitivity**, and **strong security features**, making it highly suitable for a wide range of **IoT**, **industrial**, and **environmental monitoring** applications. Whether used in **LoRaWAN networks** or other proprietary protocols, it provides a reliable solution for wireless data transmission over significant distances.
+
+<HR>
+
+## L76K GNSS Receiver with GPS, BeiDou, GLONASS & QZSS
+
+The **L76K GNSS receiver** is a compact, high-performance **Global Navigation Satellite System (GNSS)** module designed for accurate and low-power satellite positioning. It supports multiple satellite constellations, including **GPS**, **BeiDou**, **GLONASS**, and **QZSS**. Manufactured by **Quectel**, this module is widely used in applications requiring location tracking, such as IoT devices, asset tracking, wearables, and automotive systems.
+
+### Key Features of L76K GNSS Receiver:
+
+1. **Multi-Constellation Support**:
+   - **GPS (Global Positioning System)**: The U.S.-based satellite system for global positioning.
+   - **BeiDou**: China’s satellite system, providing regional and global positioning.
+   - **GLONASS**: Russia’s satellite positioning system, used in parallel with GPS for higher accuracy.
+   - **QZSS (Quasi-Zenith Satellite System)**: A Japanese satellite system that enhances GPS in the Asia-Oceania region, especially in Japan.
+   
+   The **multi-constellation support** ensures better accuracy, faster time-to-first-fix (TTFF), and higher reliability in challenging environments (urban areas, forests, etc.) by leveraging multiple satellite systems simultaneously.
+
+2. **High Sensitivity and Fast Time to First Fix (TTFF)**:
+   - The L76K offers high sensitivity, enabling it to pick up weak satellite signals, which improves performance in dense urban areas, forests, or environments with tall buildings.
+   - **TTFF** is the time required for the GNSS module to acquire satellite signals and determine its position. The L76K offers **fast TTFF** in both cold and hot start scenarios, allowing for rapid location fixes.
+
+3. **Low Power Consumption**:
+   - The L76K is designed to operate efficiently in low-power environments, making it suitable for **battery-powered devices** like portable trackers, IoT sensors, and wearables.
+   - It has power-saving modes such as **standby** and **backup**, which help extend the battery life of the devices it is used in.
+
+4. **Positioning Accuracy**:
+   - It provides accurate **positioning data** with an accuracy typically in the range of **2.5 meters CEP (Circular Error Probability)**, which is sufficient for most general positioning applications.
+   - The L76K can achieve higher accuracy by combining signals from multiple satellite systems.
+
+5. **Compact Size**:
+   - The **L76K** is a **small-sized module**, making it easy to integrate into compact devices such as IoT gadgets, personal trackers, and wearables where space is limited.
+
+6. **Navigation and Tracking**:
+   - It supports both **continuous navigation** and **periodic tracking**, making it useful for applications where real-time tracking or periodic position updates are required.
+   - It can be configured to send periodic location data, reducing the need for continuous GNSS data acquisition and saving power.
+
+7. **Assisted GNSS (A-GNSS)**:
+   - The module supports **A-GPS (Assisted GPS)**, which allows faster position acquisition by using data from external servers, reducing TTFF in cold starts.
+   - This feature is particularly useful in mobile devices and IoT applications where a fast location fix is required after the device wakes from sleep or is powered on.
+
+8. **Interfaces**:
+   - The L76K communicates using standard protocols like **UART**, making it easy to interface with microcontrollers, processors, and development platforms like **Arduino** or **Raspberry Pi**.
+   - It also supports **I2C**, making it versatile for a range of embedded applications.
+
+9. **Applications**:
+   - **Wearables**: Used in smartwatches and fitness trackers for real-time location tracking.
+   - **Asset Tracking**: Employed in logistics and supply chain management to monitor the location of goods and vehicles.
+   - **Drones and Robotics**: Provides accurate positioning data for navigation and control.
+   - **Automotive**: Can be integrated into vehicle tracking systems for navigation and fleet management.
+   - **IoT and Smart Cities**: Used in smart city applications for geofencing, smart agriculture, and environmental monitoring.
+
+10. **Enhanced GNSS Performance**:
+   - The L76K includes features like **Anti-Jamming** and **Multipath Mitigation**, which improve GNSS performance in environments with signal interference or when signals are reflected off buildings or other objects.
+
+### Technical Specifications:
+
+- **Operating Voltage**: Typically 3.0V to 4.3V, compatible with most embedded systems.
+- **Power Consumption**: Very low in standby and backup modes, making it ideal for energy-efficient devices.
+- **Communication Protocol**: UART, I2C.
+- **Operating Temperature**: -40°C to +85°C, suitable for both indoor and outdoor applications.
+
+### Summary:
+The **L76K GNSS receiver** is a powerful and energy-efficient module that provides reliable and accurate positioning by utilizing multiple satellite systems (GPS, BeiDou, GLONASS, QZSS). Its compact size, fast time-to-first-fix, low power consumption, and enhanced tracking features make it an excellent choice for a variety of applications, including IoT devices, wearables, drones, and automotive systems where location tracking is critical.
+
+<HR>
+
+## nRF52840 Microcontroller
+
+The **nRF52840** is a highly popular and versatile **System on Chip (SoC)** from **Nordic Semiconductor**, designed specifically for wireless applications. It is widely used in **Bluetooth Low Energy (BLE)**, **Zigbee**, **Thread**, and other low-power wireless communication technologies. Here's a breakdown of its features and capabilities:
+
+### Key Features of the nRF52840:
+
+1. **Core Microcontroller**:
+   - **ARM Cortex-M4**: The nRF52840 is based on the **Cortex-M4 CPU with FPU (Floating Point Unit)**, running at 64 MHz. The M4 core provides efficient processing for a wide range of applications while keeping power consumption low.
+   - **256 KB RAM and 1 MB Flash Memory**: These memory configurations allow it to handle complex firmware, support wireless protocols, and store data efficiently.
+
+2. **Wireless Connectivity**:
+   - **Bluetooth 5.3 (BLE)**: The nRF52840 supports **Bluetooth Low Energy** (BLE), including new features such as **long-range mode** and **2 Mbps data rates**. This makes it ideal for applications that require low power and medium-range wireless communication.
+   - **802.15.4 Protocol**: This supports standards like **Zigbee** and **Thread**, which are commonly used for mesh networking in smart homes and IoT (Internet of Things) applications.
+   - **ANT and Proprietary Protocols**: It also supports **ANT** wireless communication, which is often used in fitness devices, and can be used for proprietary 2.4 GHz wireless protocols.
+   - **NFC (Near Field Communication)**: It includes NFC-A for applications such as device pairing and proximity-based interactions.
+
+3. **Low Power Consumption**:
+   - The nRF52840 is designed for **low-power operation**, making it suitable for battery-powered devices, such as wearables, sensors, and portable devices. It includes various power-saving modes to optimize energy usage.
+   - **Power Supply Range**: It operates with a wide voltage range, from **1.7 V to 3.6 V**, supporting various types of power supplies, including coin-cell batteries and USB power.
+
+4. **USB 2.0 Support**:
+   - One standout feature of the nRF52840 is its **USB 2.0 full-speed controller**, allowing it to function as a **USB device**. This makes it ideal for applications that require a **USB interface**, such as human interface devices (HIDs), communication devices, and data loggers.
+
+5. **Cryptographic Capabilities**:
+   - **Hardware-accelerated cryptography**: The nRF52840 has built-in support for **AES (128/256-bit encryption)**, **SHA-2 hashing**, **Elliptic Curve Cryptography (ECC)**, and other cryptographic algorithms, making it suitable for **secure IoT devices** and applications requiring encrypted communication.
+
+6. **I/O Capabilities**:
+   - **Flexible GPIO (General Purpose Input/Output)**: The SoC includes many programmable I/O pins, allowing for peripheral control and communication with external sensors and modules.
+   - **SPI, I2C, UART, and QSPI**: It supports multiple communication protocols for interfacing with other devices, such as sensors, displays, and storage modules.
+   - **PWM and ADC**: The nRF52840 also features **Pulse Width Modulation (PWM)** and **Analog-to-Digital Converter (ADC)** functionality, useful in applications such as motor control and sensor interfacing.
+
+7. **Mesh Networking**:
+   - **Bluetooth Mesh, Zigbee, and Thread**: The nRF52840 supports mesh networking protocols, which are ideal for smart lighting, smart home devices, and other IoT applications where devices communicate across a mesh network to extend range and reliability.
+
+### Applications:
+
+1. **Wearables**: The nRF52840's BLE capabilities and low power consumption make it ideal for smartwatches, fitness trackers, and health monitors.
+2. **Smart Home Devices**: Its support for Zigbee, Thread, and BLE makes it suitable for smart lighting, security systems, and home automation products.
+3. **IoT Devices**: The wide variety of wireless protocols, low-power features, and cryptographic capabilities make it perfect for connected sensors and other IoT applications.
+4. **USB Devices**: With native USB support, it's also used in applications like USB dongles, peripherals, and data loggers.
+5. **Medical Devices**: Due to its low power and robust wireless communication, it can be used in remote health monitoring and medical sensor devices.
+
+### Development and Ecosystem:
+   - **SDK**: Nordic Semiconductor provides an extensive **Software Development Kit (SDK)**, which includes libraries for Bluetooth, Zigbee, Thread, and other wireless stacks.
+   - **Development Boards**: The nRF52840 is available in various development boards, including the **nRF52840 Dongle** and the **nRF52840 Development Kit**, which help developers prototype and test applications.
+
+### Summary:
+The **nRF52840** is a powerful and highly versatile microcontroller designed for a wide range of wireless applications, particularly in **Bluetooth Low Energy**, **Zigbee**, **Thread**, and other low-power wireless communication environments. Its robust feature set, low power consumption, and support for various security standards make it an excellent choice for **IoT**, **smart home**, and **wearable** technology applications.
 
 
 <HR>
