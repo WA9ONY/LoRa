@@ -73,6 +73,7 @@ Below are amateur radio call signs received.
 <HR>
 
 ## SX1262 LoRa Transceiver 
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The **SX1262** is a high-performance **LoRa (Long Range) transceiver** developed by **Semtech**. It is part of the SX126x family of LoRa transceivers and is designed to provide reliable long-range, low-power wireless communication for a variety of applications, particularly in the **Internet of Things (IoT)** domain. Here’s a detailed overview of the **SX1262**:
 
@@ -149,6 +150,7 @@ The **SX1262** is a powerful, long-range LoRa transceiver that excels in low-pow
 <HR>
 
 ## L76K GNSS Receiver with GPS, BeiDou, GLONASS & QZSS
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The **L76K GNSS receiver** is a compact, high-performance **Global Navigation Satellite System (GNSS)** module designed for accurate and low-power satellite positioning. It supports multiple satellite constellations, including **GPS**, **BeiDou**, **GLONASS**, and **QZSS**. Manufactured by **Quectel**, this module is widely used in applications requiring location tracking, such as IoT devices, asset tracking, wearables, and automotive systems.
 
@@ -212,6 +214,7 @@ The **L76K GNSS receiver** is a powerful and energy-efficient module that provid
 <HR>
 
 ## nRF52840 Microcontroller
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The **nRF52840** is a highly popular and versatile **System on Chip (SoC)** from **Nordic Semiconductor**, designed specifically for wireless applications. It is widely used in **Bluetooth Low Energy (BLE)**, **Zigbee**, **Thread**, and other low-power wireless communication technologies. Here's a breakdown of its features and capabilities:
 
@@ -264,6 +267,7 @@ The **nRF52840** is a powerful and highly versatile microcontroller designed for
 <HR>
 
 ## BME280 Humidity and Pressure Sensor
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The **BME280** is a highly popular and versatile environmental sensor developed by **Bosch Sensortec**. It is designed to measure **barometric pressure**, **humidity**, and **temperature** with high accuracy. The sensor is widely used in weather stations, environmental monitoring systems, Internet of Things (IoT) devices, and various smart devices. Here's a detailed breakdown of the BME280 sensor:
 
