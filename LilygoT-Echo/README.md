@@ -51,8 +51,8 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 ### GitHub
 - [LilyGo T-Echo](https://github.com/Xinyuan-LilyGO/T-Echo?ref=tc2)
 - [Meshtastic](https://github.com/meshtastic)
-
 - [Meshtastic docs](https://github.com/meshtastic/artifacts/tree/docs)
+  - pr1407-Meshtastic-Documentation-2024-08-31_02-39-3a852f896269826b4e848912545c4f609c822801.pdf is 915 pages
 
 In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for setting up long-range, low-power communication networks without the need for traditional infrastructure. It's particularly useful for off-grid environments, adventure activities, or even IoT projects where long-range communication is needed.
 
@@ -143,6 +143,7 @@ The **SX1262** is an improved version of the **SX1276**, both of which are LoRa 
 
 ### Summary:
 The **SX1262** is a powerful, long-range LoRa transceiver that excels in low-power applications, making it a cornerstone for IoT and smart devices. It combines **long-range communication**, **low power consumption**, **high sensitivity**, and **strong security features**, making it highly suitable for a wide range of **IoT**, **industrial**, and **environmental monitoring** applications. Whether used in **LoRaWAN networks** or other proprietary protocols, it provides a reliable solution for wireless data transmission over significant distances.
+
 
 <HR>
 
