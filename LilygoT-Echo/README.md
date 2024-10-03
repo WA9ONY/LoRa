@@ -8,6 +8,7 @@
 </p>
 
 # Lilygo T-Echo LoRa Meshtastic Radio
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communication device based on LoRa (Long Range) radio technology, designed to work with the **Meshtastic** project. Here's a breakdown of what this device is and its key features:
 
