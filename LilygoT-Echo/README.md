@@ -3,7 +3,7 @@
 </P>  
 
 <p align="center">
-       <img width="360" height="640" src="/Images/LilygoTEcho.jpg">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/LilygoTEcho.jpg">
 </p>
 
 
