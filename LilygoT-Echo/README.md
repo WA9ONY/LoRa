@@ -3,9 +3,8 @@
 <A HREF="https://github.com/WA9ONY/LoRa">LoRa</A> - 
 <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A> -
 </P>  
-       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
 <p align="center">
-
+       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
 </p>
 
 # Lilygo T-Echo LoRa Meshtastic Radio
