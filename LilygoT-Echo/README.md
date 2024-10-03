@@ -12,7 +12,7 @@
 <HR>
 
 <p align="center">
-       <img width="272" height="337" src="/LilygoTEcho/Images/LilygoTEcho.png">
+       <img width="272" height="337" src="/LilygoT-Echo/Images/LilygoTEcho.png">
 </p>
 
 ## Window Test with Stock Lilygo T-Echo 
