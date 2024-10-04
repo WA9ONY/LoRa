@@ -15,7 +15,7 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 ### 1. **Lilygo T-Echo**:
    - **Lilygo** is a popular manufacturer of development boards and modules based on different microcontroller platforms (like NRF52840) and wireless technologies (such as LoRa).
    - The **T-Echo** is part of their LoRa development series, specifically designed to enable long-range, low-power wireless communication.
-   - This device integrates a **LoRa module** for communication, along with an **ESP32 microcontroller** (which supports Wi-Fi and Bluetooth), a **GPS module** for location tracking, and an **OLED screen** for displaying information.
+   - This device integrates a **LoRa module** for communication, along with an **NRF52840 microcontroller** (which supports Wi-Fi and Bluetooth), a **GPS module** for location tracking, and an **OLED screen** for displaying information.
 
 ### 2. **LoRa Technology**:
    - **LoRa** (Long Range) is a wireless communication technology that allows devices to send small packets of data over long distances (up to several kilometers in optimal conditions) with very low power consumption.
