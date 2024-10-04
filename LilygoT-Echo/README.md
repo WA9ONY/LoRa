@@ -91,6 +91,8 @@ Lilygo T-Echo with factory firmware Which means not all the fuctions work.
 
 Meshtastic 2.4.2 updated defaults to LongFast.
 
+Several nodes in the 30 km range were received. All were with signal 0% but node name and distance were displayed.
+
 Below is an example of a 37 km node with an extremely weak or poor signal at 0%.
 <p align="center">
        <img width="338" height="335" src="/LilygoT-Echo/Images/Dist37km.png">
