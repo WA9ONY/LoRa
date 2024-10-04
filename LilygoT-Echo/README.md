@@ -85,9 +85,10 @@ Let me know if you'd like more details on how to optimize the setup for greater 
        <img width="272" height="337" src="/LilygoT-Echo/Images/LilygoTEcho.png">
 </p>
 
-## Window Test with Stock Lilygo T-Echo 
+## Lilygo T-Echo Receiving Test Located Next to the Window
 
-Lilygo T-Echo with factory firmware and Meshtastic 2.4.4 updated listing test on LongFast.
+Lilygo T-Echo with factory firmware Which means not all the fuctions work.
+Meshtastic 2.4.2 updated defaults to LongFast.
 
 Below are amateur radio call signs received.
 
