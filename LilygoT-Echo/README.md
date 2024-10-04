@@ -59,7 +59,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 
 <HR>
 
-## How Far Apart Two Lilygo T-Echos 
+## Distance Between Two Lilygo T-Echo Radios
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The range between two Lilygo T-Echo LoRa radios using the **Meshtastic** networking and the **LongFast** protocol depends on several factors, including environmental conditions, antenna quality, and terrain. However, with ideal conditions and proper tuning, typical ranges are:
