@@ -93,9 +93,14 @@ Meshtastic 2.4.2 updated defaults to LongFast.
 
 Several nodes in the 30 km range were received. All were with signal 0% but node name and distance were displayed.
 
-Below is an example of a 37 km node with an extremely weak or poor signal at 0%.
+Below screen is an example of a 37 km node with an extremely weak or poor signal at 0%.
 <p align="center">
        <img width="338" height="335" src="/LilygoT-Echo/Images/Dist37km.png">
+</p>
+
+Below screen shows three hops to NE Hillsboro CCH1 43.5 km away.
+<p align="center">
+       <img width="341" height="339" src="/LilygoT-Echo/Images/HillsboroCCH1.png">
 </p>
 
 <HR>
