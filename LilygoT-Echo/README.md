@@ -88,6 +88,7 @@ Let me know if you'd like more details on how to optimize the setup for greater 
 ## Lilygo T-Echo Receiving Test Located Next to the Window
 
 Lilygo T-Echo with factory firmware Which means not all the fuctions work.
+
 Meshtastic 2.4.2 updated defaults to LongFast.
 
 Below is an example of a 37 km node with an extremely weak or poor signal at 0%.
