@@ -194,6 +194,8 @@ When the signal % is shown as 0% but node name and location are still displayed,
 In essence, a 0% signal means the link quality is extremely poor, but the system may still manage to capture or retain key information under certain conditions.
 
 
+<HR>
+
 ## Meshtastic Communications Protocols 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
