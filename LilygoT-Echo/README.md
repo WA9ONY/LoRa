@@ -91,6 +91,9 @@ Lilygo T-Echo with factory firmware Which means not all the fuctions work.
 Meshtastic 2.4.2 updated defaults to LongFast.
 
 Below are amateur radio call signs received.
+<p align="center">
+       <img width="338" height="335" src="/LilygoT-Echo/Images/Dist37km.png">
+</p>
 
 <HR>
 
