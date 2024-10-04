@@ -90,12 +90,110 @@ Let me know if you'd like more details on how to optimize the setup for greater 
 Lilygo T-Echo with factory firmware Which means not all the fuctions work.
 Meshtastic 2.4.2 updated defaults to LongFast.
 
-Below are amateur radio call signs received.
+Below is an example of a 37 km node with an extremely weak or poor signal at 0%.
 <p align="center">
        <img width="338" height="335" src="/LilygoT-Echo/Images/Dist37km.png">
 </p>
 
 <HR>
+
+## Meshtastic Signal % 
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
+
+<HR>
+
+The **signal %** displayed on the Lilygo T-Echo LoRa radio running Meshtastic software refers to the **link quality** between two nodes in the mesh network. This percentage gives a relative indication of the strength and reliability of the connection, often based on several factors, such as the **Signal-to-Noise Ratio (SNR)** and the **Received Signal Strength Indicator (RSSI)**. It essentially summarizes how well the radio signals are being received between the nodes.
+
+Here's a more detailed explanation of the factors involved:
+
+### 1. **Received Signal Strength Indicator (RSSI)**
+   - **RSSI** is a measure of how strong the received signal is in dBm (decibels relative to a milliwatt). The lower (more negative) the number, the weaker the signal. For example, an RSSI of -40 dBm is strong, while -120 dBm is weak.
+   - The signal % is often derived from RSSI, with 100% representing an excellent signal (strong RSSI, e.g., -40 dBm) and 0% representing no signal (very weak RSSI, e.g., -120 dBm).
+
+### 2. **Signal-to-Noise Ratio (SNR)**
+   - **SNR** indicates how clear the signal is by comparing it to the level of background noise. Higher SNR values mean a cleaner signal, while lower (negative) values suggest more noise interference.
+   - A strong SNR will also positively influence the signal % because a clear signal with low noise is easier for the LoRa radios to decode.
+
+### 3. **Combined Link Quality**
+   - The signal % reflects the overall link quality, taking into account both RSSI and SNR, providing a more user-friendly indication of the communication link's reliability.
+   - In general:
+     - **80-100%**: Excellent signal quality, reliable communication.
+     - **50-80%**: Good signal quality, likely reliable but with some degradation.
+     - **20-50%**: Poor signal quality, communication is less reliable, and there might be some packet loss.
+     - **0-20%**: Very weak or unusable signal, likely leading to dropped connections or failed transmissions.
+
+### How It's Used:
+The **signal %** helps users quickly assess the strength of their link with other nodes in the mesh network. It aids in determining whether the nodes are well-positioned, whether environmental factors (like buildings, trees, or weather) are affecting communication, and whether adjustments (such as antenna repositioning) are necessary to improve the connection.
+
+In summary, the signal % represents the relative strength and quality of the signal between your device and another node in the mesh network, giving a quick visual indication of the reliability of that link.
+
+<HR>
+
+The **signal %** displayed on the Lilygo T-Echo with Meshtastic is not solely determined by the receiver. It is based on metrics that come from the interaction between both the **transmitter** and **receiver**. Here's how it works:
+
+### 1. **Transmitter**:
+   - The **transmitting node** sends out a signal with a certain power level, modulation, and data rate (depending on LoRa settings like bandwidth, spreading factor, etc.). These factors directly affect how the signal propagates through the environment.
+   - The stronger the transmitted signal, the easier it is for the receiving node to interpret it as a strong signal (which would contribute to a higher signal %).
+
+### 2. **Receiver (Lilygo T-Echo)**:
+   - The **receiver** (in this case, the Lilygo T-Echo) measures the received signal’s **RSSI** (Received Signal Strength Indicator) and **SNR** (Signal-to-Noise Ratio). These values are crucial for determining how well the signal was received.
+   - **RSSI** indicates the signal power, while **SNR** reflects how well the signal stands out from background noise. Both values influence the signal quality metric that is translated into a percentage.
+
+### 3. **Interaction between Transmitter and Receiver**:
+   - The **signal %** reflects the **quality of the communication link** between the two devices, which is affected by both the transmitter's and receiver's performance, as well as environmental factors.
+     - **Transmitter Side**: The signal strength that the transmitter outputs impacts how well the receiver can pick it up. A higher transmission power or optimal LoRa configuration (e.g., higher spreading factor) will result in a better signal at the receiver, improving the signal %.
+     - **Receiver Side**: The receiver's sensitivity and how well it can detect and decode the signal amid noise are also important. If the receiver has good sensitivity and a strong signal is received, the signal % will be higher.
+   
+### Environmental Factors:
+The **signal %** is influenced by:
+   - **Distance** between the nodes.
+   - **Obstacles** such as buildings, trees, or terrain, which can cause signal attenuation.
+   - **Interference** from other radio signals or electronic devices.
+   - **Weather conditions**, which can affect signal propagation (especially over long distances).
+
+### LoRa Configuration:
+Different LoRa configurations (e.g., spreading factor, bandwidth, and coding rate) used by the transmitter and receiver will affect the signal % as well. Higher spreading factors, for example, can improve signal robustness, leading to a better signal % over long distances but at the expense of data rate.
+
+### Summary:
+The **signal %** is influenced by both the **transmitter** and **receiver**. While the Lilygo T-Echo's receiver calculates the signal % based on the signal strength and quality it receives (RSSI, SNR), this is a result of both the transmitter’s characteristics and the conditions in the environment. So, it’s not just a receiver-side metric but a combination of factors affecting the communication link between the two nodes.
+
+<HR>
+
+If the **signal %** is shown as **0%** on the Lilygo T-Echo, but the **node name** and **location** are still being displayed, it indicates that the receiver is still able to decode at least some part of the message from the other node, despite a very weak or poor signal.
+
+Here’s how this can happen:
+
+### 1. **Signal % Threshold**:
+   - **0% signal** doesn’t necessarily mean there is absolutely no signal; rather, it means the signal is **extremely weak or poor**, likely near the lower limit of what the receiver can decode.
+   - While the signal may be too weak to provide reliable data transmission (e.g., losing parts of messages or experiencing packet loss), some basic information—like node name and location—can still be decoded from packets that get through.
+
+### 2. **LoRa's Robustness**:
+   - **LoRa technology** is designed to operate effectively even under low signal conditions. LoRa uses **spreading factors** to allow successful communication even when the signal strength is very weak.
+   - If the spreading factor is high enough, LoRa can still successfully receive and decode small data packets, even with minimal signal strength. This means that essential data, such as **node identification (name)** and **GPS location**, can still be extracted despite showing a very low or 0% signal.
+
+### 3. **Redundancy and Error Correction**:
+   - LoRa uses **Forward Error Correction (FEC)**, which adds redundancy to the transmitted data, allowing the receiver to reconstruct parts of the message even if some parts of the signal are lost or corrupted.
+   - With **FEC**, the receiver can still decode important data such as the node name and GPS location, even when the signal quality is very low. The signal % would still reflect poor reception, but key information might get through.
+
+### 4. **Caching of Data**:
+   - It is also possible that the **node name and location** are being displayed from **previously received data**. In some cases, the receiver may cache information about nearby nodes. If the current signal is too weak to receive new data (resulting in a 0% signal), the display might still show the last-known information (node name and location) from earlier transmissions when the signal was stronger.
+
+### 5. **Periodic Location Updates**:
+   - Meshtastic devices periodically send **position and telemetry updates**. If the signal briefly improved before dropping to 0%, the receiver may have successfully received a recent update with the node's name and location.
+   - The device may display this data for a certain period until a new update is received or the data is no longer valid.
+
+### 6. **Partial Decoding**:
+   - Even when the signal is 0%, LoRa’s nature allows partial decoding of a message. It’s possible that the node's name and location were the parts of the message that were successfully decoded before the signal became too weak to transmit additional information.
+
+### Summary:
+When the signal % is shown as 0% but node name and location are still displayed, it’s likely due to the following reasons:
+- **LoRa’s ability to decode weak signals**.
+- **Error correction** allowing some packets to get through.
+- **Cached data** from earlier, when the signal was stronger.
+- **Partial decoding** of the transmitted data.
+
+In essence, a 0% signal means the link quality is extremely poor, but the system may still manage to capture or retain key information under certain conditions.
+
 
 ## Meshtastic Communications Protocols 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
