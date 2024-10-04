@@ -105,6 +105,14 @@ Below screen shows three hops to NE Hillsboro CCH1 43.5 km away.
 
 <HR>
 
+## Lilygo T-Echo Receiving Test with Yagies
+
+YouTub Videos of testing
++ [Meshtastic Lilygo T-Echo 8 element yagi](https://youtube.com/shorts/YLLITus2dGc?si=gzMsmI5wYgMtPEXl)
++ [Meshtastic Lilygo T-Echo 17 element yagi](https://youtube.com/shorts/DKkeWTy2G94?si=lBWYknCYaOQ9suW7)
+
+<HR>
+
 ## Meshtastic Signal % 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
