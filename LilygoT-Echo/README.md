@@ -83,7 +83,7 @@ Let me know if you'd like more details on how to optimize the setup for greater 
 <HR>
 
 <p align="center">
-       <img width="272" height="337" src="/LilygoT-Echo/Images/LilygoTEcho.png">
+       <img width="480" height="640" src="/LilygoT-Echo/Images/map.png">
 </p>
 
 ## Lilygo T-Echo Receiving Test Located Next to the Window
