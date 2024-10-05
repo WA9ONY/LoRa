@@ -42,6 +42,7 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 - **IoT Networks**: Can be used for low-power sensor networks where data needs to be transmitted over long distances with minimal power usage.
 
 ### Stores
+- [Lilygo](https://www.lilygo.cc/products/t-echo?srsltid=AfmBOoqL5_BPfNTkqsQqpjdmVsDnaubJBPNw3YtRduo-HxCKEjROP6JH)
 - [Amazon](https://www.amazon.com/LILYGO-Wireless-Meshtastic-Development-NRF52840/dp/B0B658DZ9Z/ref=sr_1_fkmr0_1?crid=3V2GF20NV4AUD&dib=eyJ2IjoiMSJ9.NL1Nmz6IhAk3DevcKSuwYy4aVRF-U_tt3-tXilu0xnYiQl32sUrhAGZq3naG7skQ.DAyTDa25bFBOQZebDJjv2qLgnsnP3BUmIMHoVtY3U-g&dib_tag=se&keywords=Lylgo%2BT-Echo&qid=1727993611&sprefix=lylgo%2Bt-echo%2Caps%2C162&sr=8-1-fkmr0&th=1)
   - I received two Lilygo T-Echos on October 1.
   - They had old Meshtastic 2.3.9V installed and factory software that did not allow full operation.
