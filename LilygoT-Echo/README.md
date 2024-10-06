@@ -157,7 +157,7 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
        
 <HR>
 
-## Lilygo T-Echo Meshtastic IOs App Note
+## Lilygo T-Echo Meshtastic IOs App Notee
 
 Meshtastic IOs app notes.
 + When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
@@ -190,7 +190,7 @@ When switching radios
       + Node 8
     + ...
     + Last cycle will show  
-      + Node97
+      + Node 97
       + Node 98
       + Node 99
       + Node 100
