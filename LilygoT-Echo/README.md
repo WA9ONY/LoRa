@@ -103,17 +103,29 @@ Node 1968Mustang details
 <p align="center">
        <img width="295" height="107" src="/LilygoT-Echo/Images/68sgDetails2.PNG">
 </p>
+
++ Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ()
++ Located north edge of garden fence.
++ Aimed at 170 degreees.
++ 8 feet off the ground.
+
+
++ Lilygo T-Echo Meshtastic 2.5.4V withstandard antenna
++ Located north edge of garden fence.
++ 7 feet off the ground.
++ 
 <p align="center">
-       <img width="295" height="640" src="/LilygoT-Echo/Images/68sgDetails1.PNG">
+       <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
 </p>
 
 
-
-
-
-
-
-
+<p align="center">
+       <img width="480" height="640" src="/LilygoT-Echo/Images/map.png">
+</p>
+Meshtastic app notes.
+When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
+Therefore, the S/N and RSSI will not be changed until the new radio receives a signal from that node.
+The default beacon period is 15 minutes but the beacon signal may be interfered with by other signals.
 
 
 
