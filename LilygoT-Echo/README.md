@@ -108,7 +108,6 @@ Node 1968Mustang details
 </p>
 
 <HR>
-
 <p align="center">
        <img width="480" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence.jpg">
 </p>
@@ -146,19 +145,23 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 </p>
 
 <HR>
+<p align="center">
+       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
+</p>
 
 ## Lilygo T-Echo Standard Antenna Indoors Next to the Window
-<p align="center">
-       <img width="340" height="640" src="/LilygoT-Echo/Images/LilygoTEcho2.jpg">
-</p>
 
 + Lilygo T-Echo Meshtastic 2.5.4V with standard antenna
 + Located indoors next a south west facing window.
 + 7 feet off the ground.
-+ Signal Good SNR 4.00dB RSSI 0dB
++ Signal Fair SNR -18.25dB RSSI 0dB
 <p align="center">
-       <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Bedroom68sg.PNG">
 </p>
+
+
+
+
        
 <HR>
 
