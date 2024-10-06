@@ -147,13 +147,18 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 
 <HR>
 
+## Lilygo T-Echo Standard Antenna Indoors Next to the Window
+<p align="center">
+       <img width="340" height="640" src="/LilygoT-Echo/Images/LilygoTEcho2.jpg">
+</p>
+
 + Lilygo T-Echo Meshtastic 2.5.4V with standard antenna
-+ Located north edge of garden fence.
++ Located indoors next a south west facing window.
 + 7 feet off the ground.
 + Signal Good SNR 4.00dB RSSI 0dB
 <p align="center">
        <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
-
+</p>
        
 <HR>
 
