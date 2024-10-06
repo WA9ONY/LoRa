@@ -91,29 +91,44 @@ With **Meshtastic**, if you deploy more nodes in a mesh, you can extend the effe
 <HR>
 
 <p align="center">
-       <img width="480" height="640" src="/LilygoT-Echo/Images/map.png">
+       <img width="480" height="640" src="/LilygoT-Echo/Images/sg68map.png">
 </p>
 
-## Site & Antenna Test with Node 1968Mustang
+## Site & Antenna Testing to Node 1968Mustang
+
+Testinng different radio locations and antenns were used to compare the S/N of node 1968Mustang which is 23 miles at a bearing of 170 degrees.
+
+Node 1968Mustang details
 
 <p align="center">
        <img width="295" height="107" src="/LilygoT-Echo/Images/68sgDetails2.PNG">
 </p>
 
 <p align="center">
-       <img width="480" height="640" src="/LilygoT-Echo/Images/map.png">
+       <img width="480" height="640" src="/LilygoT-Echo/Images/68sgDetails1.PNG">
 </p>
 
-Different radio locations and antenns were used to compare the S/N of node 1968Mustang which is 23 miles at a bearing of 170 degrees.
 
-Node 1968Mustang details
++ Lilygo T-Echo Meshtastic 2.5.4V with standard antenna
++ Located north edge of garden fence.
++ 7 feet off the ground.
++ 
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence68sg,PNG">
+</p>
 
-
+<HR>
+<p align="center">
+       <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
+</p>
 
 + Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ()
 + Located north edge of garden fence.
 + Aimed at 170 degreees.
 + 8 feet off the ground.
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi8ElNorthFence68sg.PNG">
+</p>
 
 <HR>
 
