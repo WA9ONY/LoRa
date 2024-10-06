@@ -60,6 +60,7 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 
 ### Meshtastic
 - [Web site](https://meshtastic.org/)
+- [YouTube](https://www.youtube.com/meshtastic)
 
 In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for setting up long-range, low-power communication networks without the need for traditional infrastructure. It's particularly useful for off-grid environments, adventure activities, or even IoT projects where long-range communication is needed.
 
