@@ -93,7 +93,9 @@ With **Meshtastic**, if you deploy more nodes in a mesh, you can extend the effe
 <p align="center">
        <img width="480" height="640" src="/LilygoT-Echo/Images/sg68map.png">
 </p>
-
+<p align="center">
+Red line shows the 23 miles between WA9ONY node and 68sg 1968Mustang node.
+</p>
 ## Site & Antenna Testing to Node 1968Mustang
 
 Testinng different radio locations and antenns were used to compare the S/N of node 1968Mustang which is 23 miles at a bearing of 170 degrees.
