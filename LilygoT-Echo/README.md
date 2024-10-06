@@ -112,6 +112,9 @@ Node 1968Mustang details
 <p align="center">
        <img width="480" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence.jpg">
 </p>
+<p align="center">
+Lilygo T-Echo radio is in the white plastic container on top of the fence.
+</p>
 
 ##  Lilygo T-Echo Standard Antenna on Garden Fence
 
@@ -136,6 +139,7 @@ Node 1968Mustang details
 + Aimed at 170 degreees.
 + 8 feet off the ground.
 + Signal Good SNR 4.00dB RSSI 0dB
+  + 6.5 dB better than the Lilygo T-Echostock antenna.
 
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi8ElNorthFence68sg.PNG">
