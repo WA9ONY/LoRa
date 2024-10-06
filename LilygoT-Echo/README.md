@@ -105,7 +105,13 @@ Node 1968Mustang details
 </p>
 
 <p align="center">
-       <img width="480" height="640" src="/LilygoT-Echo/Images/68sgDetails1.PNG">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/68sgDetails1.PNG">
+</p>
+
+<HR>
+
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence68sg.PNG">
 </p>
 
 
@@ -113,7 +119,6 @@ Node 1968Mustang details
 + Located north edge of garden fence.
 + 7 feet off the ground.
 + Signal Good SNR -2.50dB RSSI 0dB
-
 
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence68sg.PNG">
@@ -124,7 +129,7 @@ Node 1968Mustang details
        <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
 </p>
 
-+ Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ()
++ Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ([YA9-11](https://www.talleycom.com/product/PCWYA9-11) 900MHz, 11dBi)
 + Located north edge of garden fence.
 + Aimed at 170 degreees.
 + 8 feet off the ground.
