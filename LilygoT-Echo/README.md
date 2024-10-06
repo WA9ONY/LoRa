@@ -112,9 +112,11 @@ Node 1968Mustang details
 + Lilygo T-Echo Meshtastic 2.5.4V with standard antenna
 + Located north edge of garden fence.
 + 7 feet off the ground.
-+ 
++ Signal Good SNR -2.50dB RSSI 0dB
+
+
 <p align="center">
-       <img width="295" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence68sg,PNG">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence68sg.PNG">
 </p>
 
 <HR>
@@ -126,6 +128,8 @@ Node 1968Mustang details
 + Located north edge of garden fence.
 + Aimed at 170 degreees.
 + 8 feet off the ground.
++ Signal Good SNR 4.00dB RSSI 0dB
+
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi8ElNorthFence68sg.PNG">
 </p>
@@ -135,12 +139,13 @@ Node 1968Mustang details
 + Lilygo T-Echo Meshtastic 2.5.4V with standard antenna
 + Located north edge of garden fence.
 + 7 feet off the ground.
-+ 
++ Signal Good SNR 4.00dB RSSI 0dB
 <p align="center">
        <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
-</p>
 
+       
 <HR>
+
 Meshtastic app notes.
 When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
 Therefore, the S/N and RSSI will not be changed until the new radio receives a signal from that node.
