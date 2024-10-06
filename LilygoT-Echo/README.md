@@ -157,12 +157,44 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
        
 <HR>
 
-Meshtastic app notes.
-When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
-Therefore, the S/N and RSSI will not be changed until the new radio receives a signal from that node.
-The default beacon period is 15 minutes but the beacon signal may be interfered with by other signals.
+## Lilygo T-Echo Meshtastic IOs App Note
 
+Meshtastic IOs app notes.
++ When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
++ Therefore, the S/N and RSSI will not be changed until the radio receives a new signal from that node.
++ The default beacon period is 15 minutes but the beacon signal may be interfered with by other signals. Check the time of the update from the node.
 
+When switching radios
++ Go to Meshtastic IOs app Settings, Clear App Data
++ The app node list is empty.
++ Pair the Bluetooth to the radio.  Notice the app node being filled up from the radio.
++ The Lilygo T-Echo node list is 100 modes.  When filled it deletes the oldest node.
++ The Meshtastic IOs app node list can have more than 100 nodes.
+  + Pinned nodes are at the top
+  + Next, is the newest node received.
+  + At the botton is the oldest node.
+  + As node are received the old data is removed and the new update node data is put at the top.
+    + Up to 100 nodes can be displayed on the e-paper of the Lilygo T-Echo.
+    + Keep pressing the bottom button to cycle through
+      + Temp, etc.
+      + Node 1
+      + Node 2
+      + Node 3
+      + Node 4
+      + Status, joined networks, warning node list is full, message on deleting old nodes, etc
+      + GPS
+    + Next cycle will show  
+      + Node 5
+      + Node 6
+      + Node 7
+      + Node 8
+    + ...
+    + Last cycle will show  
+      + Node97
+      + Node 98
+      + Node 99
+      + Node 100
+    + The node list is not in time order.
 
 <HR>
 
