@@ -84,7 +84,24 @@ Factors that can impact this range include:
   
 With **Meshtastic**, if you deploy more nodes in a mesh, you can extend the effective range by relaying messages across nodes.
 
+
+
 Let me know if you'd like more details on how to optimize the setup for greater range!
+
+<HR>
+
+<p align="center">
+       <img width="480" height="640" src="/LilygoT-Echo/Images/map.png">
+</p>
+
+## Site & Antenna Test with Node 1968Mustang
+
+Different radio locations and antenns were used to compare the S/N of node 1968Mustang which is 23 miles at a bearing of 170 degrees.
+
+
+
+Node 1968Mustang details
+
 
 <HR>
 
