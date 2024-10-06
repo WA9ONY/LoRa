@@ -101,10 +101,10 @@ Different radio locations and antenns were used to compare the S/N of node 1968M
 Node 1968Mustang details
 
 <p align="center">
-       <img width="295" height="107" src="/LilygoT-Echo/Images/68sgDetails2.png">
+       <img width="295" height="107" src="/LilygoT-Echo/Images/68sgDetails2.PNG">
 </p>
 <p align="center">
-       <img width="295" height="640" src="/LilygoT-Echo/Images/68sgDetails1.png">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/68sgDetails1.PNG">
 </p>
 
 
