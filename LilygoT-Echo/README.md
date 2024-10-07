@@ -177,6 +177,21 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 
 <HR>
 <p align="center">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/Wx.jpg">
+</p>
+
+## Lilygo T-Echo Standard Antenna on Top of Weather Station
+
++ Lilygo T-Echo Meshtastic 2.5.4V with standard antenna.
++ Located on top of the weather station next to the pouch.
++ Signal Fair SNR -19.25dB RSSI 0dB
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Wx68sgSR.PNG">
+</p>
+
+
+<HR>
+<p align="center">
        <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg1.jpg">
        <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg2.jpg">
 </p>
