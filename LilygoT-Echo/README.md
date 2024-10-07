@@ -159,6 +159,21 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
        <img width="295" height="640" src="/LilygoT-Echo/Images/Bedroom68sg.PNG">
 </p>
 
+<HR>
+<p align="center">
+       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
+       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
+</p>
+
+## Lilygo T-Echo 17 Element Yagi on the Pouch
+
++ Lilygo T-Echo Meshtastic 2.5.4V with 17 element yagi antenna on the porch.
++ Located indoors next a south west facing window.
++ 7 feet off the porch floor.
++ Signal Fair SNR -18.25dB RSSI 0dB
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Bedroom68sg.PNG">
+</p>
 
 
 
