@@ -107,20 +107,20 @@ Node 1968Mustang details
        <img width="295" height="107" src="/LilygoT-Echo/Images/68sgDetails2.PNG">
 </p>
 
-Test summery
+Test results summery
 
-Yagi YA9-11 Antenna on Garden Fence
-+ Signal Good SNR 4.00dB RSSI 0dB
-17 Element Yagi on the Pouch
-+ Signal Good SNR 0.75dB RSSI -104dB  
-Standard Antenna on Garden Fence
-+ Signal Good SNR -2.50dB RSSI 0dB
-Standard Antenna on Top of Weather Station
-+ Signal Good SNR -7.25dB RSSI 0dB
-Standard Antenna Indoors Next to the Window
-+ Signal Fair SNR -18.25dB RSSI 0dB
-Standard Antenna Indoors In Radio Room
-+ Signal Fair SNR -19.25dB RSSI 0dB
++ Yagi YA9-11 Antenna on Garden Fence
+  + Signal Good SNR 4.00dB RSSI 0dB
++ 17 Element Yagi on the Pouch
+  + Signal Good SNR 0.75dB RSSI -104dB  
++ Standard Antenna on Garden Fence
+  + Signal Good SNR -2.50dB RSSI 0dB
++ Standard Antenna on Top of Weather Station
+  + Signal Good SNR -7.25dB RSSI 0dB
++ Standard Antenna Indoors Next to the Window
+  + Signal Fair SNR -18.25dB RSSI 0dB
++ Standard Antenna Indoors In Radio Room
+  + Signal Fair SNR -19.25dB RSSI 0dB
 
 <HR>
 <p align="center">
