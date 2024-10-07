@@ -219,6 +219,9 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 </p>
 
 <HR>
+<p align="center">
+       <img width="538" height="307" src="/LilygoT-Echo/Images/SNRbanner.png">
+</p>
 
 ## Signal-to-Noise Ratio (SNR)
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
