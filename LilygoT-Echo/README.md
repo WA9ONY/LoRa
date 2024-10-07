@@ -152,12 +152,28 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 ## Lilygo T-Echo Standard Antenna Indoors Next to the Window
 
 + Lilygo T-Echo Meshtastic 2.5.4V with standard antenna
-+ Located indoors next a south west facing window.
++ Located indoors next a south west facing window that faces woods.
 + 7 feet off the ground.
 + Signal Fair SNR -18.25dB RSSI 0dB
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/Bedroom68sg.PNG">
 </p>
+
+<HR>
+<p align="center">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/RadioRm.jpg">
+</p>
+
+## Lilygo T-Echo Standard Antenna Indoors In Radio Room
+
++ Lilygo T-Echo Meshtastic 2.5.4V with standard antenna.
++ Located in radio room on desk.
++ The radio room is located in the north side of the house.  Therefore, the 915 MHz LoRa signals have to travel through other rooms in the houseto get to the radio room. 
++ Signal Fair SNR -19.25dB RSSI 0dB
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/RadioRm68sgSR.PNG">
+</p>
+
 
 <HR>
 <p align="center">
