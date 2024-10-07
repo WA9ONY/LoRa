@@ -135,7 +135,7 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 
 + Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ([YA9-11](https://www.talleycom.com/product/PCWYA9-11) 900MHz, 11dBi)
 + Located north edge of garden fence.
-+ Aimed at 170 degreees.
++ Aimed at 170 degrees.
 + 8 feet off the ground.
 + Signal Good SNR 4.00dB RSSI 0dB
   + 6.5 dB better than the Lilygo T-Echostock antenna.
@@ -161,23 +161,21 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 
 <HR>
 <p align="center">
-       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
-       <img width="201" height="427" src="/LilygoT-Echo/Images/LilygoTEcho2.png">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg1.jpg">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg2.jpg">
 </p>
 
 ## Lilygo T-Echo 17 Element Yagi on the Pouch
 
-+ Lilygo T-Echo Meshtastic 2.5.4V with 17 element yagi antenna on the porch.
-+ Located indoors next a south west facing window.
-+ 7 feet off the porch floor.
-+ Signal Fair SNR -18.25dB RSSI 0dB
++ Lilygo T-Echo Meshtastic 2.5.4V with 17 element 5' long yagi antenna on the porch.
++ Aimed at 170 degrees.
++ 5 feet off the porch floor.
++ Signal Good SNR 0.75dB RSSI -104dB
 <p align="center">
-       <img width="295" height="640" src="/LilygoT-Echo/Images/Bedroom68sg.PNG">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi1769sg.PNG">
 </p>
 
-
-
-       
+      
 <HR>
 
 ## Lilygo T-Echo Meshtastic IOs App Notee
