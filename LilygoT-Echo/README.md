@@ -121,6 +121,40 @@ Node 1968Mustang details
 
 <HR>
 <p align="center">
+       <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
+</p>
+
+## Yagi YA9-11 Antenna on Garden Fence
+
++ Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ([YA9-11](https://www.talleycom.com/product/PCWYA9-11) 900MHz, 11dBi)
++ Located north edge of garden fence.
++ Aimed at 170 degrees.
++ 8 feet off the ground.
++ Signal Good SNR 4.00dB RSSI 0dB
+  + 6.5 dB better than the Lilygo T-Echostock antenna.
+
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi8ElNorthFence68sg.PNG">
+</p>
+
+<HR>
+<p align="center">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg1.jpg">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg2.jpg">
+</p>
+
+## Lilygo T-Echo 17 Element Yagi on the Pouch
+
++ Lilygo T-Echo Meshtastic 2.5.4V with 17 element 5' long yagi antenna on the porch.
++ Aimed at 170 degrees.
++ 5 feet off the porch floor.
++ Signal Good SNR 0.75dB RSSI -104dB
+<p align="center">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi1769sg.PNG">
+</p>
+
+<HR>
+<p align="center">
        <img width="480" height="640" src="/LilygoT-Echo/Images/StockAntNorthFence.jpg">
 </p>
 <p align="center">
@@ -140,20 +174,16 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 
 <HR>
 <p align="center">
-       <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
+       <img width="360" height="640" src="/LilygoT-Echo/Images/Wx.jpg">
 </p>
 
-## Yagi YA9-11 Antenna on Garden Fence
+## Lilygo T-Echo Standard Antenna on Top of Weather Station
 
-+ Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ([YA9-11](https://www.talleycom.com/product/PCWYA9-11) 900MHz, 11dBi)
-+ Located north edge of garden fence.
-+ Aimed at 170 degrees.
-+ 8 feet off the ground.
-+ Signal Good SNR 4.00dB RSSI 0dB
-  + 6.5 dB better than the Lilygo T-Echostock antenna.
-
++ Lilygo T-Echo Meshtastic 2.5.4V with standard antenna.
++ Located on top of the weather station next to the pouch.
++ Signal Good SNR -7.25dB RSSI 0dB
 <p align="center">
-       <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi8ElNorthFence68sg.PNG">
+       <img width="295" height="640" src="/LilygoT-Echo/Images/Wx68sgSR.PNG">
 </p>
 
 <HR>
@@ -188,39 +218,6 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
        <img width="295" height="640" src="/LilygoT-Echo/Images/RadioRm68sgSR.PNG">
 </p>
 
-
-<HR>
-<p align="center">
-       <img width="360" height="640" src="/LilygoT-Echo/Images/Wx.jpg">
-</p>
-
-## Lilygo T-Echo Standard Antenna on Top of Weather Station
-
-+ Lilygo T-Echo Meshtastic 2.5.4V with standard antenna.
-+ Located on top of the weather station next to the pouch.
-+ Signal Good SNR -7.25dB RSSI 0dB
-<p align="center">
-       <img width="295" height="640" src="/LilygoT-Echo/Images/Wx68sgSR.PNG">
-</p>
-
-
-<HR>
-<p align="center">
-       <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg1.jpg">
-       <img width="360" height="640" src="/LilygoT-Echo/Images/Yagi68sg2.jpg">
-</p>
-
-## Lilygo T-Echo 17 Element Yagi on the Pouch
-
-+ Lilygo T-Echo Meshtastic 2.5.4V with 17 element 5' long yagi antenna on the porch.
-+ Aimed at 170 degrees.
-+ 5 feet off the porch floor.
-+ Signal Good SNR 0.75dB RSSI -104dB
-<p align="center">
-       <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi1769sg.PNG">
-</p>
-
-      
 <HR>
 
 ## Signal-to-Noise Ratio (SNR)
