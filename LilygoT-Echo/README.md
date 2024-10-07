@@ -85,9 +85,6 @@ Factors that can impact this range include:
 With **Meshtastic**, if you deploy more nodes in a mesh, you can extend the effective range by relaying messages across nodes.
 
 
-
-
-
 <HR>
 
 ## Site & Antenna Testing to Node 1968Mustang
@@ -223,6 +220,55 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
        <img width="295" height="640" src="/LilygoT-Echo/Images/Yagi1769sg.PNG">
 </p>
 
+      
+<HR>
+
+## Signal-to-Noise Ratio (SNR)
+<img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
+
+Signal-to-Noise Ratio (SNR) is a critical metric in wireless communication, including systems like **Meshtastic** using devices such as the Lilygo T-Echo. SNR values indicate the quality of a received signal compared to the noise in the environment. Typically, SNR is measured in decibels (dB) and falls into different groups or ranges that describe the signal quality. Here’s a breakdown of the SNR groups for typical LoRa communication:
+
+### 1. **SNR Greater than +10 dB (Strong Signal)**
+   - **Description**: A positive SNR value greater than +10 dB indicates an excellent signal, where the signal strength is significantly higher than the noise level.
+   - **Interpretation**: Communications will be highly reliable, with little to no packet loss. This is an optimal range for long-range, low-power LoRa systems like Meshtastic.
+   - **Use Cases**: Typically seen when nodes are close to each other, or in environments with very little interference.
+
+### 2. **SNR between 0 dB and +10 dB (Good Signal)**
+   - **Description**: An SNR in this range indicates a good quality signal, where the signal strength is still higher than the noise but may start to degrade as the SNR decreases toward 0 dB.
+   - **Interpretation**: Communication remains reliable, but there could be slight interference, especially as the value approaches 0 dB. Signal quality is still good enough for long-range applications.
+   - **Use Cases**: This range is common in urban or suburban settings where there is moderate interference.
+
+### 3. **SNR between -10 dB and 0 dB (Weak Signal)**
+   - **Description**: A negative SNR up to -10 dB means the noise level is beginning to rival the signal strength, but the signal can still be extracted from the noise.
+   - **Interpretation**: Communication quality will start to degrade, with more packet losses or transmission retries. The connection may remain usable but less reliable.
+   - **Use Cases**: These values are often encountered at the edges of the communication range or in environments with higher interference or obstacles.
+
+### 4. **SNR between -20 dB and -10 dB (Poor Signal)**
+   - **Description**: In this range, the noise level is significantly higher than the signal strength, making reliable communication very difficult.
+   - **Interpretation**: There is a high probability of packet loss or failure in communication. Devices may need to retransmit messages multiple times, and data throughput will be low.
+   - **Use Cases**: This range is often observed at the extreme range limits of LoRa devices or in heavily obstructed environments (e.g., dense buildings or heavy interference).
+
+### 5. **SNR Less than -20 dB (Unusable Signal)**
+   - **Description**: An SNR lower than -20 dB indicates a nearly unusable signal, where the noise is much higher than the signal.
+   - **Interpretation**: Communication is essentially impossible in this range. The system will experience constant packet loss, and messages are unlikely to get through.
+   - **Use Cases**: This is common in extreme range conditions or when significant obstacles completely block the signal.
+
+### Summary Table of SNR Groups:
+
+| SNR Range (dB)     | Signal Quality       | Communication Reliability           |
+|--------------------|----------------------|-------------------------------------|
+| Greater than +10 dB| Excellent             | Highly reliable, very low packet loss|
+| 0 to +10 dB        | Good                  | Reliable with minimal interference  |
+| -10 dB to 0 dB     | Weak                  | Usable but with potential packet loss|
+| -20 dB to -10 dB   | Poor                  | Very unreliable, high packet loss   |
+| Less than -20 dB   | Unusable              | Communication failure               |
+
+### Practical Insights:
+- **SNR values** are context-dependent. In quiet environments, even weak signals can perform well if interference is minimal.
+- **Antenna quality** and **line-of-sight** play key roles in improving SNR.
+- **Environmental factors** like buildings, trees, or weather conditions can affect SNR readings.
+
+For the Lilygo T-Echo and Meshtastic use case, you’ll likely want SNR values in the +10 dB to 0 dB range for good performance, though the LoRa protocol is designed to function even in relatively low SNR conditions compared to other wireless technologies.
       
 <HR>
 
