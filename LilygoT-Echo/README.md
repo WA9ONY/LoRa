@@ -131,7 +131,7 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
        <img width="380" height="640" src="/LilygoT-Echo/Images/Ant8elYagi.jpg">
 </p>
 
-## YA9-11 Antenna on Garden Fence
+## Yagi YA9-11 Antenna on Garden Fence
 
 + Lilygo T-Echo Meshtastic 2.5.4V with 8 element yagi ([YA9-11](https://www.talleycom.com/product/PCWYA9-11) 900MHz, 11dBi)
 + Located north edge of garden fence.
@@ -155,8 +155,10 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 + Located indoors next a south west facing window that faces woods.
 + 7 feet off the ground.
 + Signal Fair SNR -18.25dB RSSI 0dB
++ Signal Bad SNR -19.00dB RSSI -128dB
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/Bedroom68sg.PNG">
+       <img width="480" height="640" src="/LilygoT-Echo/Images/Bedroom68sgsr2.PNG">
 </p>
 
 <HR>
@@ -184,7 +186,7 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 
 + Lilygo T-Echo Meshtastic 2.5.4V with standard antenna.
 + Located on top of the weather station next to the pouch.
-+ Signal Fair SNR -19.25dB RSSI 0dB
++ Signal Good SNR -7.25dB RSSI 0dB
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/Wx68sgSR.PNG">
 </p>
