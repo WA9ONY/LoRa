@@ -154,8 +154,8 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
 + Lilygo T-Echo Meshtastic 2.5.4V with standard antenna
 + Located indoors next a south west facing window that faces woods.
 + 7 feet off the ground.
-+ Signal Fair SNR -18.25dB RSSI 0dB
-+ Signal Bad SNR -19.00dB RSSI -128dB
++ Signal Fair SNR -18.25dB RSSI 0dB, iPhone screen on left.
++ Signal Bad SNR -19.00dB RSSI -128dB, iPad screen on right.
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/Bedroom68sg.PNG">
        <img width="480" height="640" src="/LilygoT-Echo/Images/Bedroom68sgsr2.PNG">
