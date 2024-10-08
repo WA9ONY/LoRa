@@ -29,15 +29,17 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 + <A HREF="README.md#S7">7:</A> Meshtastic Signal %
 + <A HREF="README.md#S8">8:</A>
 + <A HREF="README.md#S9">9:</A>
-+ <A HREF="README.md#S10">10:</A>
-+ <A HREF="README.md#S11">11:</A>
-+ <A HREF="README.md#S12">12:</A>
-+ <A HREF="README.md#S13">13:</A>
-+ <A HREF="README.md#S14">14:</A>
-+ <A HREF="README.md#S15">15:</A>
-+ <A HREF="README.md#S16">17:</A>
-+ <A HREF="README.md#S">:</A>
++ <A HREF="README.md#S10">10:</A> Meshtastic Communications Protocols
++ <A HREF="README.md#S11">11:</A> Meshtastic Communication Channels
++ <A HREF="README.md#S12">12:</A> Lilygo T-Echo Meshtastic IOs App Notee
 Lilygo T-Echo Hardware
++ <A HREF="README.md#S13">13:</A> SX1262 LoRa Transceiver 
++ <A HREF="README.md#S14">14:</A> L76K GNSS Receiver with GPS, BeiDou, GLONASS & QZSS
++ <A HREF="README.md#S15">15:</A> nRF52840 Microcontroller
++ <A HREF="README.md#S16">17:</A> BME280 Humidity and Pressure Sensor
+WA9ONY YouTube Videos
++ <A HREF="README.md#S18">18:</A>
+
 
 <A NAME="S1"></A>
 <HR>
@@ -371,7 +373,6 @@ The **signal %** helps users quickly assess the strength of their link with othe
 
 In summary, the signal % represents the relative strength and quality of the signal between your device and another node in the mesh network, giving a quick visual indication of the reliability of that link.
 
-<A NAME="S8"></A>
 <HR>
 
 The **signal %** displayed on the Lilygo T-Echo with Meshtastic is not solely determined by the receiver. It is based on metrics that come from the interaction between both the **transmitter** and **receiver**. Here's how it works:
@@ -402,7 +403,6 @@ Different LoRa configurations (e.g., spreading factor, bandwidth, and coding rat
 ### Summary:
 The **signal %** is influenced by both the **transmitter** and **receiver**. While the Lilygo T-Echo's receiver calculates the signal % based on the signal strength and quality it receives (RSSI, SNR), this is a result of both the transmitter’s characteristics and the conditions in the environment. So, it’s not just a receiver-side metric but a combination of factors affecting the communication link between the two nodes.
 
-<A NAME="S9"></A>
 <HR>
 
 If the **signal %** is shown as **0%** on the Lilygo T-Echo, but the **node name** and **location** are still being displayed, it indicates that the receiver is still able to decode at least some part of the message from the other node, despite a very weak or poor signal.
@@ -439,6 +439,13 @@ When the signal % is shown as 0% but node name and location are still displayed,
 - **Partial decoding** of the transmitted data.
 
 In essence, a 0% signal means the link quality is extremely poor, but the system may still manage to capture or retain key information under certain conditions.
+
+<A NAME="S8"></A>
+<HR>
+
+<A NAME="S9"></A>
+<HR>
+
 
 <A NAME="S10"></A>
 <HR>
@@ -609,6 +616,9 @@ In summary, Meshtastic communication channels provide a versatile and secure way
 
 <A NAME="S12"></A>      
 <HR>
+<HR>
+
+# Meshtastic IOs App
 
 ## Lilygo T-Echo Meshtastic IOs App Notee
 
@@ -920,3 +930,15 @@ The **BME280** is a highly popular and versatile environmental sensor developed 
 ### Summary:
 The **BME280** is a versatile, high-performance sensor that can measure **temperature**, **humidity**, and **barometric pressure**, making it ideal for a wide range of applications, including weather monitoring, altitude sensing, and environmental control in IoT and smart devices. Its combination of accuracy, small size, and low power consumption has made it a go-to sensor in the embedded systems and electronics community.
 
+
+<A NAME="S17"></A>
+<HR>
+<HR>
+
+# WA9ONY YouTube Videos
+
+## Lilygo T-Echo Receiving Test with Yagies
+
+YouTub Videos of testing
++ [Meshtastic Lilygo T-Echo 8 element yagi](https://youtube.com/shorts/YLLITus2dGc?si=gzMsmI5wYgMtPEXl)
++ [Meshtastic Lilygo T-Echo 17 element yagi](https://youtube.com/shorts/DKkeWTy2G94?si=lBWYknCYaOQ9suW7)
