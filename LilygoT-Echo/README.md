@@ -126,7 +126,7 @@ With **Meshtastic**, if you deploy more nodes in a mesh, you can extend the effe
 <A NAME="S3"></A>
 <HR>
 
-## 3.Site & Antenna Testing to Node 1968Mustang
+## 3. Site & Antenna Testing to Node 1968Mustang
 
 <p align="center">
        <img width="480" height="640" src="/LilygoT-Echo/Images/sg68map.png">
