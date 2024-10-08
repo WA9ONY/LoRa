@@ -28,7 +28,7 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 + <A HREF="README.md#S6">6:</A> Meshtastic Node Name
 + <A HREF="README.md#S7">7:</A> Meshtastic Signal %
 + <A HREF="README.md#S8">8:</A> Required information that a Meshtasnic node must send
-+ <A HREF="README.md#S9">9:</A>
++ <A HREF="README.md#S9">9:</A> Timestamps
 + <A HREF="README.md#S10">10:</A> Meshtastic Communications Protocols
 + <A HREF="README.md#S11">11:</A> Meshtastic Communication Channels
 + <A HREF="README.md#S12">12:</A> Lilygo T-Echo Meshtastic IOs App Notee
@@ -504,7 +504,7 @@ Would you like more specific details on how to configure or adjust beacon settin
 <A NAME="S9"></A>
 <HR>
 
-## 11. Timestamps
+## 9. Timestamps
 
 In Meshtastic, timestamps are generally created by the **transmitting node**. When a message is sent from a node, the timestamp is typically attached at the time of transmission. The receiving node processes the message but does not modify or create its own timestamp for the message, ensuring that the original sending time is preserved throughout the mesh network.
 
