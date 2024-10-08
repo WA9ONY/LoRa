@@ -19,6 +19,19 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 # Lilygo T-Echo LoRa Meshtastic Radio
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
+## Index
++ <A HREF="README.md#S1">1:</A> Getting Started for Absolute Beginners
++ <A HREF="README.md#S2">2:</A> Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
++ <A HREF="README.md#S3">3:</A> Blink an LED With the Arduino
++ <A HREF="README.md#S4">4:</A> Building Clean and Neat Circuits on a Breadboard
++ <A HREF="README.md#S5">5:</A> Explaining How Computers Work Based On Binary Numbers
++ <A HREF="README.md#S6">6:</A> Create a Binary Counter With Arduino
++ <A HREF="README.md#S7">7:</A> Doing Math in Binary
+Lilygo T-Echo Hardware
+
+<A NAME="S1"></A>
+<HR>
+## Introduction
 The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communication device based on LoRa (Long Range) radio technology, designed to work with the **Meshtastic** project. Here's a breakdown of what this device is and its key features:
 
 ### 1. **Lilygo T-Echo**:
@@ -73,6 +86,7 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 
 In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for setting up long-range, low-power communication networks without the need for traditional infrastructure. It's particularly useful for off-grid environments, adventure activities, or even IoT projects where long-range communication is needed.
 
+<A NAME="S2"></A>
 <HR>
 
 ## Distance Between Two Lilygo T-Echo Radios
@@ -94,6 +108,7 @@ Factors that can impact this range include:
 With **Meshtastic**, if you deploy more nodes in a mesh, you can extend the effective range by relaying messages across nodes.
 
 
+<A NAME="S3"></A>
 <HR>
 
 ## Site & Antenna Testing to Node 1968Mustang
@@ -227,6 +242,7 @@ Lilygo T-Echo radio is in the white plastic container on top of the fence.
        <img width="295" height="640" src="/LilygoT-Echo/Images/RadioRm68sgSR.PNG">
 </p>
 
+<A NAME="S4"></A>
 <HR>
 <p align="center">
        <img width="538" height="307" src="/LilygoT-Echo/Images/SNRbanner.png">
@@ -615,6 +631,7 @@ Meshtastic devices support multiple channels, and users can subscribe to several
 
 In summary, Meshtastic communication channels provide a versatile and secure way to organize communication across a mesh network. They allow for a wide range of use cases, from private one-on-one conversations to large broadcast messages, each with its own configurable settings for encryption, bandwidth, and range.
 
+<HR>
 <HR>
 
 # Lilygo T-Echo Hardware
