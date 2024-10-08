@@ -807,7 +807,6 @@ When switching radios
 # Lilygo T-Echo Hardware
 
 <A NAME="S13"></A>
-<HR>
 
 ## 13. SX1262 LoRa Transceiver 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
