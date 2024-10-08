@@ -349,7 +349,7 @@ The node name can be set manually, or the device can assign a default name. Ensu
 <A NAME="S7"></A>
 <HR>
 
-## Meshtastic Signal % 
+## 7. Meshtastic Signal % 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The **signal %** displayed on the Lilygo T-Echo LoRa radio running Meshtastic software refers to the **link quality** between two nodes in the mesh network. This percentage gives a relative indication of the strength and reliability of the connection, often based on several factors, such as the **Signal-to-Noise Ratio (SNR)** and the **Received Signal Strength Indicator (RSSI)**. It essentially summarizes how well the radio signals are being received between the nodes.
