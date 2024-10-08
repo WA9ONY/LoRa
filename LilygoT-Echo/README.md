@@ -4,6 +4,12 @@
 <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A> -
 </P>  
 <p align="center">
+       <img width="408" height="640" src="/LilygoT-Echo/Images/map07102024.png">
+</p>
+<p align="center">
+       Meshtastic nodes in the Portland, OR area received by WA9ONY in 21 Hours with the below Lilygo T-Echo radios.
+</p>
+<p align="center">
        <img width="669" height="567" src="/LilygoT-Echo/Images/Lilygo2.png">
 </p>
 
