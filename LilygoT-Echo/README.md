@@ -7,10 +7,13 @@
        <img width="408" height="640" src="/LilygoT-Echo/Images/map07102024.png">
 </p>
 <p align="center">
-       Meshtastic nodes in the Portland, OR area received by WA9ONY in 21 Hours with the below Lilygo T-Echo radios.
+Over 200 Meshtastic nodes in the Portland, OR area received by WA9ONY in 21 Hours with the below Lilygo T-Echo radios.
 </p>
 <p align="center">
        <img width="669" height="567" src="/LilygoT-Echo/Images/Lilygo2.png">
+</p>
+<p align="center">
+Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR ~16 miles away.
 </p>
 
 # Lilygo T-Echo LoRa Meshtastic Radio
