@@ -32,11 +32,13 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 + <A HREF="README.md#S10">10:</A> Meshtastic Communications Protocols
 + <A HREF="README.md#S11">11:</A> Meshtastic Communication Channels
 + <A HREF="README.md#S12">12:</A> Lilygo T-Echo Meshtastic IOs App Notee
+
 Lilygo T-Echo Hardware
 + <A HREF="README.md#S13">13:</A> SX1262 LoRa Transceiver 
 + <A HREF="README.md#S14">14:</A> L76K GNSS Receiver with GPS, BeiDou, GLONASS & QZSS
 + <A HREF="README.md#S15">15:</A> nRF52840 Microcontroller
 + <A HREF="README.md#S16">16:</A> BME280 Humidity and Pressure Sensor
+
 WA9ONY YouTube Videos
 + <A HREF="README.md#S17">17:</A> Lilygo T-Echo Receiving Test with Yagies
 
