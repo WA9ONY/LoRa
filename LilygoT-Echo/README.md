@@ -20,17 +20,28 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 ## Index
-+ <A HREF="README.md#S1">1:</A> Getting Started for Absolute Beginners
-+ <A HREF="README.md#S2">2:</A> Arduino Uno R4 Wifi LESSON 2: How to Build Circuits With a Breadboard
-+ <A HREF="README.md#S3">3:</A> Blink an LED With the Arduino
-+ <A HREF="README.md#S4">4:</A> Building Clean and Neat Circuits on a Breadboard
-+ <A HREF="README.md#S5">5:</A> Explaining How Computers Work Based On Binary Numbers
++ <A HREF="README.md#S1">1:</A> Introduction
++ <A HREF="README.md#S2">2:</A> Distance Between Two Lilygo T-Echo Radios
++ <A HREF="README.md#S3">3:</A> Site & Antenna Testing to Node 1968Mustang
++ <A HREF="README.md#S4">4:</A> Signal-to-Noise Ratio (SNR)
++ <A HREF="README.md#S5">5:</A> Lilygo T-Echo Receiving Test Located Next to the Window
 + <A HREF="README.md#S6">6:</A> Create a Binary Counter With Arduino
-+ <A HREF="README.md#S7">7:</A> Doing Math in Binary
++ <A HREF="README.md#S7">7:</A> Meshtastic Signal %
++ <A HREF="README.md#S8">8:</A>
++ <A HREF="README.md#S9">9:</A>
++ <A HREF="README.md#S10">10:</A>
++ <A HREF="README.md#S11">11:</A>
++ <A HREF="README.md#S12">12:</A>
++ <A HREF="README.md#S13">13:</A>
++ <A HREF="README.md#S14">14:</A>
++ <A HREF="README.md#S15">15:</A>
++ <A HREF="README.md#S16">17:</A>
++ <A HREF="README.md#S">:</A>
 Lilygo T-Echo Hardware
 
 <A NAME="S1"></A>
 <HR>
+
 ## Introduction
 The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communication device based on LoRa (Long Range) radio technology, designed to work with the **Meshtastic** project. Here's a breakdown of what this device is and its key features:
 
@@ -294,48 +305,8 @@ Signal-to-Noise Ratio (SNR) is a critical metric in wireless communication, incl
 - **Environmental factors** like buildings, trees, or weather conditions can affect SNR readings.
 
 For the Lilygo T-Echo and Meshtastic use case, you’ll likely want SNR values in the +10 dB to 0 dB range for good performance, though the LoRa protocol is designed to function even in relatively low SNR conditions compared to other wireless technologies.
-      
-<HR>
 
-## Lilygo T-Echo Meshtastic IOs App Notee
-
-Meshtastic IOs app notes.
-+ When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
-+ Therefore, the S/N and RSSI will not be changed until the radio receives a new signal from that node.
-+ The default beacon period is 15 minutes but the beacon signal may be interfered with by other signals. Check the time of the update from the node.
-
-When switching radios
-+ Go to Meshtastic IOs app Settings, Clear App Data
-+ The app node list is empty.
-+ Pair the Bluetooth to the radio.  Notice the app node being filled up from the radio.
-+ The Lilygo T-Echo node list is 100 modes.  When filled it deletes the oldest node.
-+ The Meshtastic IOs app node list can have more than 100 nodes.
-  + Pinned nodes are at the top
-  + Next, is the newest node received.
-  + At the botton is the oldest node.
-  + As node are received the old data is removed and the new update node data is put at the top.
-    + Up to 100 nodes can be displayed on the e-paper of the Lilygo T-Echo.
-    + Keep pressing the bottom button to cycle through
-      + Temp, etc.
-      + Node 1
-      + Node 2
-      + Node 3
-      + Node 4
-      + Status, joined networks, warning node list is full, message on deleting old nodes, etc
-      + GPS
-    + Next cycle will show  
-      + Node 5
-      + Node 6
-      + Node 7
-      + Node 8
-    + ...
-    + Last cycle will show  
-      + Node 97
-      + Node 98
-      + Node 99
-      + Node 100
-    + The node list is not in time order.
-
+<A NAME="S5"></A>
 <HR>
 
 <p align="center">
@@ -360,6 +331,7 @@ Below screen shows three hops to NE Hillsboro CCH1 43.5 km away.
        <img width="341" height="339" src="/LilygoT-Echo/Images/HillsboroCCH1.png">
 </p>
 
+<A NAME="S6"></A>
 <HR>
 
 ## Lilygo T-Echo Receiving Test with Yagies
@@ -368,6 +340,7 @@ YouTub Videos of testing
 + [Meshtastic Lilygo T-Echo 8 element yagi](https://youtube.com/shorts/YLLITus2dGc?si=gzMsmI5wYgMtPEXl)
 + [Meshtastic Lilygo T-Echo 17 element yagi](https://youtube.com/shorts/DKkeWTy2G94?si=lBWYknCYaOQ9suW7)
 
+<A NAME="S7"></A>
 <HR>
 
 ## Meshtastic Signal % 
@@ -398,6 +371,7 @@ The **signal %** helps users quickly assess the strength of their link with othe
 
 In summary, the signal % represents the relative strength and quality of the signal between your device and another node in the mesh network, giving a quick visual indication of the reliability of that link.
 
+<A NAME="S8"></A>
 <HR>
 
 The **signal %** displayed on the Lilygo T-Echo with Meshtastic is not solely determined by the receiver. It is based on metrics that come from the interaction between both the **transmitter** and **receiver**. Here's how it works:
@@ -428,6 +402,7 @@ Different LoRa configurations (e.g., spreading factor, bandwidth, and coding rat
 ### Summary:
 The **signal %** is influenced by both the **transmitter** and **receiver**. While the Lilygo T-Echo's receiver calculates the signal % based on the signal strength and quality it receives (RSSI, SNR), this is a result of both the transmitter’s characteristics and the conditions in the environment. So, it’s not just a receiver-side metric but a combination of factors affecting the communication link between the two nodes.
 
+<A NAME="S9"></A>
 <HR>
 
 If the **signal %** is shown as **0%** on the Lilygo T-Echo, but the **node name** and **location** are still being displayed, it indicates that the receiver is still able to decode at least some part of the message from the other node, despite a very weak or poor signal.
@@ -465,7 +440,7 @@ When the signal % is shown as 0% but node name and location are still displayed,
 
 In essence, a 0% signal means the link quality is extremely poor, but the system may still manage to capture or retain key information under certain conditions.
 
-
+<A NAME="S10"></A>
 <HR>
 
 ## Meshtastic Communications Protocols 
@@ -554,6 +529,7 @@ VeryLongFast is a balance between long-distance communication and reasonable dat
 
 These protocols allow you to tune the performance of the Meshtastic network based on your needs.
 
+<A NAME="S11"></A>
 <HR>
 
 ## Meshtastic Communication Channels.
@@ -631,11 +607,55 @@ Meshtastic devices support multiple channels, and users can subscribe to several
 
 In summary, Meshtastic communication channels provide a versatile and secure way to organize communication across a mesh network. They allow for a wide range of use cases, from private one-on-one conversations to large broadcast messages, each with its own configurable settings for encryption, bandwidth, and range.
 
+<A NAME="S12"></A>      
+<HR>
+
+## Lilygo T-Echo Meshtastic IOs App Notee
+
+Meshtastic IOs app notes.
++ When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
++ Therefore, the S/N and RSSI will not be changed until the radio receives a new signal from that node.
++ The default beacon period is 15 minutes but the beacon signal may be interfered with by other signals. Check the time of the update from the node.
+
+When switching radios
++ Go to Meshtastic IOs app Settings, Clear App Data
++ The app node list is empty.
++ Pair the Bluetooth to the radio.  Notice the app node being filled up from the radio.
++ The Lilygo T-Echo node list is 100 modes.  When filled it deletes the oldest node.
++ The Meshtastic IOs app node list can have more than 100 nodes.
+  + Pinned nodes are at the top
+  + Next, is the newest node received.
+  + At the botton is the oldest node.
+  + As node are received the old data is removed and the new update node data is put at the top.
+    + Up to 100 nodes can be displayed on the e-paper of the Lilygo T-Echo.
+    + Keep pressing the bottom button to cycle through
+      + Temp, etc.
+      + Node 1
+      + Node 2
+      + Node 3
+      + Node 4
+      + Status, joined networks, warning node list is full, message on deleting old nodes, etc
+      + GPS
+    + Next cycle will show  
+      + Node 5
+      + Node 6
+      + Node 7
+      + Node 8
+    + ...
+    + Last cycle will show  
+      + Node 97
+      + Node 98
+      + Node 99
+      + Node 100
+    + The node list is not in time order.
+
+
 <HR>
 <HR>
 
 # Lilygo T-Echo Hardware
 
+<A NAME="S13"></A>
 <HR>
 
 ## SX1262 LoRa Transceiver 
@@ -712,7 +732,7 @@ The **SX1262** is an improved version of the **SX1276**, both of which are LoRa 
 ### Summary:
 The **SX1262** is a powerful, long-range LoRa transceiver that excels in low-power applications, making it a cornerstone for IoT and smart devices. It combines **long-range communication**, **low power consumption**, **high sensitivity**, and **strong security features**, making it highly suitable for a wide range of **IoT**, **industrial**, and **environmental monitoring** applications. Whether used in **LoRaWAN networks** or other proprietary protocols, it provides a reliable solution for wireless data transmission over significant distances.
 
-
+<A NAME="S14"></A>
 <HR>
 
 ## L76K GNSS Receiver with GPS, BeiDou, GLONASS & QZSS
@@ -777,6 +797,7 @@ The **L76K GNSS receiver** is a compact, high-performance **Global Navigation Sa
 ### Summary:
 The **L76K GNSS receiver** is a powerful and energy-efficient module that provides reliable and accurate positioning by utilizing multiple satellite systems (GPS, BeiDou, GLONASS, QZSS). Its compact size, fast time-to-first-fix, low power consumption, and enhanced tracking features make it an excellent choice for a variety of applications, including IoT devices, wearables, drones, and automotive systems where location tracking is critical.
 
+<A NAME="S15"></A>
 <HR>
 
 ## nRF52840 Microcontroller
@@ -829,7 +850,7 @@ The **nRF52840** is a highly popular and versatile **System on Chip (SoC)** from
 ### Summary:
 The **nRF52840** is a powerful and highly versatile microcontroller designed for a wide range of wireless applications, particularly in **Bluetooth Low Energy**, **Zigbee**, **Thread**, and other low-power wireless communication environments. Its robust feature set, low power consumption, and support for various security standards make it an excellent choice for **IoT**, **smart home**, and **wearable** technology applications.
 
-
+<A NAME="S16"></A>
 <HR>
 
 ## BME280 Humidity and Pressure Sensor
