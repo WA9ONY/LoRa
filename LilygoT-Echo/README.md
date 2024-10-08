@@ -504,11 +504,25 @@ Would you like more specific details on how to configure or adjust beacon settin
 <A NAME="S9"></A>
 <HR>
 
+## 11. Timestamps
+
+In Meshtastic, timestamps are generally created by the **transmitting node**. When a message is sent from a node, the timestamp is typically attached at the time of transmission. The receiving node processes the message but does not modify or create its own timestamp for the message, ensuring that the original sending time is preserved throughout the mesh network.
+
+This is important for synchronization and message integrity across the network, as it ensures that all nodes are referencing the same time for when the message was originally transmitted.
+
+In Meshtastic, a transmitter node typically includes a timestamp when sending a message, as it helps with message synchronization and integrity across the network. However, it's technically possible for a transmitter node to not send a timestamp in specific custom implementations or under certain conditions.
+
+For instance:
+- **Custom Firmware**: If you modify the Meshtastic firmware or develop a custom implementation, you could omit the timestamp from the packet data.
+- **Low Power or Limited Functionality Modes**: If the node is in a special mode that reduces functionality to save power or resources, it might not send certain metadata, such as a timestamp.
+- **Error or Fault**: If the node has a problem with its internal clock or a software error, it might fail to send a timestamp, though this would be considered a fault in typical operation.
+
+That said, in standard Meshtastic implementations, sending a timestamp is a default behavior because it plays a crucial role in coordinating communication across the mesh network.
 
 <A NAME="S10"></A>
 <HR>
 
-## Meshtastic Communications Protocols 
+## 10. Meshtastic Communications Protocols 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 Meshtastic uses LoRa radios to enable mesh networking, and it offers different types of communication protocols to balance between **range**, **data rate**, and **latency**. These protocols primarily adjust the LoRa parameters such as spreading factor, bandwidth, and coding rate. Here's a comparison of the common Meshtastic communication protocols, such as **FastLong**, and others used for optimizing performance:
@@ -597,7 +611,7 @@ These protocols allow you to tune the performance of the Meshtastic network base
 <A NAME="S11"></A>
 <HR>
 
-## Meshtastic Communication Channels.
+## 11. Meshtastic Communication Channels.
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 In Meshtastic, **communication channels** allow users to organize and structure how data is sent across the mesh network. Channels are essentially virtual lanes that facilitate efficient communication, prevent congestion, and ensure that only intended recipients get the messages. Each channel can have its own settings and encryption, making the system versatile for different use cases. Here’s a breakdown of Meshtastic channels:
@@ -678,7 +692,7 @@ In summary, Meshtastic communication channels provide a versatile and secure way
 
 # Meshtastic IOs App
 
-## Lilygo T-Echo Meshtastic IOs App Notee
+## 12. Lilygo T-Echo Meshtastic IOs App Notee
 
 Meshtastic IOs app notes.
 + When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
