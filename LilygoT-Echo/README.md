@@ -20,6 +20,7 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 ## Index
++ <A HREF="README.md#S0">0:</A> WA9ONY YouTube LoRa Videos
 + <A HREF="README.md#S1">1:</A> Introduction
 + <A HREF="README.md#S2">2:</A> Distance Between Two Lilygo T-Echo Radios
 + <A HREF="README.md#S3">3:</A> Site & Antenna Testing to Node 1968Mustang
@@ -41,8 +42,16 @@ Lilygo T-Echo Hardware
 + <A HREF="README.md#S15">15:</A> nRF52840 Microcontroller
 + <A HREF="README.md#S16">16:</A> BME280 Humidity and Pressure Sensor
 
-WA9ONY YouTube Videos
-+ <A HREF="README.md#S17">17:</A> Lilygo T-Echo Receiving Test with Yagies
+
+<A NAME="S0"></A>
+<HR>
+<HR>
+
+## 0. WA9ONY YouTube LoRa Videos
+
++ [Lilygo T-Echo Holder](https://youtube.com/shorts/KE_W0NY0Di0?si=OZpmuR8yp_g5iLat)
++ [Meshtastic Lilygo T-Echo 8 element yagi](https://youtube.com/shorts/YLLITus2dGc?si=gzMsmI5wYgMtPEXl)
++ [Meshtastic Lilygo T-Echo 17 element yagi](https://youtube.com/shorts/DKkeWTy2G94?si=lBWYknCYaOQ9suW7)
 
 
 <A NAME="S1"></A>
@@ -1139,14 +1148,3 @@ The **BME280** is a highly popular and versatile environmental sensor developed 
 The **BME280** is a versatile, high-performance sensor that can measure **temperature**, **humidity**, and **barometric pressure**, making it ideal for a wide range of applications, including weather monitoring, altitude sensing, and environmental control in IoT and smart devices. Its combination of accuracy, small size, and low power consumption has made it a go-to sensor in the embedded systems and electronics community.
 
 
-<A NAME="S17"></A>
-<HR>
-<HR>
-
-# WA9ONY YouTube Videos
-
-## 17. Lilygo T-Echo Receiving Test with Yagies
-
-YouTub Videos of testing
-+ [Meshtastic Lilygo T-Echo 8 element yagi](https://youtube.com/shorts/YLLITus2dGc?si=gzMsmI5wYgMtPEXl)
-+ [Meshtastic Lilygo T-Echo 17 element yagi](https://youtube.com/shorts/DKkeWTy2G94?si=lBWYknCYaOQ9suW7)
