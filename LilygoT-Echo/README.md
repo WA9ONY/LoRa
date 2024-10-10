@@ -22,6 +22,7 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 ## Index
 + <A HREF="README.md#S0">0:</A> WA9ONY YouTube LoRa Videos
 + <A HREF="README.md#S1">1:</A> Introduction
++ <A HREF="README.md#S1a">1a:</A> Links
 + <A HREF="README.md#S2">2:</A> Distance Between Two Lilygo T-Echo Radios
 + <A HREF="README.md#S3">3:</A> Site & Antenna Testing to Node 1968Mustang
 + <A HREF="README.md#S4">4:</A> Signal-to-Noise Ratio (SNR)
@@ -92,6 +93,13 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 - **Emergency/Disaster Communication**: Enables communication when traditional infrastructure is unavailable.
 - **IoT Networks**: Can be used for low-power sensor networks where data needs to be transmitted over long distances with minimal power usage.
 
+In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for setting up long-range, low-power communication networks without the need for traditional infrastructure. It's particularly useful for off-grid environments, adventure activities, or even IoT projects where long-range communication is needed.
+
+<A NAME="S1a"></A>
+<HR>
+
+## 1a. Links
+
 ### Stores
 - [Lilygo](https://www.lilygo.cc/products/t-echo?srsltid=AfmBOoqL5_BPfNTkqsQqpjdmVsDnaubJBPNw3YtRduo-HxCKEjROP6JH)
 - [Amazon](https://www.amazon.com/LILYGO-Wireless-Meshtastic-Development-NRF52840/dp/B0B658DZ9Z/ref=sr_1_fkmr0_1?crid=3V2GF20NV4AUD&dib=eyJ2IjoiMSJ9.NL1Nmz6IhAk3DevcKSuwYy4aVRF-U_tt3-tXilu0xnYiQl32sUrhAGZq3naG7skQ.DAyTDa25bFBOQZebDJjv2qLgnsnP3BUmIMHoVtY3U-g&dib_tag=se&keywords=Lylgo%2BT-Echo&qid=1727993611&sprefix=lylgo%2Bt-echo%2Caps%2C162&sr=8-1-fkmr0&th=1)
@@ -116,7 +124,6 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 - [Web site](https://meshtastic.org/)
 - [YouTube](https://www.youtube.com/meshtastic)
 
-In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for setting up long-range, low-power communication networks without the need for traditional infrastructure. It's particularly useful for off-grid environments, adventure activities, or even IoT projects where long-range communication is needed.
 
 <A NAME="S2"></A>
 <HR>
