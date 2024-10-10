@@ -139,13 +139,20 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 ## 1b. Portland Area Meshtastic Nodes
 
 <p align="center">
-       <img width="408" height="640" src="/LilygoT-Echo/Images/map07102024.png">
-</p>
-<p align="center">
-Over 200 Meshtastic nodes in the Portland, OR area received by WA9ONY in 21 Hours with the below Lilygo T-Echo radios.
+       <img width="295" height="640" src="/LilygoT-Echo/Images/PDX278.png">
 </p>
 
+In 4 days 278 Meshtastic nodes in the Portland, OR area received by Lilygo T-Echo radios in the ham shack.
 
+Oct. 10, 2024
+- Direct nodes 78
+- 1 hop nodes 31
+- 2 hop nodes 77-31 = 46
+- 3 hop nodes 148 -77 = 71
+- 4 hop nodes 180 - 148 = 32
+- 5 hop nodes 198 - 180 = 18
+- 6 hop nodes 201 - 198 = 3
+- 7 hop nodes 201 - 201 = 0
 
 <A NAME="S2"></A>
 <HR>
