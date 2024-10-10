@@ -49,6 +49,7 @@ Lilygo T-Echo Hardware
 
 ## 0. WA9ONY YouTube LoRa Videos
 
++ [Portland, OR LoRa Meshtastic](https://youtube.com/shorts/_0GnTGSz33M?si=B2JdPvHbs4-fISuV)
 + [Lilygo T-Echo Holder](https://youtube.com/shorts/KE_W0NY0Di0?si=OZpmuR8yp_g5iLat)
 + [Meshtastic Lilygo T-Echo 8 element yagi](https://youtube.com/shorts/YLLITus2dGc?si=gzMsmI5wYgMtPEXl)
 + [Meshtastic Lilygo T-Echo 17 element yagi](https://youtube.com/shorts/DKkeWTy2G94?si=lBWYknCYaOQ9suW7)
