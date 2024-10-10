@@ -107,7 +107,9 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 ### YouTube
 - YouTube Lilygo T-Echo [search](https://www.youtube.com/results?search_query=Lilygo+T-Echo)
 - YouTube Meshtastic [search](https://www.youtube.com/results?search_query=Meshtastic)
+- YouTube Meshtastic IOS [search](https://www.youtube.com/results?search_query=Meshtastic+IOs)
 - YouTube LoRa [search](https://www.youtube.com/results?search_query=LoRa)
+- YouTube LoRa playlist [search](https://www.youtube.com/results?search_query=LoRa+playlist)
 - The Things Network [Everything you need to know about LoRaWAN in 60 minutes - Johan Stokking (The Things Industries)](https://youtu.be/ZsVhYiX4_6o?si=3UabP0S7bx41jhB8)
 
 ### Stores
