@@ -109,6 +109,9 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 - Firmware
   - [Meshtastic Firmware 2.5.4.8d288d5 Beta, Oct. 1, 2024](https://github.com/meshtastic/firmware/releases/tag/v2.5.4.8d288d5)
 
+### Reddit
+- [r/meshtastic](https://www.reddit.com/r/meshtastic/)
+
 ### Meshtastic
 - [Web site](https://meshtastic.org/)
 - [YouTube](https://www.youtube.com/meshtastic)
