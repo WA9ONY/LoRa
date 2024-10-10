@@ -142,7 +142,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
        <img width="295" height="640" src="/LilygoT-Echo/Images/PDX278.png">
 </p>
 
-In 4 days 278 Meshtastic nodes in the Portland, OR area received by Lilygo T-Echo radios in the ham shack.
+In 4 days 278 Meshtastic nodes in the Portland, OR area received by Lilygo T-Echo radios with standard antenna in the ham shack.
 
 Oct. 10, 2024
 - Direct nodes 78
