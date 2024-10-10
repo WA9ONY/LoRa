@@ -133,6 +133,20 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [r/meshtastic](https://www.reddit.com/r/meshtastic/)
 
 
+<A NAME="S1b"></A>
+<HR>
+
+## 1b. Portland Area Meshtastic Nodes
+
+<p align="center">
+       <img width="408" height="640" src="/LilygoT-Echo/Images/map07102024.png">
+</p>
+<p align="center">
+Over 200 Meshtastic nodes in the Portland, OR area received by WA9ONY in 21 Hours with the below Lilygo T-Echo radios.
+</p>
+
+
+
 <A NAME="S2"></A>
 <HR>
 
