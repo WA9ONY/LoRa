@@ -100,6 +100,10 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 
 ## 1a. Links
 
+### Discord
+- [PDX Meshtastic](https://discord.com/channels/1222229172991168522/1222229173796343990)
+- [Meshtastic](https://discord.com/channels/867578229534359593/871540428510474302)
+
 ### Meshtastic
 - [Web site](https://meshtastic.org/)
 - [YouTube](https://www.youtube.com/meshtastic)
