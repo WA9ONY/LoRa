@@ -35,7 +35,10 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 + <A HREF="README.md#S11">11:</A> Meshtastic Communication Channels
 + <A HREF="README.md#S11a">11a:</A> Meshtastic Channels
 + <A HREF="README.md#S11b">11b:</A> Meshtastic Repeats 
-+ <A HREF="README.md#S12">12:</A> Lilygo T-Echo Meshtastic IOs App Notee
+
+Meshtastic IOs App
++ <A HREF="README.md#S12">12:</A> Meshtastic IOs App
++ <A HREF="README.md#S12a">12a:</A> Lilygo T-Echo Meshtastic IOs App Notee
 
 Lilygo T-Echo Hardware
 + <A HREF="README.md#S13">13:</A> SX1262 LoRa Transceiver 
@@ -882,18 +885,21 @@ Let me know if you want more details on how to access logs or track network beha
 
 # Meshtastic IOs App
 
-<A NAME="S12a"></A>      
+<A NAME="S12"></A>      
 <HR>
 
 ## Meshtastic IOs App
 
 [Mac App Store Preview](https://apps.apple.com/de/app/meshtastic/id1586432531?l=en-GB)
 
+Limits
+[The text message size limit for Meshtastic is 200 bytes. ](https://www.google.com/search?q=Data+limits+for+IOS+Meshtastic&oq=Data+limits+for+IOS+Meshtastic&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigAdIBCjM2MzU5ajBqMTWoAgiwAgE&client=ubuntu-chr&sourceid=chrome&ie=UTF-8#vhid=zephyr:0&vssid=atritem-https://apps.apple.com/de/app/meshtastic/id1586432531?l%3Den-GB)
 
-<A NAME="S12"></A>      
+
+<A NAME="S12a"></A>      
 <HR>
 
-## 12. Lilygo T-Echo Meshtastic IOs App Notee
+## 12a. Lilygo T-Echo Meshtastic IOs App Notee
 
 Meshtastic IOs app notes.
 + When switching to another Lilygo T-Eecho radio the app's node list is not changed from the previous radio.
