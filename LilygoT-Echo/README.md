@@ -882,6 +882,17 @@ Let me know if you want more details on how to access logs or track network beha
 
 # Meshtastic IOs App
 
+<A NAME="S12a"></A>      
+<HR>
+
+## Meshtastic IOs App
+
+[Mac App Store Preview](https://apps.apple.com/de/app/meshtastic/id1586432531?l=en-GB)
+
+
+<A NAME="S12"></A>      
+<HR>
+
 ## 12. Lilygo T-Echo Meshtastic IOs App Notee
 
 Meshtastic IOs app notes.
