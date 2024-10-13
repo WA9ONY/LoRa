@@ -119,6 +119,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - YouTube LoRa [search](https://www.youtube.com/results?search_query=LoRa)
 - YouTube LoRa playlist [search](https://www.youtube.com/results?search_query=LoRa+playlist)
 - The Things Network [Everything you need to know about LoRaWAN in 60 minutes - Johan Stokking (The Things Industries)](https://youtu.be/ZsVhYiX4_6o?si=3UabP0S7bx41jhB8)
+- [How to increase the range of a Meshtastic device | ITPOTATOFARM](https://youtu.be/1D7HQj3WbFc?si=bjJovjAv_xmJO_jq)
 
 ### Stores
 - [Lilygo](https://www.lilygo.cc/products/t-echo?srsltid=AfmBOoqL5_BPfNTkqsQqpjdmVsDnaubJBPNw3YtRduo-HxCKEjROP6JH)
