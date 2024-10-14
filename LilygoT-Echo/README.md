@@ -167,7 +167,7 @@ Distant direct nodes
 - 20 miles
   - k7Sk, EB skyline
 
-- Direct nodes 74
+Direct nodes 74
 - 1 hop nodes 35
 - 2 hop nodes 104 -35 = 69
 - 3 hop nodes 197 -104 = 93
@@ -176,6 +176,7 @@ Distant direct nodes
 - 6 hop nodes 264 - 259 = 5
 - 7 hop nodes 266 - 264 = 2
 
+Other stats
 - Environment nodes 20 nodes
 - Encrypted notes 133
 - Online nodes 125
