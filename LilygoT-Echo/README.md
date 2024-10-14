@@ -4,12 +4,6 @@
 <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A> -
 </P>  
 <p align="center">
-       <img width="408" height="640" src="/LilygoT-Echo/Images/map07102024.png">
-</p>
-<p align="center">
-Over 200 Meshtastic nodes in the Portland, OR area received by WA9ONY in 21 Hours with the below Lilygo T-Echo radios.
-</p>
-<p align="center">
        <img width="669" height="567" src="/LilygoT-Echo/Images/Lilygo2.png">
 </p>
 <p align="center">
@@ -147,6 +141,13 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 <HR>
 
 ## 1b. Portland Area Meshtastic Nodes
+
+<p align="center">
+       <img width="408" height="640" src="/LilygoT-Echo/Images/map07102024.png">
+</p>
+<p align="center">
+Over 200 Meshtastic nodes in the Portland, OR area received by WA9ONY in 21 Hours with the below Lilygo T-Echo radios.
+</p>
 
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/PDX278.png">
