@@ -146,24 +146,66 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
        <img width="295" height="640" src="/LilygoT-Echo/Images/PDX336map.png">
 </p>
 <p align="center">
-Over 300 Meshtastic nodes (6 days) in the Portland, OR area discovered by WA9ONY-2 ONY2 with the Lilygo T-Echo radio with standard antenna in the ham shack.
+340 Meshtastic nodes (6 days) in the Portland, OR area discovered by WA9ONY-2 ONY2 with the Lilygo T-Echo radio with standard antenna in the ham shack.
 </p>
 
 <p align="center">
        <img width="295" height="640" src="/LilygoT-Echo/Images/PDX336cnt.png">
 </p>
 
-In 4 days 278 Meshtastic nodes in the Portland, OR area received by Lilygo T-Echo radios with standard antenna in the ham shack.
+In 1 week 340 Meshtastic nodes were discovered in the Portland, OR area using a Lilygo T-Echo radios with standard antenna in the ham shack.
 
-Oct. 10, 2024
-- Direct nodes 78
-- 1 hop nodes 31
-- 2 hop nodes 77-31 = 46
-- 3 hop nodes 148 -77 = 71
-- 4 hop nodes 180 - 148 = 32
-- 5 hop nodes 198 - 180 = 18
-- 6 hop nodes 201 - 198 = 3
-- 7 hop nodes 201 - 201 = 0
+Distant direct nodes
+- 24 miles
+  - 929c, Meshtastic 929c
+- 23 miles
+  - West Lin Green
+  - RAK3, Rak 3 BH16
+  - TMF, Try MediumFast
+  - GB, Green Bluff
+  - 68sg, 1968Mustang
+  - E397, Meshtastic E397
+- 22 miles
+  - AC, Arnold Creek
+- 20 miles
+  - k7Sk, EB skyline
+
+Node stats for Oct. 13, 2024
+- Direct nodes 74
+- 1 hop nodes 35
+- 2 hop nodes 104 -35 = 69
+- 3 hop nodes 197 -104 = 93
+- 4 hop nodes 238 - 197 = 41
+- 5 hop nodes 259 - 238 = 21
+- 6 hop nodes 264 - 259 = 5
+- 7 hop nodes 266 - 264 = 2
+
+- Environment nodes 20 nodes
+- Encrypted notes 133
+- Online nodes 125
+- Farthest node south from WA9ONY is 90 miles, KNE1 W7KNE Home-1 with 5 hops
+- Farthest node north from WA9ONY is 58 miles, RH8 Rh8 51f4 xr with 3 hops
+- Cloest node to WA9ONY is 0.7 miles, Liv2 Livingston2 with 2 hops
+
+Node Roles
+- Clients nodes 288
+- Client Mute nodes 24
+- TAK nodes 2
+- TAK Tracker nodes 4
+- Router nodes 13
+- Router & Client nodes 9
+
+Node data
+- No name nodes none, I have seen them before
+- No position data nodes 7
+- No timestamp nodes 7
+
+Amateur Radio Nodes 32
+- Direct nodes 3
+  - 20 miles k7Sk, EB skyline
+  - 11 miles KOSH, K7OSH, 
+  - 10 miles KhV, KK7QZQ heltec V3
+
 
 <A NAME="S2"></A>
 <HR>
