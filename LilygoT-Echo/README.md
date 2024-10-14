@@ -150,6 +150,8 @@ In 1 week 340 Meshtastic nodes in the Portland, OR area were discovered by WA9ON
 ONY2 node is a Lilygo T-Echo radio with standard antenna located in the ham shack.
 The IOS Meshtastic app was used.
 
+Node stats for Oct. 
+
 Distant direct nodes
 - 24 miles
   - 929c, Meshtastic 929c
@@ -165,7 +167,6 @@ Distant direct nodes
 - 20 miles
   - k7Sk, EB skyline
 
-Node stats for Oct. 13, 2024
 - Direct nodes 74
 - 1 hop nodes 35
 - 2 hop nodes 104 -35 = 69
