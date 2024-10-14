@@ -146,7 +146,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
        <img width="295" height="640" src="/LilygoT-Echo/Images/PDX340map.png">
 </p>
 <p align="center">
-340 Meshtastic nodes (6 days) in the Portland, OR area discovered by WA9ONY-2 ONY2 with the Lilygo T-Echo radio with standard antenna in the ham shack.
+340 Meshtastic nodes in 1 week in the Portland, OR area discovered by WA9ONY-2 ONY2 with the Lilygo T-Echo radio with standard antenna in the ham shack. IOS Meshtastic app used.
 </p>
 
 <p align="center">
