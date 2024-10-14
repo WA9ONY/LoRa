@@ -123,6 +123,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
   - Using Raspberry Pi 5 Ubuntu I installed Meshtastic 2.4.2V.
 - [Rokland](https://store.rokland.com/products/lilygo-ttgo-meshtastic-t-echo-white-bme280-lora-sx1262-wireless-module-915mhz-nrf52840-gps-rtc-nfc-for-arduino?ref=tc2&variant=40844083593299)
 - [AliExpress](https://www.aliexpress.us/item/3256802656141638.html?gatewayAdapt=bra2usa4itemAdapt)
+  - $56.14 free shipping, order place Oct. 3, received it on Oct. 13.
 
 ### GitHub
 - [LilyGo T-Echo](https://github.com/Xinyuan-LilyGO/T-Echo?ref=tc2)
