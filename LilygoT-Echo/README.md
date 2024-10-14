@@ -178,6 +178,14 @@ Direct nodes 74
 
 Other stats
 - Environment nodes 20 nodes
+  - 5 using Lilygo T-Echo, temp, Humidity & pressure
+  - 2 using Lilygo T-Beam S3 Core, temp, Humidity & pressure
+  - 2 using RAK WisBlock 4631, temp, Humidity & pressure
+  - 4 using RAK WisBlock 4631, temp & Humidity
+  - 1 using RAK WisBlock 4631, temp
+  - 2 using Heltec V3, temp, Humidity & pressure
+  - 1 Seeed Card Tracker T1000-e, temp
+  - 3 incomplete temp, Humidity & pressure
 - Encrypted notes 133
 - Online nodes 125
 - Farthest node south from WA9ONY is 90 miles, KNE1 W7KNE Home-1 with 5 hops
