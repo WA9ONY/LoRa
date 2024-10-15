@@ -215,29 +215,28 @@ Amateur Radio Nodes 32
   - 11 miles KOSH, [K7OSH](https://www.qrz.com/db/K7OSH), 
   - 10 miles KhV, [KK7QZQ](https://www.qrz.com/db/KK7QZQ) heltec V3
 - Hops
-  - KI7
-  - K1RKS
-  - WV1T
-  - K2SO
-  - W6SB
-  - K7KIB
-  - K7OLI
-  - K7OSH
-  - KD7SQH
-  - KG7BZ
-  - KG7QLE
-  - KI7KLT
-  - KI7TRF
-  - KJ7T
-  - KJ7VJB
-  - KK7IRI
-  - KK7QZQ
-  - KK7UIL
-  - N7DLM
-  - N7IW
-  - NA7KR
-  - W7KNE
-  - W7MVG
+  - [K1RKS](https://www.qrz.com/db/K1RKS)
+  - [WV1T](https://www.qrz.com/db/WV1T)
+  - [K2SO](https://www.qrz.com/db/K2SO)
+  - [W6SB](https://www.qrz.com/db/W6SB)
+  - [K7KIB](https://www.qrz.com/db/K7KIB)
+  - [K7OLI](https://www.qrz.com/db/K7OLI)
+  - [K7OSH](https://www.qrz.com/db/K7OSH)
+  - [KD7SQH](https://www.qrz.com/db/KD7SQH)
+  - [KG7BZ](https://www.qrz.com/db/KG7BZ)
+  - [KG7QLE](https://www.qrz.com/db/KG7QLE)
+  - [KI7KLT](https://www.qrz.com/db/KI7KLT)
+  - [KI7TRF](https://www.qrz.com/db/KI7TRF)
+  - [KJ7T](https://www.qrz.com/db/KJ7T)
+  - [KJ7VJB](https://www.qrz.com/db/KJ7VJB)
+  - [KK7IRI](https://www.qrz.com/db/KK7IRI)
+  - [KK7QZQ](https://www.qrz.com/db/KK7QZQ)
+  - [KK7UIL](https://www.qrz.com/db/KK7UIL)
+  - [N7DLM](https://www.qrz.com/db/N7DLM)
+  - [N7IW](https://www.qrz.com/db/N7IW)
+  - [NA7KR](https://www.qrz.com/db/NA7KR)
+  - [W7KNE](https://www.qrz.com/db/W7KNE)
+  - [W7MVG](https://www.qrz.com/db/W7MVG)
   
 <A NAME="S2"></A>
 <HR>
