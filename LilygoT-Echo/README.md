@@ -214,8 +214,31 @@ Amateur Radio Nodes 32
   - 20 miles [k7Sk](https://www.qrz.com/db/K7SK), EB skyline
   - 11 miles KOSH, [K7OSH](https://www.qrz.com/db/K7OSH), 
   - 10 miles KhV, [KK7QZQ](https://www.qrz.com/db/KK7QZQ) heltec V3
-
-
+- Hops
+  - KI7
+  - K1RKS
+  - WV1T
+  - K2SO
+  - W6SB
+  - K7KIB
+  - K7OLI
+  - K7OSH
+  - KD7SQH
+  - KG7BZ
+  - KG7QLE
+  - KI7KLT
+  - KI7TRF
+  - KJ7T
+  - KJ7VJB
+  - KK7IRI
+  - KK7QZQ
+  - KK7UIL
+  - N7DLM
+  - N7IW
+  - NA7KR
+  - W7KNE
+  - W7MVG
+  
 <A NAME="S2"></A>
 <HR>
 
