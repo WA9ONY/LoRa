@@ -131,6 +131,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
   - $56.14 free shipping, order place Oct. 3, received it on Oct. 13.
 
 ### Antenna Stores
+[Meshtastic Antenas](https://meshtastic.org/docs/hardware/antennas/)
 - GIZONT Antenna [10 dBi, antenna size: 16.7 cm](https://www.aliexpress.us/item/3256804421300249.html?spm=a2g0o.order_list.order_list_main.22.7cf118024i7oNf&gatewayAdapt=glo2usa)
 
 ### GitHub
