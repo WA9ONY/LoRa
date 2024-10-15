@@ -211,9 +211,9 @@ Node data
 
 Amateur Radio Nodes 32
 - Direct nodes 3
-  - 20 miles k7Sk, EB skyline
-  - 11 miles KOSH, K7OSH, 
-  - 10 miles KhV, KK7QZQ heltec V3
+  - 20 miles [k7Sk](https://www.qrz.com/db/K7SK), EB skyline
+  - 11 miles KOSH, [K7OSH](https://www.qrz.com/db/K7OSH), 
+  - 10 miles KhV, [KK7QZQ](https://www.qrz.com/db/KK7QZQ) heltec V3
 
 
 <A NAME="S2"></A>
