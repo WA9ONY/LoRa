@@ -98,16 +98,16 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 
 ## 1a. Links
 
-### Discord
-- [PDX Meshtastic](https://discord.com/channels/1222229172991168522/1222229173796343990)
-- [Willamette Valley Meshtastic](https://discord.com/channels/1274456125701361715/1274456126263656543)
-- [Meshtastic](https://discord.com/channels/867578229534359593/871540428510474302)
-
 ### Meshtastic
 - [Web site](https://meshtastic.org/)
 - [YouTube](https://www.youtube.com/meshtastic)
 
-### YouTube
+### Meshtastic Discord Groups
+- [PDX Meshtastic](https://discord.com/channels/1222229172991168522/1222229173796343990)
+- [Willamette Valley Meshtastic](https://discord.com/channels/1274456125701361715/1274456126263656543)
+- [Meshtastic](https://discord.com/channels/867578229534359593/871540428510474302)
+
+### YouTube videos related to Meshtastic
 - YouTube Lilygo T-Echo [search](https://www.youtube.com/results?search_query=Lilygo+T-Echo)
 - YouTube Meshtastic [search](https://www.youtube.com/results?search_query=Meshtastic)
 - YouTube Meshtastic IOS [search](https://www.youtube.com/results?search_query=Meshtastic+IOs)
@@ -117,8 +117,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [How to increase the range of a Meshtastic device | ITPOTATOFARM](https://youtu.be/1D7HQj3WbFc?si=bjJovjAv_xmJO_jq)
 - [Illegal signals affecting Meshtastic?](https://www.youtube.com/watch?v=xdOsquuHpuo&t=165s)
 
-
-### T-Echo Stores
+### Lilygo T-Echo Stores
 [Meshtastic device](https://meshtastic.org/docs/hardware/devices/)
 - [Lilygo](https://www.lilygo.cc/products/t-echo?srsltid=AfmBOoqL5_BPfNTkqsQqpjdmVsDnaubJBPNw3YtRduo-HxCKEjROP6JH)
    - $54.14
@@ -132,11 +131,11 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [AliExpress](https://www.aliexpress.us/item/3256802656141638.html?gatewayAdapt=bra2usa4itemAdapt)
   - $56.14 free shipping, order place Oct. 3, received it on Oct. 13.
 
-### Antenna Stores
+### T-Echo Antennaa Stores
 [Meshtastic Antenas](https://meshtastic.org/docs/hardware/antennas/)
 - GIZONT Antenna [10 dBi, antenna size: 16.7 cm](https://www.aliexpress.us/item/3256804421300249.html?spm=a2g0o.order_list.order_list_main.22.7cf118024i7oNf&gatewayAdapt=glo2usa)
 
-### GitHub
+### Meshtastic on GitHub
 - [LilyGo T-Echo](https://github.com/Xinyuan-LilyGO/T-Echo?ref=tc2)
 - [Meshtastic](https://github.com/meshtastic)
 - [Meshtastic docs](https://github.com/meshtastic/artifacts/tree/docs)
@@ -144,7 +143,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - Firmware
   - [Meshtastic Firmware 2.5.4.8d288d5 Beta, Oct. 1, 2024](https://github.com/meshtastic/firmware/releases/tag/v2.5.4.8d288d5)
 
-### Reddit
+### Meshtastic on Reddit
 - [r/meshtastic](https://www.reddit.com/r/meshtastic/)
   - [How do I get started? (UK)](https://www.reddit.com/r/meshtastic/comments/1g0mk0u/how_do_i_get_started_uk/)
 
