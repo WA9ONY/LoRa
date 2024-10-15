@@ -209,34 +209,30 @@ Node data
 - No position data nodes 7
 - No timestamp nodes 7
 
-Amateur Radio Nodes 32
-- Direct nodes 3
-  - 20 miles [k7Sk](https://www.qrz.com/db/K7SK), EB skyline
-  - 11 miles KOSH, [K7OSH](https://www.qrz.com/db/K7OSH), 
-  - 10 miles KhV, [KK7QZQ](https://www.qrz.com/db/KK7QZQ) heltec V3
-- Hops
-  - [K1RKS](https://www.qrz.com/db/K1RKS)
-  - [WV1T](https://www.qrz.com/db/WV1T)
-  - [K2SO](https://www.qrz.com/db/K2SO)
-  - [W6SB](https://www.qrz.com/db/W6SB)
-  - [K7KIB](https://www.qrz.com/db/K7KIB)
-  - [K7OLI](https://www.qrz.com/db/K7OLI)
-  - [K7OSH](https://www.qrz.com/db/K7OSH)
-  - [KD7SQH](https://www.qrz.com/db/KD7SQH)
-  - [KG7BZ](https://www.qrz.com/db/KG7BZ)
-  - [KG7QLE](https://www.qrz.com/db/KG7QLE)
-  - [KI7KLT](https://www.qrz.com/db/KI7KLT)
-  - [KI7TRF](https://www.qrz.com/db/KI7TRF)
-  - [KJ7T](https://www.qrz.com/db/KJ7T)
-  - [KJ7VJB](https://www.qrz.com/db/KJ7VJB)
-  - [KK7IRI](https://www.qrz.com/db/KK7IRI)
-  - [KK7QZQ](https://www.qrz.com/db/KK7QZQ)
-  - [KK7UIL](https://www.qrz.com/db/KK7UIL)
-  - [N7DLM](https://www.qrz.com/db/N7DLM)
-  - [N7IW](https://www.qrz.com/db/N7IW)
-  - [NA7KR](https://www.qrz.com/db/NA7KR)
-  - [W7KNE](https://www.qrz.com/db/W7KNE)
-  - [W7MVG](https://www.qrz.com/db/W7MVG)
+Amateur Radio operaters with nodes 23
+  - [K1RKS](https://www.qrz.com/db/K1RKS) 3 & 5
+  - [WV1T](https://www.qrz.com/db/WV1T) 3 & 5
+  - [K2SO](https://www.qrz.com/db/K2SO) 3
+  - [W6SB](https://www.qrz.com/db/W6SB) 3
+  - [K7KIB](https://www.qrz.com/db/K7KIB) 6
+  - [K7OLI](https://www.qrz.com/db/K7OLI) 4
+  - [K7OSH](https://www.qrz.com/db/K7OSH) Direct, 11 miles
+  - [K7SK](https://www.qrz.com/db/K7SK), Direct, 20 miles
+  - [KD7SQH](https://www.qrz.com/db/KD7SQH) 4
+  - [KG7BZ](https://www.qrz.com/db/KG7BZ) 4
+  - [KG7QLE](https://www.qrz.com/db/KG7QLE) 5
+  - [KI7KLT](https://www.qrz.com/db/KI7KLT) 2
+  - [KI7TRF](https://www.qrz.com/db/KI7TRF) 4
+  - [KJ7T](https://www.qrz.com/db/KJ7T) 2
+  - [KJ7VJB](https://www.qrz.com/db/KJ7VJB) 4
+  - [KK7IRI](https://www.qrz.com/db/KK7IRI) 4
+  - [KK7QZQ](https://www.qrz.com/db/KK7QZQ) Direct, 10 miles 
+  - [KK7UIL](https://www.qrz.com/db/KK7UIL) 5
+  - [N7DLM](https://www.qrz.com/db/N7DLM) 3
+  - [N7IW](https://www.qrz.com/db/N7IW) 3 & 4
+  - [NA7KR](https://www.qrz.com/db/NA7KR) 2
+  - [W7KNE](https://www.qrz.com/db/W7KNE) 5
+  - [W7MVG](https://www.qrz.com/db/W7MVG) 5
   
 <A NAME="S2"></A>
 <HR>
