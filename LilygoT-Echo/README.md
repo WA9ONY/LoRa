@@ -117,7 +117,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [Illegal signals affecting Meshtastic?](https://www.youtube.com/watch?v=xdOsquuHpuo&t=165s)
 
 
-### Stores
+### T-Echo Stores
 - [Lilygo](https://www.lilygo.cc/products/t-echo?srsltid=AfmBOoqL5_BPfNTkqsQqpjdmVsDnaubJBPNw3YtRduo-HxCKEjROP6JH)
    - $54.14
 - [Amazon](https://www.amazon.com/LILYGO-Wireless-Meshtastic-Development-NRF52840/dp/B0B658DZ9Z/ref=sr_1_fkmr0_1?crid=3V2GF20NV4AUD&dib=eyJ2IjoiMSJ9.NL1Nmz6IhAk3DevcKSuwYy4aVRF-U_tt3-tXilu0xnYiQl32sUrhAGZq3naG7skQ.DAyTDa25bFBOQZebDJjv2qLgnsnP3BUmIMHoVtY3U-g&dib_tag=se&keywords=Lylgo%2BT-Echo&qid=1727993611&sprefix=lylgo%2Bt-echo%2Caps%2C162&sr=8-1-fkmr0&th=1)
@@ -129,6 +129,9 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
   - $74.97
 - [AliExpress](https://www.aliexpress.us/item/3256802656141638.html?gatewayAdapt=bra2usa4itemAdapt)
   - $56.14 free shipping, order place Oct. 3, received it on Oct. 13.
+
+### Antenna Stores
+- GIZONT Antenna [10 dBi, antenna size: 16.7 cm](https://www.aliexpress.us/item/3256804421300249.html?spm=a2g0o.order_list.order_list_main.22.7cf118024i7oNf&gatewayAdapt=glo2usa)
 
 ### GitHub
 - [LilyGo T-Echo](https://github.com/Xinyuan-LilyGO/T-Echo?ref=tc2)
