@@ -118,7 +118,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 
 
 ### T-Echo Stores
-[Meshtastic device](https://meshtastic.org/docs/hardware/devices/0)
+[Meshtastic device](https://meshtastic.org/docs/hardware/devices/)
 - [Lilygo](https://www.lilygo.cc/products/t-echo?srsltid=AfmBOoqL5_BPfNTkqsQqpjdmVsDnaubJBPNw3YtRduo-HxCKEjROP6JH)
    - $54.14
 - [Amazon](https://www.amazon.com/LILYGO-Wireless-Meshtastic-Development-NRF52840/dp/B0B658DZ9Z/ref=sr_1_fkmr0_1?crid=3V2GF20NV4AUD&dib=eyJ2IjoiMSJ9.NL1Nmz6IhAk3DevcKSuwYy4aVRF-U_tt3-tXilu0xnYiQl32sUrhAGZq3naG7skQ.DAyTDa25bFBOQZebDJjv2qLgnsnP3BUmIMHoVtY3U-g&dib_tag=se&keywords=Lylgo%2BT-Echo&qid=1727993611&sprefix=lylgo%2Bt-echo%2Caps%2C162&sr=8-1-fkmr0&th=1)
