@@ -865,4 +865,8 @@ Nuts and Volts article [IoT Made Easy](https://www.nutsvolts.com/magazine/articl
 
 YouTube
 + [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=jZjCwOgcksOEZwP_)
+  +  Chrip spread spectrum
+  +  Compare received sysbols with all ideal know sysbols and select best fit sysbol.
+  +  SF: spreading factor,  increasing the SF improves the ability to operate in lower SNR.
+  +  Math tricks to implement in low power circuits.
 
