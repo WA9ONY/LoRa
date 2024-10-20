@@ -80,4 +80,31 @@ YouTube Andy Kirby in UK
 Meshtastic Store
 + [mpowered247 in the UK](https://mpowered247.com/)
 
+GitHub
++ [T-Deck](https://github.com/Xinyuan-LilyGO/T-Deck)
+  + T-Deck-Plus has assigned the pins on the Grove interface to the GPS module, so the Grove interface of T-Deck-Plus cannot be used.
+ 
+
+<HR>
+
+## Operating
+
+Right slide switch is the power switch
+Left push button is rest/boot
+
+Came with Meshtastic FW V 2.5.1
+
+Takes a while to boot up
+
+Text interface, not the GUI
+
+Node name Meshtastic_5390
+
+Bluebooth interface active
+
+Return sends a message
+
+Display is a touch screen. Swip left or right to move through the bottom dots displays.
+
+
 
