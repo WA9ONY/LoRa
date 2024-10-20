@@ -8,27 +8,12 @@
 <p align="center">
        <img width="360" height="640" src="/LilygoT-DeckPlus/Images/T-DeckPlus.jpeg">
 </p>
-<p align="center">
-Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR ~16 miles away.
-</p>
 
 # Lilygo T-Deck Plus LoRa Meshtastic Radio
 
-+ [Lilygo T-Deck Plus](https://www.lilygo.cc/products/t-deck-plus?bg_ref=xknMV5FzPY)
-+ 
-
-
-YouTube Andy Kirby in UK
-+ [WAS THIS FANCY MESHTASTIC FIRMWARE DELETED?!](https://youtu.be/Xo8VhT1_VwM?si=sUDfjNN-eIbQilxM)
-+ [CREATE A CELL NETWORK FOR SMS IN YOUR TOWN!!!](https://youtu.be/-JJK7gG_N2A?si=BSc6X5BUXIqTXSuy)
-
-
-Store
-+ [mpowered247 in the UK](https://mpowered247.com/)
-
 <HR>
 
-### Overview of the Lilygo T-Deck Plus LoRa Meshtastic Radio
+## Overview of the Lilygo T-Deck Plus LoRa Meshtastic Radio
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
 The **Lilygo T-Deck Plus** is a versatile development board that incorporates long-range communication via LoRa (Long Range) technology and is designed for use with the **Meshtastic** mesh network protocol. It offers a comprehensive set of features that make it an ideal platform for various Internet of Things (IoT), communication, and sensor network applications.
@@ -76,5 +61,20 @@ The **Lilygo T-Deck Plus** is a versatile development board that incorporates lo
 
 #### Conclusion:
 The **Lilygo T-Deck Plus LoRa Meshtastic Radio** is a highly capable and flexible development platform, combining the long-range communication capabilities of LoRa with the mesh networking capabilities of Meshtastic. Its onboard ESP32 processor, e-paper display, and battery support make it an excellent choice for IoT, sensor networks, and off-grid communication systems. The compatibility with popular development environments and protocols like Meshtastic further enhances its versatility for hobbyists and professionals alike.
+
+
+<HR>
+
+## Links
+
+Stores
++ [Lilygo T-Deck Plus](https://www.lilygo.cc/products/t-deck-plus?bg_ref=xknMV5FzPY)
+
+YouTube Andy Kirby in UK
++ [WAS THIS FANCY MESHTASTIC FIRMWARE DELETED?!](https://youtu.be/Xo8VhT1_VwM?si=sUDfjNN-eIbQilxM)
++ [CREATE A CELL NETWORK FOR SMS IN YOUR TOWN!!!](https://youtu.be/-JJK7gG_N2A?si=BSc6X5BUXIqTXSuy)
+
+Meshtastic Store
++ [mpowered247 in the UK](https://mpowered247.com/)
 
 
