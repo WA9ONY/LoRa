@@ -16,6 +16,7 @@ Lilygo T-Echo radio sitting next to the window that faces downtown Portland, OR 
 ## Index
 + <A HREF="README.md#S0">0:</A> WA9ONY YouTube LoRa Videos
 + <A HREF="README.md#S1">1:</A> Introduction
++ <A HREF="README.md#S1aa">1aa:</A> Meshtastic Ecosystem
 + <A HREF="README.md#S1a">1a:</A> Links
 + <A HREF="README.md#S2">2:</A> Distance Between Two Lilygo T-Echo Radios
 + <A HREF="README.md#S3">3:</A> Site & Antenna Testing to Node 1968Mustang
@@ -94,6 +95,20 @@ The **Lilygo T-Echo LoRa Meshtastic** is a small, low-power, open-source communi
 
 In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for setting up long-range, low-power communication networks without the need for traditional infrastructure. It's particularly useful for off-grid environments, adventure activities, or even IoT projects where long-range communication is needed.
 
+<A NAME="S1aa"></A>
+<HR>
+
+## 1aa. Meshtastic Ecosystem
+
+### Meshtastic Discord Groups
+- [PDX Meshtastic](https://discord.com/channels/1222229172991168522/1222229173796343990)
+- [Willamette Valley Meshtastic](https://discord.com/channels/1274456125701361715/1274456126263656543)
+- [Meshtastic](https://discord.com/channels/867578229534359593/871540428510474302)
+
+### Meshtastic Reddit Group
+- [r/meshtastic](https://www.reddit.com/r/meshtastic/)
+
+
 <A NAME="S1a"></A>
 <HR>
 
@@ -103,10 +118,6 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [Web site](https://meshtastic.org/)
 - [YouTube](https://www.youtube.com/meshtastic)
 
-### Meshtastic Discord Groups
-- [PDX Meshtastic](https://discord.com/channels/1222229172991168522/1222229173796343990)
-- [Willamette Valley Meshtastic](https://discord.com/channels/1274456125701361715/1274456126263656543)
-- [Meshtastic](https://discord.com/channels/867578229534359593/871540428510474302)
 
 ### YouTube videos related to Meshtastic
 - YouTube Lilygo T-Echo [search](https://www.youtube.com/results?search_query=Lilygo+T-Echo)
