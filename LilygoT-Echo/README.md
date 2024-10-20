@@ -2,6 +2,8 @@
 - LoRa GitHub Repositories: 
 <A HREF="https://github.com/WA9ONY/LoRa">LoRa</A> - 
 <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A> -
+<A HREF="https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md">T-Deck Plus</A> -
+<A HREF="https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md">T-Echo</A> -
 </P>  
 <p align="center">
        <img width="669" height="567" src="/LilygoT-Echo/Images/Lilygo2.png">
