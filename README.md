@@ -867,6 +867,18 @@ YouTube
 + [How LoRa Modulation really works - long range communication using chirps](https://youtu.be/jHWepP1ZWTk?si=jZjCwOgcksOEZwP_)
   +  Chrip spread spectrum
   +  Compare received sysbols with all ideal know sysbols and select best fit sysbol.
-  +  SF: spreading factor,  increasing the SF improves the ability to operate in lower SNR.
+  +  SF: spreading factor,  increasing the SF improves the ability to operate in lower SNR. Increase SF increase in data bits per second, Higher SF slower the communications.
   +  Math tricks to implement in low power circuits.
 
+Chrip spread spectrum
++ Preamble: 8 up-chirps
++ Synchronization: 2 down-chirps
++ Data: 5 up-chirps
+
+US 902 to 928 MHz
+
+Duty cycle US no limit
+
+Time-on-air, dwell time US 400ms for channels 0-63, continious transmission not allowed
+
+CF and bandwidth typical 125 kHz
