@@ -85,6 +85,8 @@ GitHub
   + T-Deck-Plus has assigned the pins on the Grove interface to the GPS module, so the Grove interface of T-Deck-Plus cannot be used.
  
 
+
+
 <HR>
 
 ## Operating
@@ -106,5 +108,10 @@ Return sends a message
 
 Display is a touch screen. Swip left or right to move through the bottom dots displays.
 
+[Keyboard Shortcuts](https://meshtastic.org/docs/hardware/devices/lilygo/tdeck/)
+
+Built in speaker alerts when receiving a message.
+
+Type on the keyboard to start entering a message.
 
 
