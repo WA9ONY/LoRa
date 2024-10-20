@@ -13,8 +13,6 @@
 
 <HR>
 
-Thank you for pointing that out! You're right. Let me correct the errors in the description.
-
 ### Corrected Overview of the Lilygo T-Deck Plus LoRa Meshtastic Radio
 
 The **Lilygo T-Deck Plus** is a versatile development board incorporating LoRa (Long Range) wireless communication and designed for use with the **Meshtastic** mesh networking protocol. It is equipped with a variety of features, making it ideal for IoT, communication, and sensor network applications.
