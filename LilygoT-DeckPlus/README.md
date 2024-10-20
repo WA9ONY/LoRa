@@ -2,6 +2,7 @@
 - LoRa GitHub Repositories: 
 <A HREF="https://github.com/WA9ONY/LoRa">LoRa</A> - 
 <A HREF="https://github.com/WA9ONY/LoRa/blob/main/Meshtastic/README.md">Meshtastic</A> -
+<A HREF="https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md">T-Deck Plus</A> -
 </P>  
 <p align="center">
        <img width="360" height="640" src="/LilygoT-DeckPlus/Images/T-DeckPlus.jpeg">
