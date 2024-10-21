@@ -127,7 +127,7 @@ The factory Meshtastic FW version is 2.5.1.  The display is very simular to the 
 To send a message just start typing.  It is best for the screen to be in the last two screen positions ( status and GPS position).  If display is in the node display when you start typing the send message display will be cleared is the T-Deck Plus
 
 Message Received
-Screen shows message, alert sounds, count down displayed.
+Screen shows message, alert sounds, touch display to turn off alert, count up to 1 minute displayed.
 
 
 
