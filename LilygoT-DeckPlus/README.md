@@ -83,8 +83,6 @@ GitHub
   + T-Deck-Plus has assigned the pins on the Grove interface to the GPS module, so the Grove interface of T-Deck-Plus cannot be used.
  
 
-
-
 <HR>
 
 ## Operating
@@ -111,5 +109,25 @@ Display is a touch screen. Swip left or right to move through the bottom dots di
 Built in speaker alerts when receiving a message.
 
 Type on the keyboard to start entering a message.
+
+
+
+<HR>
+
+## First Walk
+
+Still learning how to use the Lilygo T-Deck Plus.  I am still searching for information on using the T-Deck Plus.
+
+I took the T-Deck Plus with me on a dog walk. 
+
+Sent 7 position messages.  All 7 messages were received by my 3 nodes at home: WA9ONY-1, WA9ONY-2, and WA9ONY-3.
+
+The factory Meshtastic FW version is 2.5.1.  The display is very simular to the Lilygo T-Echo.
+
+To send a message just start typing.  It is best for the screen to be in the last two screen positions ( status and GPS position).  If display is in the node display when you start typing the send message display will be cleared is the T-Deck Plus
+
+Message Received
+Screen shows message, alert sounds, count down displayed.
+
 
 
