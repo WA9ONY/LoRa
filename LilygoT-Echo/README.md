@@ -123,6 +123,9 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 ### Meshtastic Discussion Forum
 - [pdxlocationst](https://meshtastic.discourse.group/) 
 
+### Meshtastic Map
+- [Willamette Valley Meshtastic Map](https://discord.com/channels/1274456125701361715/1274456547946266724) 
+
 
 <A NAME="S1a"></A>
 <HR>
