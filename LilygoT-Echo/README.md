@@ -42,6 +42,8 @@ Lilygo T-Echo Hardware
 + <A HREF="README.md#S14">14:</A> L76K GNSS Receiver with GPS, BeiDou, GLONASS & QZSS
 + <A HREF="README.md#S15">15:</A> nRF52840 Microcontroller
 + <A HREF="README.md#S16">16:</A> BME280 Humidity and Pressure Sensor
++ <A HREF="README.md#S17">17:</A> Antenna
+
 
 
 <A NAME="S0"></A>
@@ -1323,10 +1325,10 @@ The **BME280** is a highly popular and versatile environmental sensor developed 
 The **BME280** is a versatile, high-performance sensor that can measure **temperature**, **humidity**, and **barometric pressure**, making it ideal for a wide range of applications, including weather monitoring, altitude sensing, and environmental control in IoT and smart devices. Its combination of accuracy, small size, and low power consumption has made it a go-to sensor in the embedded systems and electronics community.
 
 
-<A NAME="S15"></A>
+<A NAME="S17"></A>
 <HR>
 
-## 15. Lilygo T-Echo Antenna
+## 17. Lilygo T-Echo Antenna
 
 To estimate the gain in dBi for this 915 MHz helical antenna, we’ll use a few known parameters about antennas of this type. Helical antennas like this one, often used at UHF frequencies (like 915 MHz), typically exhibit certain gain characteristics based on their geometry.
 
