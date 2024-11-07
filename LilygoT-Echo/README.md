@@ -1330,6 +1330,14 @@ The **BME280** is a versatile, high-performance sensor that can measure **temper
 
 # Gain Estimation of the Lilygo T-Echo 915 MHz Helical Antenna
 
+<p align="center">
+       <img width="669" height="567" src="/LilygoT-Echo/Images/Lilygo2.png">
+</p>
+
+
+<img align=right width="640" height="480" src="/Images/TEchoAntrot.png">
+
+
 To estimate the gain in dBi for this 915 MHz helical antenna, we’ll use a few known parameters about antennas of this type. Helical antennas like this one, often used at UHF frequencies (like 915 MHz), typically exhibit certain gain characteristics based on their geometry.
 
 ## Given Parameters
