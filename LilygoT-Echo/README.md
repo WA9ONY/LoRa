@@ -1361,5 +1361,4 @@ Given that:
 1. The length of this antenna is quite small (2 cm), meaning it’s closer to a monopole or short helical antenna.
 2. Based on similar designs, this type of small, helical 915 MHz antenna generally has a gain around **1-2 dBi**.
 
-## Final Answer
-**The estimated gain of this 915 MHz helical antenna is approximately 1-2 dBi.** This is a practical estimate based on typical designs for such short helical antennas.
+**The estimated gain of the Lilygo T-Echo 915 MHz helical antenna is approximately 1-2 dBi.** This is a practical estimate based on typical designs for such short helical antennas.
