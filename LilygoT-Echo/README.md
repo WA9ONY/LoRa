@@ -1385,7 +1385,7 @@ G \approx 10 \log \left( \frac{4 \pi N D^2}{\lambda^2} \right)
 where:
 - \( N \) = number of turns
 - \( D \) = diameter of the coil
-- \( \λ \) = wavelength
+- \( λ \) = wavelength
 
 However, in the case of small helical antennas, especially ones used on compact devices, a more straightforward assumption can be applied.
 
