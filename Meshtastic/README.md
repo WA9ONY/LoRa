@@ -426,4 +426,49 @@ Yes, two LILYGO T-Echo Meshtastic devices will connect to each other automatical
 If you need help configuring the devices or tweaking settings, feel free to ask!
 
 
+<HR>
 
+# Meshtastic Networks Channel Utilization
+
+To calculate the channel utilization for 100 Meshtastic nodes, each broadcasting a beacon every 15 minutes with each beacon being relayed (hopped) 3 times, we can follow these steps:
+
+**Assumptions:**
+
+- Each node transmits a beacon every 15 minutes (900 seconds).
+- Each beacon is relayed 3 times, resulting in 4 total transmissions per beacon (1 original + 3 hops).
+- All nodes are within range of each other, so each transmission is received by all other nodes.
+- The airtime for each beacon transmission is approximately 1 second.
+
+**Calculations:**
+
+1. **Total Transmissions per Hour:**
+
+   - Each node transmits 4 times per hour (since 60 minutes / 15 minutes = 4).
+   - With 100 nodes, the total number of original transmissions per hour is:
+
+     \[ 100 \, \text{nodes} \times 4 \, \text{transmissions per node per hour} = 400 \, \text{original transmissions per hour} \]
+
+   - Each original transmission is relayed 3 times, resulting in:
+
+     \[ 400 \, \text{original transmissions} \times 3 \, \text{relays} = 1{,}200 \, \text{relay transmissions per hour} \]
+
+   - Total transmissions per hour (original + relays):
+
+     \[ 400 \, \text{original} + 1{,}200 \, \text{relays} = 1{,}600 \, \text{total transmissions per hour} \]
+
+2. **Total Airtime Used per Hour:**
+
+   - If each transmission occupies 1 second of airtime, the total airtime used per hour is:
+
+     \[ 1{,}600 \, \text{transmissions} \times 1 \, \text{second per transmission} = 1{,}600 \, \text{seconds} \]
+
+3. **Channel Utilization:**
+
+   - There are 3,600 seconds in an hour.
+   - The channel utilization is calculated as:
+
+     \[ \left( \frac{1{,}600 \, \text{seconds}}{3{,}600 \, \text{seconds}} \right) \times 100\% \approx 44.44\% \]
+
+**Conclusion:**
+
+With 100 Meshtastic nodes each broadcasting a beacon every 15 minutes, and each beacon being relayed 3 times, the channel utilization is approximately 44.44%. This level of utilization is within acceptable limits but indicates that the channel is moderately loaded. It's important to monitor this utilization to prevent potential network congestion, especially if additional traffic is introduced.  
