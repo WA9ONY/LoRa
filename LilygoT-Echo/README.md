@@ -122,9 +122,11 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 
 ### Github
 - [Meshtastic](https://github.com/meshtastic)
-- [Meshtastic](https://github.com/orgs/meshtastic/discussions)
+  - [Meshtastic](https://github.com/orgs/meshtastic/discussions)
+  - [docs](https://github.com/meshtastic/docs/tree/master)
 - [pdxlocationst](https://github.com/pdxlocations) 
 - Github Meshtastic [search](https://github.com/search?q=%2FMeshtastic&type=repositories) 536 results
+- Github LoRa [search](https://github.com/search?q=LoRa&type=repositories) 19.7k results
 
 ### Discussion Forum
 - [pdxlocationst](https://meshtastic.discourse.group/) 
