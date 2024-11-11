@@ -1075,11 +1075,11 @@ When switching radios
 ## 13. SX1262 LoRa Transceiver 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
 
-The **SX1262** is a high-performance **LoRa (Long Range) transceiver** developed by **Semtech**. It is part of the SX126x family of LoRa transceivers and is designed to provide reliable long-range, low-power wireless communication for a variety of applications, particularly in the **Internet of Things (IoT)** domain. Here’s a detailed overview of the **SX1262**:
+The **SX1262** is a high-performance **LoRa (Long Range) transceiver** developed by [**Semtech**](https://www.semtech.com/). It is part of the SX126x family of LoRa transceivers and is designed to provide reliable long-range, low-power wireless communication for a variety of applications, particularly in the **Internet of Things (IoT)** domain. Here’s a detailed overview of the **SX1262**:
 
 - [SX1262](https://www.semtech.com/products/wireless-rf/lora-connect/sx1262#overview)
 - [Datasheets and Documentation](https://www.semtech.com/products/wireless-rf/lora-connect/sx1262#documentation)
-- [LoRa (PHHY)](https://www.semtech.com/lora/what-is-lora)
+- [LoRa (PHY)](https://www.semtech.com/lora/what-is-lora)
 
 
 ### Key Features:
