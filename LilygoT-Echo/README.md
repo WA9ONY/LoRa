@@ -104,33 +104,35 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 
 ## 1aa. Meshtastic Ecosystem
 
-### Meshtastic Discord Groups
+### Discord Groups
 - [PDX Meshtastic](https://discord.com/channels/1222229172991168522/1222229173796343990)
 - [Willamette Valley Meshtastic](https://discord.com/channels/1274456125701361715/1274456126263656543)
 - [Meshtastic](https://discord.com/channels/867578229534359593/871540428510474302)
   - Monday night hangout net at 8:30 pm Salem, OR time
 - [Seeed meshtastic](https://discord.com/channels/862602258452578314/1270911185683877888)
 
-### Meshtastic Reddit Group
+### Reddit Group
 - [r/meshtastic](https://www.reddit.com/r/meshtastic/)
 - [r/Lora](https://www.reddit.com/r/Lora/)
 
-### Meshtastic Facebook Group
+### Facebook Group
 - [Meshtastic(PNW) Pacific Northern West](https://www.facebook.com/groups/1458021825068046/) 462 members
 - [Meshtastic](https://www.facebook.com/groups/730536684339042/) 11 K members
 - [Meshtastic](https://www.facebook.com/groups/meshtasticusa) 6.5K members
 
-### Meshtastic Github
+### Github
+- [Meshtastic](https://github.com/meshtastic)
+- [Meshtastic](https://github.com/orgs/meshtastic/discussions)
 - [pdxlocationst](https://github.com/pdxlocations) 
 - Github Meshtastic [search](https://github.com/search?q=%2FMeshtastic&type=repositories) 536 results
 
-### Meshtastic Discussion Forum
+### Discussion Forum
 - [pdxlocationst](https://meshtastic.discourse.group/) 
 
-### Meshtastic Map
+### Map
 - [Willamette Valley Meshtastic Map](https://discord.com/channels/1274456125701361715/1274456547946266724) 
 
-### Meshtastic Net
+### Net
 - [WA7ABU repeater](https://wa7abu.com/) 145.290 Sale, OR
   - Monday 8:30 pm
 
@@ -1363,3 +1365,5 @@ Given that:
 2. Based on similar designs, this type of small, helical 915 MHz antenna generally has a gain around **1-2 dBi**.
 
 **The estimated gain of the Lilygo T-Echo 915 MHz helical antenna is approximately 1-2 dBi.** This is a practical estimate based on typical designs for such short helical antennas.
+
+[Meshtastic Antenna Reports](https://github.com/meshtastic/antenna-reports?tab=readme-ov-file)
