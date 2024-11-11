@@ -1336,6 +1336,9 @@ The **BME280** is a versatile, high-performance sensor that can measure **temper
 <p align="center">
        <img width="640" height="480" src="/LilygoT-Echo/Images/TEchoAntrot.png">
 </p>
+<p align="center">
+ Lilygo T-Echo cut open to show its 2cm long antenna.
+</p>
 
 
 <img align=right width="49" height="48" src="/Images/OpenAI_Icon.png">
