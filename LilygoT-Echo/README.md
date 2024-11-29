@@ -150,6 +150,9 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 ### [Meshtastic](https://lora-alliance.org/)
 - [About Meshtastic](https://meshtastic.org/docs/about/)
 
+### Downloads
+- [Meshtastic](https://meshtastic.org/downloads/)
+
 
 <A NAME="S1a"></A>
 <HR>
