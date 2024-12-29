@@ -339,7 +339,11 @@ david@raspberrypi5:~ $
 
 ```
 
+<HR>
 
+# Meshtastic CLI Command Version
+
+The following CLI command provides information about the meshtastic CLI command version.
 
 ```bash
 david@raspberrypi5:~ $ meshtastic --version
