@@ -7,7 +7,11 @@
 </P>  
 
 <p align="center">
-       <img width="896" height="512" src="/Meshtastic_CLI/Images/RPiCLImeshtastic.png">
+<img width="896" height="512" src="/Meshtastic_CLI/Images/RPiCLImeshtastic.png">
+</p>
+
+<p align="center">
+Above is a place holder image by ChatGPT 4o until a real photo is available.
 </p>
 
 # LoRa Meshtastic CLI Control of the T-Echo
