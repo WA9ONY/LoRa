@@ -369,8 +369,6 @@ david@raspberrypi5:~ $
 
 ```
 
-```
-
 <HR>
 
 # Meshtastic CLI Send Text Message
