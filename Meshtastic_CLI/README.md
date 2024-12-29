@@ -18,9 +18,10 @@ Above is a place holder image by ChatGPT 4o until a real photo is available.
 
 This page provides information on controlling the Lilygo T-Echo LoRa Meshtastic radio with a Raspberry Pi computer using the Linux terminal CLI (Command Line Interface) and the USB connection between the radio and computer.
 
+
 <HR>
 
-Introduction to the [LoRa](https://en.wikipedia.org/wiki/LoRa) 
+# Introduction to the [LoRa](https://en.wikipedia.org/wiki/LoRa) 
 [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic)  
 [CLI](https://en.wikipedia.org/wiki/Command-line_interface) Tool
 
@@ -28,14 +29,13 @@ The LoRa Meshtastic CLI tool is a powerful command-line interface designed to co
 
 The CLI tool allows users to access and control the Meshtastic device's functionalities without relying on graphical interfaces. This flexibility is ideal for developers, tinkerers, and advanced users who need to script, automate, or perform detailed customizations.
 
-Why Use the Meshtastic CLI Tool?
 The Meshtastic CLI tool is essential for:
 
-Configuration: Customize device settings such as channel parameters, power levels, and region-specific options.
-Network Management: Monitor network traffic, view connected nodes, and troubleshoot issues.
-Scripting and Automation: Automate tasks like firmware updates, mass configuration, or logging.
-Debugging: Access detailed logs and device information for diagnosing network problems.
-Advanced Features: Explore and enable experimental or less frequently used features.
++ Configuration: Customize device settings such as channel parameters, power levels, and region-specific options.
++ Network Management: Monitor network traffic, view connected nodes, and troubleshoot issues.
++ Scripting and Automation: Automate tasks like firmware updates, mass configuration, or logging.
++ Debugging: Access detailed logs and device information for diagnosing network problems.
++ Advanced Features: Explore and enable experimental or less frequently used features.
 
 
 <HR>
