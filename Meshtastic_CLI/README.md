@@ -403,6 +403,5 @@ Metadata: { "firmwareVersion": "2.5.15.79da236", "deviceStateVersion": 23, "canS
 
 
 ```
-[View Info File](https://raw.githubusercontent.com/WA9ONY/LoRa/blob/main/Meshtastic_CLI//Text/info.txt)
+[View Info File](https://raw.githubusercontent.com/WA9ONY/LoRa/blob/main/Meshtastic_CLI/Text/info.txt)
 
-https://github.com/WA9ONY/LoRa/blob/main/Meshtastic_CLI/README.md
