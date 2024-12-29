@@ -16,7 +16,7 @@ Above is a place holder image by ChatGPT 4o until a real photo is available.
 
 # LoRa Meshtastic CLI Control of the T-Echo
 
-This page provides information on controlling the Lilygo T-Echo LoRa Meshtastic radio with a Raspberry Pi computer using the Linux terminal CLI (Command Line Interface) the USB connection between the radio and computer.
+This page provides information on controlling the Lilygo T-Echo LoRa Meshtastic radio with a Raspberry Pi computer using the Linux terminal CLI (Command Line Interface) and the USB connection between the radio and computer.
 
 <HR>
 
