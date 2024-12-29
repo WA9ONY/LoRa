@@ -369,4 +369,22 @@ david@raspberrypi5:~ $
 
 ```
 
+```
+
+<HR>
+
+# Meshtastic CLI Send Text Message
+
+The following CLI command sends a text message.
+
+The Lilygo T-Echo is ttyACM0
+
+```bash
+david@raspberrypi5:~ $ meshtastic --port /dev/ttyACM0 --sendtext "Hello from Raspberry Pi 5!"
+Connected to radio
+Sending text message Hello from Raspberry Pi 5! to ^all on channelIndex:0
+david@raspberrypi5:~ $ 
+
+```
+
 
