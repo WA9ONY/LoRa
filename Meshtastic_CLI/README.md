@@ -20,7 +20,7 @@
 + [K7OLI](https://www.qrz.com/db/K7OLI) Rogene
 
 
-```markdown
+The following command provides information about the Raspberry Pi computer.
 ```bash
 
 david@raspberrypi5:~ $ neofetch
