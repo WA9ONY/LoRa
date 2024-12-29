@@ -7,7 +7,7 @@
 </P>  
 
 <p align="center">
-       <img width="319" height="179" src="/Meshtastic/Images/Meshtastic.png">
+       <img width="896" height="512" src="/Meshtastic_CLI/Images/RPiCLImeshtastic.png">
 </p>
 
 # LoRa Meshtastic CLI
