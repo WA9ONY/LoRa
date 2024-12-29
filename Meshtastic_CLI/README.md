@@ -21,9 +21,7 @@ This page provides information on controlling the Lilygo T-Echo LoRa Meshtastic 
 
 <HR>
 
-# Introduction to the [LoRa](https://en.wikipedia.org/wiki/LoRa) 
-[Meshtastic](https://en.wikipedia.org/wiki/Meshtastic)  
-[CLI](https://en.wikipedia.org/wiki/Command-line_interface) Tool
+# Introduction to the [LoRa](https://en.wikipedia.org/wiki/LoRa) [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) [CLI](https://en.wikipedia.org/wiki/Command-line_interface) Tool
 
 The LoRa Meshtastic CLI tool is a powerful command-line interface designed to configure, monitor, and interact with Meshtastic devices. Meshtastic is an open-source project that leverages LoRa (Long Range) communication technology to create low-power, long-distance mesh networks, which are particularly useful for scenarios where conventional connectivity (Wi-Fi, cellular) is unavailable or unreliable.
 
