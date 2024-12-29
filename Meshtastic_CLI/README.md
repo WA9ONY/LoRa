@@ -19,8 +19,11 @@
 + [K1RKS](https://www.qrz.com/db/K1RKS) Kirk
 + [K7OLI](https://www.qrz.com/db/K7OLI) Rogene
 
+<HR>
 
-The following command provides information about the Raspberry Pi computer.
+# Raspberry Pi Computer
+
+The following CLI command provides information about the Raspberry Pi computer.
 ```bash
 
 david@raspberrypi5:~ $ neofetch
@@ -46,4 +49,6 @@ david@raspberrypi5:~ $ neofetch
 
 
 david@raspberrypi5:~ $ 
----
+```
+
+
