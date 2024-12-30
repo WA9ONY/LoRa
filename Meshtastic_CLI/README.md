@@ -400,4 +400,89 @@ Connected to radio
 ```
 [View Info](https://github.com/WA9ONY/LoRa/blob/main/Meshtastic_CLI/Text/info.txt)
 
+<HR>
 
+# Meshtastic CLI Info Message
+
+
+```bash
+david@raspberrypi5:~ $ sudo apt update
+Hit:1 http://deb.debian.org/debian bookworm InRelease
+Hit:2 http://deb.debian.org/debian-security bookworm-security InRelease
+Hit:3 http://deb.debian.org/debian bookworm-updates InRelease
+Hit:4 http://archive.raspberrypi.com/debian bookworm InRelease  
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+1 package can be upgraded. Run 'apt list --upgradable' to see it.
+david@raspberrypi5:~ $ sudo apt install python3-venv python3-pip
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+python3-venv is already the newest version (3.11.2-1+b1).
+python3-pip is already the newest version (23.0.1+dfsg-1+rpt1).
+The following package was automatically installed and is no longer required:
+  libwlroots12
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 1 not upgraded.
+david@raspberrypi5:~ $ python3 -m venv ~/meshtastic-env
+david@raspberrypi5:~ $ source ~/meshtastic-env/bin/activate
+(meshtastic-env) david@raspberrypi5:~ $ pip install --upgrade pip
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Requirement already satisfied: pip in ./meshtastic-env/lib/python3.11/site-packages (23.0.1)
+Collecting pip
+  Downloading https://www.piwheels.org/simple/pip/pip-24.3.1-py3-none-any.whl (1.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 1.6 MB/s eta 0:00:00
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 23.0.1
+    Uninstalling pip-23.0.1:
+      Successfully uninstalled pip-23.0.1
+Successfully installed pip-24.3.1
+(meshtastic-env) david@raspberrypi5:~ $ pip install --upgrade meshtastic
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Collecting meshtastic
+  Downloading https://www.piwheels.org/simple/meshtastic/meshtastic-2.5.9-py3-none-any.whl (299 kB)
+Collecting bleak<0.23.0,>=0.22.3 (from meshtastic)
+  Downloading https://www.piwheels.org/simple/bleak/bleak-0.22.3-py3-none-any.whl (142 kB)
+Collecting packaging<25.0,>=24.0 (from meshtastic)
+  Downloading https://www.piwheels.org/simple/packaging/packaging-24.2-py3-none-any.whl (65 kB)
+Collecting protobuf>=4.21.12 (from meshtastic)
+  Downloading protobuf-5.29.2-cp38-abi3-manylinux2014_aarch64.whl.metadata (592 bytes)
+Collecting pypubsub<5.0.0,>=4.0.3 (from meshtastic)
+  Downloading Pypubsub-4.0.3-py3-none-any.whl.metadata (2.2 kB)
+Collecting pyserial<4.0,>=3.5 (from meshtastic)
+  Downloading https://www.piwheels.org/simple/pyserial/pyserial-3.5-py2.py3-none-any.whl (90 kB)
+Collecting pyyaml<7.0.0,>=6.0.1 (from meshtastic)
+  Downloading PyYAML-6.0.2-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl.metadata (2.1 kB)
+Collecting requests<3.0.0,>=2.31.0 (from meshtastic)
+  Downloading https://www.piwheels.org/simple/requests/requests-2.32.3-py3-none-any.whl (64 kB)
+Collecting tabulate<0.10.0,>=0.9.0 (from meshtastic)
+  Downloading https://www.piwheels.org/simple/tabulate/tabulate-0.9.0-py3-none-any.whl (35 kB)
+Collecting dbus-fast<3,>=1.83.0 (from bleak<0.23.0,>=0.22.3->meshtastic)
+  Downloading dbus_fast-2.24.4-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl.metadata (10 kB)
+Collecting typing-extensions>=4.7.0 (from bleak<0.23.0,>=0.22.3->meshtastic)
+  Downloading https://www.piwheels.org/simple/typing-extensions/typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Collecting charset-normalizer<4,>=2 (from requests<3.0.0,>=2.31.0->meshtastic)
+  Downloading charset_normalizer-3.4.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl.metadata (35 kB)
+Collecting idna<4,>=2.5 (from requests<3.0.0,>=2.31.0->meshtastic)
+  Downloading https://www.piwheels.org/simple/idna/idna-3.10-py3-none-any.whl (70 kB)
+Collecting urllib3<3,>=1.21.1 (from requests<3.0.0,>=2.31.0->meshtastic)
+  Downloading https://www.piwheels.org/simple/urllib3/urllib3-2.3.0-py3-none-any.whl (128 kB)
+Collecting certifi>=2017.4.17 (from requests<3.0.0,>=2.31.0->meshtastic)
+  Downloading https://www.piwheels.org/simple/certifi/certifi-2024.12.14-py3-none-any.whl (164 kB)
+Downloading protobuf-5.29.2-cp38-abi3-manylinux2014_aarch64.whl (319 kB)
+Downloading Pypubsub-4.0.3-py3-none-any.whl (61 kB)
+Downloading PyYAML-6.0.2-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (736 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 736.8/736.8 kB 13.6 MB/s eta 0:00:00
+Downloading charset_normalizer-3.4.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (139 kB)
+Downloading dbus_fast-2.24.4-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl (4.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.3/4.3 MB 10.1 MB/s eta 0:00:00
+Installing collected packages: pyserial, urllib3, typing-extensions, tabulate, pyyaml, pypubsub, protobuf, packaging, idna, dbus-fast, charset-normalizer, certifi, requests, bleak, meshtastic
+Successfully installed bleak-0.22.3 certifi-2024.12.14 charset-normalizer-3.4.1 dbus-fast-2.24.4 idna-3.10 meshtastic-2.5.9 packaging-24.2 protobuf-5.29.2 pypubsub-4.0.3 pyserial-3.5 pyyaml-6.0.2 requests-2.32.3 tabulate-0.9.0 typing-extensions-4.12.2 urllib3-2.3.0
+(meshtastic-env) david@raspberrypi5:~ $ deactivate
+david@raspberrypi5:~ $ meshtastic --version
+2.5.5
+david@raspberrypi5:~ $ 
+
+```
