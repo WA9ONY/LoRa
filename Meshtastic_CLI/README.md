@@ -397,12 +397,7 @@ The Lilygo T-Echo is ttyACM0
 david@raspberrypi5:~ $ meshtastic --port /dev/ttyACM0 --info
 Connected to radio
 
-Owner: WA9ONY-10 (ON10)
-My info: { "myNodeNum": 359015253, "minAppVersion": 30200, "rebootCount": 0 }
-Metadata: { "firmwareVersion": "2.5.15.79da236", "deviceStateVersion": 23, "canShutdown": true, "hasBluetooth": true, "positionFlags": 811, "hwModel": "T_ECHO", "hasPKC": true, "hasWifi": false, "hasEthernet": false, "role": "CLIENT", "hasRemoteHardware": false }
-
-
 ```
-[View Info File](https://raw.githubusercontent.com/WA9ONY/LoRa/blob/main/Meshtastic_CLI/Text/info.txt)
+[View Info](https://github.com/WA9ONY/LoRa/blob/main/Meshtastic_CLI/Text/info.txt)
 
-https://github.com/WA9ONY/LoRa/blob/main/Meshtastic_CLI/Text/info.txt
+
