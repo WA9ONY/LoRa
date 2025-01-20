@@ -160,7 +160,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 ### Meshtastic Downloads
 - [Meshtastic](https://meshtastic.org/downloads/)
 
-+++ MeshSense Global Map
+### MeshSense Global Map
 - [Map](https://meshsense.affirmatech.com/)
 - [MeshSense](https://affirmatech.com/meshsense)
 - [FAQ](https://affirmatech.com/meshsense/faq)
