@@ -135,7 +135,6 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - GitHub Meshtastic firmare [issues](https://github.com/meshtastic/firmware/issues)
 - GitHub Meshtastic-Apple [issues](https://github.com/meshtastic/Meshtastic-Apple/issues)
 
-
 ### Discussion Forum
 - [pdxlocationst](https://meshtastic.discourse.group/) 
 
@@ -166,6 +165,9 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [MeshSense](https://affirmatech.com/meshsense)
 - [FAQ](https://affirmatech.com/meshsense/faq)
 - [GitHub](https://github.com/Affirmatech/MeshSense)
+- YouTube
+  - [Can MeshSense Enhance Your Meshtastic Experience?](https://youtu.be/uDVg51m2b5g?si=csH70HWtzGJxEiZe)
+  - [Radio On The Rocks Cafecast - What is MeshSense?](https://youtu.be/bVGBaAUSPz4?si=Qxt4LfpbhlqTKYF-)
 
 <A NAME="S1a"></A>
 <HR>
