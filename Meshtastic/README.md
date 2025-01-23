@@ -14,6 +14,12 @@
 
 <HR>
 
+[Meshtastic](https://en.wikipedia.org/wiki/Meshtastic)WA9ONY nodes on Livingston Mt. WA
++ ONY1 WA9ONY-1 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) window
++ [K1RKS](https://www.qrz.com/db/K1RKS) Kirk
++ [K7OLI](https://www.qrz.com/db/K7OLI) Rogene
+
+
 [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) 2 meter FM net on Monday evening at 8:30 PM, WA7ABU repeater 145.290 MHz
 + [NT3S](https://www.qrz.com/db/NT3S) Nick is net control.
 + [K1RKS](https://www.qrz.com/db/K1RKS) Kirk
