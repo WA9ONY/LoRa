@@ -15,10 +15,22 @@
 <HR>
 
 [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic)WA9ONY nodes on Livingston Mt. WA
-+ ONY1 WA9ONY-1 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) window
-+ [K1RKS](https://www.qrz.com/db/K1RKS) Kirk
-+ [K7OLI](https://www.qrz.com/db/K7OLI) Rogene
-
++ ONY1 WA9ONY-1 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) window node with 40cm antenna 
++ ONY2 WA9ONY-2 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) ham shack node with 40cm antenna
++ ONY3 WA9ONY-3 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) garden node with yagi 17 element pointing SW direction
++ ONY4 WA9ONY-4 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) garden node with yagi 8 element pointing SW direction
++ ONY5 WA9ONY-5 [Lilygo T-Deck Plus](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md) broken
++ ONY6 WA9ONY-6 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) attic node with 8. dBi antenna
++ ONY7 WA9ONY-7 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) attic node with yagi 12 element pointing Salem, OR direction
++ ONY8 WA9ONY-8 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) broken?
++ ONY9 WA9ONY-9 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) portable tripod node with 5 dBi antenna
++ ON10 WA9ONY-10 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) pocket node with 16.7cm antenna
++ ON11 WA9ONY-11 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) 
++ ON12 WA9ONY-12 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) 433 MHz pocket node
++ ON13 WA9ONY-13 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) 433 MHz window node
++ ON14 WA9ONY-14 [Seeed Studio SenseCAP Indicator D1L](https://www.seeedstudio.com/SenseCAP-Indicator-D1L-p-5646.html) window
++ ON15 WA9ONY-15 [Seeed Studio SenseCAP Card Tracker T1000-E for Meshtastic ](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) pocket and dog node
++ ON16 WA9ONY-16 [Lilygo T-Deck Plus](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md) pocket node
 
 [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) 2 meter FM net on Monday evening at 8:30 PM, WA7ABU repeater 145.290 MHz
 + [NT3S](https://www.qrz.com/db/NT3S) Nick is net control.
