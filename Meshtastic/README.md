@@ -19,7 +19,7 @@
 + ONY2 WA9ONY-2 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) ham shack node with GIZONT 40cm antenna
 + ONY3 WA9ONY-3 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) garden node with hamfest yagi 17 element pointing SW direction
 + ONY4 WA9ONY-4 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) garden node with hamfest yagi 8 element pointing SW direction
-+ ONY5 WA9ONY-5 [Lilygo T-Deck Plus](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md) broken
++ ONY5 WA9ONY-5 [Lilygo T-Deck Plus](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md) broken RF stopped working 6 days, keyboard stopped working 2 days later
 + ONY6 WA9ONY-6 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) attic node with [8 dBi antenna](https://www.amazon.com/dp/B0953Z1QF3?ref=ppx_yo2ov_dt_b_fed_asin_title)
 + ONY7 WA9ONY-7 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) attic node with [yagi 13 dBi 12 element](https://www.amazon.com/dp/B01FV1DD9C?ref=ppx_yo2ov_dt_b_fed_asin_title) pointing Salem, OR direction
 + ONY8 WA9ONY-8 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) broken?
