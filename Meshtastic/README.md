@@ -33,6 +33,8 @@
 + ON16 WA9ONY-16 [Lilygo T-Deck Plus](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md) pocket node
 + ON17 WA9ONY-17 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) 
 + ON18 WA9ONY-18 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) SoftRF
++ ON19 WA9ONY-19 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) SoftRF
++ ON20 WA9ONY-20 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) SoftRF
 
 
 [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) 2 meter FM net on Monday evening at 8:30 PM, WA7ABU repeater 145.290 MHz
