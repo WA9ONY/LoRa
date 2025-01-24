@@ -28,7 +28,7 @@
 + ON11 WA9ONY-11 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) Meshtastic CLI project node
 + ON12 WA9ONY-12 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) 433 MHz pocket node
 + ON13 WA9ONY-13 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) 433 MHz [GIZONT 40cm antenna](https://www.aliexpress.us/item/3256805235404897.html?spm=a2g0o.order_list.order_list_main.27.526a1802kFIYMq&gatewayAdapt=glo2usa) window node
-+ ON14 WA9ONY-14 [Seeed Studio SenseCAP Indicator D1L](https://www.seeedstudio.com/SenseCAP-Indicator-D1L-p-5646.html) window
++ ON14 WA9ONY-14 [Seeed Studio SenseCAP Indicator D1L](https://www.seeedstudio.com/SenseCAP-Indicator-D1L-p-5646.html) desk in ham shack
 + ON15 WA9ONY-15 [Seeed Studio SenseCAP Card Tracker T1000-E for Meshtastic ](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) pocket and dog node
 + ON16 WA9ONY-16 [Lilygo T-Deck Plus](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-DeckPlus/README.md) pocket node
 + ON17 WA9ONY-17 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) 
