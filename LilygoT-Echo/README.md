@@ -140,7 +140,10 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [pdxlocationst](https://meshtastic.discourse.group/) 
 
 ### Map
-- [Willamette Valley Meshtastic Map](https://discord.com/channels/1274456125701361715/1274456547946266724) 
+- [Willamette Valley Meshtastic Map](https://discord.com/channels/1274456125701361715/1274456547946266724)
+- [SCADACore](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
+- [Hey Whats That](https://www.heywhatsthat.com/)
+- [Radio Mobile](https://www.ve2dbe.com/rmonlinelogin.asp)
 
 ### Net
 - [WA7ABU repeater](https://wa7abu.com/) 145.290 Sale, OR
