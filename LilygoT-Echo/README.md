@@ -224,6 +224,10 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
   - [How do I get started? (UK)](https://www.reddit.com/r/meshtastic/comments/1g0mk0u/how_do_i_get_started_uk/)
 
 
+### Meshtastic Video
+- [Hacker's Guide to Meshtastic: Off-Grid, Encrypted LoRa Meshnets for Cheap!](https://media.ccc.de/v/38c3-hacker-s-guide-to-meshtastic-off-grid-encrypted-lora-meshnets-for-cheap#t=90)
+
+
 <A NAME="S1b"></A>
 <HR>
 
