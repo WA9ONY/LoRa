@@ -225,7 +225,7 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 
 
 ### Meshtastic Video
-- [Hacker's Guide to Meshtastic: Off-Grid, Encrypted LoRa Meshnets for Cheap!](https://media.ccc.de/v/38c3-hacker-s-guide-to-meshtastic-off-grid-encrypted-lora-meshnets-for-cheap#t=90)
+- [Hacker's Guide to Meshtastic: Off-Grid, Encrypted LoRa Meshnets for Cheap!](https://media.ccc.de/v/38c3-hacker-s-guide-to-meshtastic-off-grid-encrypted-lora-meshnets-for-cheap#t=90) by Kody Kinzie
 
 
 <A NAME="S1b"></A>
