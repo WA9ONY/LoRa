@@ -223,14 +223,17 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [r/meshtastic](https://www.reddit.com/r/meshtastic/)
   - [How do I get started? (UK)](https://www.reddit.com/r/meshtastic/comments/1g0mk0u/how_do_i_get_started_uk/)
 
-
 ### Meshtastic Video
 - [Hacker's Guide to Meshtastic: Off-Grid, Encrypted LoRa Meshnets for Cheap!](https://youtu.be/KRyLt1Ad5iI?si=O7-9FCTkJFCuwWKh)
     - [Breakout](https://retia.io/products/lora-breakout-for-usb-bluetooth-nugget)
     - [LoRa Paw](https://lora.nugget.dev/)
     - [AliExpress HopeRF RFM95W search](https://www.aliexpress.us/w/wholesale-RFM95W.html?spm=a2g0o.detail.search.0)
+      - RFM95 uses SX1276 old
     - [AliExpress HopeRF RFM69HC search](https://www.aliexpress.us/w/wholesale-HopeRF-RFM69HC.html?spm=a2g0o.detail.search.0)
-    - 
+    - Semtech SX1262 best supported by Meshtastic
+    - Meshtastic requires SPI radio modules, not UART radio modules
+    - WebSerial webapp
+
 <A NAME="S1b"></A>
 <HR>
 
