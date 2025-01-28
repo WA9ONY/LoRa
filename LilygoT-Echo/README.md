@@ -228,7 +228,9 @@ In summary, the **Lilygo T-Echo LoRa Meshtastic radio** is a versatile tool for 
 - [Hacker's Guide to Meshtastic: Off-Grid, Encrypted LoRa Meshnets for Cheap!](https://youtu.be/KRyLt1Ad5iI?si=O7-9FCTkJFCuwWKh)
     - [Breakout](https://retia.io/products/lora-breakout-for-usb-bluetooth-nugget)
     - [LoRa Paw](https://lora.nugget.dev/)
-
+    - [AliExpress HopeRF RFM95W search](https://www.aliexpress.us/w/wholesale-RFM95W.html?spm=a2g0o.detail.search.0)
+    - [AliExpress HopeRF RFM69HC search](https://www.aliexpress.us/w/wholesale-HopeRF-RFM69HC.html?spm=a2g0o.detail.search.0)
+    - 
 <A NAME="S1b"></A>
 <HR>
 
