@@ -35,7 +35,7 @@
 + ON18 WA9ONY-18 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) SoftRF
 + ON19 WA9ONY-19 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) SoftRF
 + ON20 WA9ONY-20 [Lilygo T-Echo](https://github.com/WA9ONY/LoRa/blob/main/LilygoT-Echo/README.md) SoftRF
-+ ON21 WA9ONY-21 [Seeed Studio SenseCAP Card Tracker T1000-E for Meshtastic ](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) pocket node and hanging in ham shack when not used
++ ON21 WA9ONY-21, 206f [Seeed Studio SenseCAP Card Tracker T1000-E for Meshtastic ](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) pocket node and hanging in ham shack when not used
 
 
 [Meshtastic](https://en.wikipedia.org/wiki/Meshtastic) 2 meter FM net on Monday evening at 8:30 PM, WA7ABU repeater 145.290 MHz
